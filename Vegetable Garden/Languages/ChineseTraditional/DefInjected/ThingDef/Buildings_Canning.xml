@@ -3,8 +3,8 @@
 
   <CanningFactory.label>罐頭機</CanningFactory.label>
   <CanningFactory.description>罐頭機需要裝載鋼。能夠把食物加工成罐頭。</CanningFactory.description>
-  <CanningFactory_Blueprint.label>罐頭機(藍圖)</CanningFactory_Blueprint.label>
-  <CanningFactory_Frame.label>罐頭機(建造)</CanningFactory_Frame.label>
+  <CanningFactory_Blueprint.label>罐頭機（藍圖）</CanningFactory_Blueprint.label>
+  <CanningFactory_Frame.label>罐頭機（建造中）</CanningFactory_Frame.label>
 
 
 </LanguageData>

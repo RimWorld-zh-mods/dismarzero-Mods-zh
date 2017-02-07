@@ -19,8 +19,8 @@
   <Flour.label>面粉</Flour.label>
   <Flour.description>简单的面粉，用于烘焙。</Flour.description>
 
-  <RawTobacco.label>VG-菸叶</RawTobacco.label>
-  <RawTobacco.description>菸叶。不推荐直接吃，但可以做成小雪茄。</RawTobacco.description>
+  <RawTobacco.label>VG-烟叶</RawTobacco.label>
+  <RawTobacco.description>烟叶。不推荐直接吃，但可以做成小雪茄。</RawTobacco.description>
 
   <!--[Core] <Chocolate.label>chocolate</Chocolate.label>-->
   <!--[Core] <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>-->
@@ -70,26 +70,5 @@
   <VG_PileofDirt.label>土堆</VG_PileofDirt.label>
   <VG_PileofDirt.description>从挖掘点挖掘出的土壤。 用于制作肥料。</VG_PileofDirt.description>
 
-
-  <!--[Core] <Chocolate.label>chocolate</Chocolate.label>-->
-  <!--[Core] <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>-->
-  <!--[Core] <Milk.label>milk</Milk.label>-->
-  <!--[Core] <Milk.description>Milk from an animal.</Milk.description>-->
-  <!--[Core] <RawHops.label>hops</RawHops.label>-->
-  <!--[Core] <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>-->
-  <!--[Core] <Hay.label>hay</Hay.label>-->
-  <!--[Core] <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>-->
-  <!--[Core] <Kibble.label>kibble</Kibble.label>-->
-  <!--[Core] <Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>-->
-  <!-- [Core] <Chocolate.label>巧克力</Chocolate.label>-->
-  <!-- [Core] <Chocolate.description>一种美味食品，可可豆与糖和香草一起研磨制成。吃起来让人心情舒畅，但不是很营养。</Chocolate.description>-->
-  <!-- [Core] <Milk.label>奶</Milk.label>-->
-  <!-- [Core] <Milk.description>动物的乳汁。</Milk.description>-->
-  <!-- [Core] <RawHops.label>啤酒花</RawHops.label>-->
-  <!-- [Core] <RawHops.description>生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。</RawHops.description>-->
-  <!-- [Core] <Hay.label>干草</Hay.label>-->
-  <!-- [Core] <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>-->
-  <!-- [Core] <Kibble.label>粗饲料</Kibble.label>-->
-  <!-- [Core] <Kibble.description>将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。</Kibble.description>-->
 
 </LanguageData>

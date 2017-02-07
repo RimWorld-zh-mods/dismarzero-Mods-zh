@@ -3,26 +3,23 @@
 
   <!--[Core] <SunLamp.label>sun lamp</SunLamp.label>-->
   <!--[Core] <SunLamp.description>Lights an area brightly enough to grow crops.</SunLamp.description>-->
-  <!--[Core] <SunLamp_Blueprint.label>太陽燈(藍圖)</SunLamp_Blueprint.label>-->
-  <!--[Core] <SunLamp_Frame.label>太陽燈(建造)</SunLamp_Frame.label>-->
+  <!--[Core] <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>-->
+  <!--[Core] <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>-->
 
-  <SmallSunLamp.label>太陽燈(中)</SmallSunLamp.label>
+  <SmallSunLamp.label>太陽燈（中）</SmallSunLamp.label>
   <SmallSunLamp.description>將一片區域照亮到足以種植農作物。適合室內種植，代替太陽提供光源。</SmallSunLamp.description>
-  <SmallSunLamp_Blueprint.label>太陽燈（中）(藍圖)</SmallSunLamp_Blueprint.label>
-  <SmallSunLamp_Frame.label>太陽燈（中）(建造)</SmallSunLamp_Frame.label>
+  <SmallSunLamp_Blueprint.label>太陽燈（中）（藍圖）</SmallSunLamp_Blueprint.label>
+  <SmallSunLamp_Frame.label>太陽燈（中）（建造中）</SmallSunLamp_Frame.label>
 
   <MiniSunLamp.label>太陽燈（小）</MiniSunLamp.label>
   <MiniSunLamp.description>將一片區域照亮到足以種植農作物。適合室內種植，代替太陽提供光源。</MiniSunLamp.description>
-  <MiniSunLamp_Blueprint.label>太陽燈（小）(藍圖)</MiniSunLamp_Blueprint.label>
-  <MiniSunLamp_Frame.label>太陽燈（小）(建造)</MiniSunLamp_Frame.label>
+  <MiniSunLamp_Blueprint.label>太陽燈（小）（藍圖）</MiniSunLamp_Blueprint.label>
+  <MiniSunLamp_Frame.label>太陽燈（小）（建造中）</MiniSunLamp_Frame.label>
 
   <VG_DiggingSpot.label>挖土點</VG_DiggingSpot.label>
   <VG_DiggingSpot.description>用來挖掘土堆，只能放置在土壤上。</VG_DiggingSpot.description>
-  <VG_DiggingSpot_Blueprint.label>挖土點 (藍圖)</VG_DiggingSpot_Blueprint.label>
-  <VG_DiggingSpot_Frame.label>挖土點 (建造)</VG_DiggingSpot_Frame.label>
+  <VG_DiggingSpot_Blueprint.label>挖土點 （藍圖）</VG_DiggingSpot_Blueprint.label>
+  <VG_DiggingSpot_Frame.label>挖土點 （建造中）</VG_DiggingSpot_Frame.label>
 
-
-  <!--[Core] <SunLamp.label>sun lamp</SunLamp.label>-->
-  <!--[Core] <SunLamp.description>Lights an area brightly enough to grow crops.</SunLamp.description>-->
 
 </LanguageData>

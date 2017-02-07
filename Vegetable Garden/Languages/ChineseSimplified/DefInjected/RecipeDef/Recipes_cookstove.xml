@@ -66,17 +66,4 @@
   <VG_MakebulkPemmican.jobString>正在批量制作肉饼。</VG_MakebulkPemmican.jobString>
 
 
-  <!--[Core] <CookMealSimple.label>cook simple meal</CookMealSimple.label>-->
-  <!--[Core] <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>-->
-  <!--[Core] <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>-->
-  <!--[Core] <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>-->
-  <!--[Core] <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>-->
-  <!--[Core] <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>-->
-  <!--[Core] <CookMealFine.label>cook fine meal</CookMealFine.label>-->
-  <!--[Core] <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>-->
-  <!--[Core] <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>-->
-  <!--[Core] <CookMealLavish.label>cook lavish meal</CookMealLavish.label>-->
-  <!--[Core] <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>-->
-  <!--[Core] <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>-->
-
 </LanguageData>

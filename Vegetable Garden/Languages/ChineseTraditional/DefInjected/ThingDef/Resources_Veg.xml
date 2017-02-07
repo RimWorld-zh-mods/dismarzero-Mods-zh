@@ -43,11 +43,4 @@
   <PickledVeg.description>經過鹽水醃泡加工的蔬菜。</PickledVeg.description>
 
 
-  <!--[Core] <RawRice.label>rice</RawRice.label>-->
-  <!--[Core] <RawRice.description>Raw rice.</RawRice.description>-->
-  <!--[Core] <RawPotatoes.label>potatoes</RawPotatoes.label>-->
-  <!--[Core] <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>-->
-  <!--[Core] <RawCorn.label>corn</RawCorn.label>-->
-  <!--[Core] <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>-->
-
 </LanguageData>

@@ -6,10 +6,5 @@
   <VG_FluEz.ingestible.ingestCommandString>服食{0}</VG_FluEz.ingestible.ingestCommandString>
   <VG_FluEz.ingestible.ingestReportString>正在服食{0}.</VG_FluEz.ingestible.ingestReportString>
 
-  <VG_Ibuprofen.label>布洛芬</VG_Ibuprofen.label>
-  <VG_Ibuprofen.description>一種能夠止痛的藥物。需要每天服食。</VG_Ibuprofen.description>
-  <VG_Ibuprofen.ingestible.ingestCommandString>服食{0}</VG_Ibuprofen.ingestible.ingestCommandString>
-  <VG_Ibuprofen.ingestible.ingestReportString>正在服食{0}.</VG_Ibuprofen.ingestible.ingestReportString>
-
 
 </LanguageData>
