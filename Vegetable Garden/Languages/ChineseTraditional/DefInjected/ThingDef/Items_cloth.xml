@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bases -->
+
+  <RawCotton.label>棉花</RawCotton.label>
+  <RawCotton.description>棉花，可以被紡織成布或賣給商人。</RawCotton.description>
+
+  <RawFlax.label>亞麻</RawFlax.label>
+  <RawFlax.description>亞麻，可以被紡織成布或賣給商人。</RawFlax.description>
+
+  <RawDevilstrand.label>惡魔菇</RawDevilstrand.label>
+  <RawDevilstrand.description>惡魔菇。可以被編織成布或賣給商人。</RawDevilstrand.description>
+
+  <HempCloth.label>大麻布</HempCloth.label>
+  <HempCloth.description>別人拿來當煙抽的東西製成布然後穿在身上真的沒問題嗎？</HempCloth.description>
+  <HempCloth.stuffProps.stuffAdjective>大麻布</HempCloth.stuffProps.stuffAdjective>
+
+  <!--[Core] <Cloth.label>cloth</Cloth.label>-->
+  <!--[Core] <Cloth.description>Cloth woven from organic fibers.</Cloth.description>-->
+  <!--[Core] <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>-->
+
+  <!--[Core] <Synthread.label>synthread</Synthread.label>-->
+  <!--[Core] <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>-->
+  <!--[Core] <Synthread.stuffProps.stuffAdjective>synthread</Synthread.stuffProps.stuffAdjective>-->
+
+  <!--[Core] <DevilstrandCloth.label>devilstrand cloth</DevilstrandCloth.label>-->
+  <!--[Core] <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand mushrooms. Very tough, but insulates no better than cloth.</DevilstrandCloth.description>-->
+  <!--[Core] <DevilstrandCloth.stuffProps.stuffAdjective>devilstrand cloth</DevilstrandCloth.stuffProps.stuffAdjective>-->
+
+  <!--[Core] <Hyperweave.label>hyperweave</Hyperweave.label>-->
+  <!--[Core] <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>-->
+  <!--[Core] <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>-->
+
+  <Flaxcloth.label>亞麻布</Flaxcloth.label>
+  <Flaxcloth.description>用於製作衣物，柔軟、輕、強韌。</Flaxcloth.description>
+  <Flaxcloth.stuffProps.stuffAdjective>亞麻布</Flaxcloth.stuffProps.stuffAdjective>
+
+  <BleadedLeather.label>混合皮</BleadedLeather.label>
+  <BleadedLeather.description>多種不同的小塊皮革拼湊而成。</BleadedLeather.description>
+  <BleadedLeather.stuffProps.stuffAdjective>混合皮</BleadedLeather.stuffProps.stuffAdjective>
+
+
+</LanguageData>

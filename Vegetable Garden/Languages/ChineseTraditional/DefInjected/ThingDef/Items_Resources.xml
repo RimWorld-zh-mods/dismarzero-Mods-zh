@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Rawwheat.label>小麥</Rawwheat.label>
+  <Rawwheat.description>小麥是一種穀物，用於磨製成麵粉。</Rawwheat.description>
+
+  <Rawcocoa.label>可可豆</Rawcocoa.label>
+  <Rawcocoa.description>可可豆經過發酵、烘焙、研磨，最後加工成巧克力。</Rawcocoa.description>
+
+  <Rawsugarcane.label>甘蔗</Rawsugarcane.label>
+  <Rawsugarcane.description>甘蔗的桿部。可以提煉蔗糖。</Rawsugarcane.description>
+
+  <cheese.label>奶酪</cheese.label>
+  <cheese.description>一塊奶酪。</cheese.description>
+
+  <Sugar.label>蔗糖</Sugar.label>
+  <Sugar.description>從甘蔗中提煉而來，作為烘焙配料。</Sugar.description>
+
+  <Flour.label>麵粉</Flour.label>
+  <Flour.description>簡單的麵粉，用於烘焙。</Flour.description>
+
+  <RawTobacco.label>VG-菸葉</RawTobacco.label>
+  <RawTobacco.description>菸葉。不推薦直接吃，但可以做成小雪茄。</RawTobacco.description>
+
+  <!--[Core] <Chocolate.label>chocolate</Chocolate.label>-->
+  <!--[Core] <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>-->
+
+  <Cornmeal.label>玉米粉</Cornmeal.label>
+  <Cornmeal.description>簡單的玉米粉，用於烘焙。</Cornmeal.description>
+
+  <RawCoffee.label>咖啡豆</RawCoffee.label>
+  <RawCoffee.description>咖啡豆，煮一杯咖啡吧！</RawCoffee.description>
+
+  <Rawtea.label>茶葉</Rawtea.label>
+  <Rawtea.description>用來泡茶的茶葉。</Rawtea.description>
+
+  <!--[Core] <Milk.label>milk</Milk.label>-->
+  <!--[Core] <Milk.description>Milk from an animal.</Milk.description>-->
+
+  <soymilk.label>豆漿</soymilk.label>
+  <soymilk.description>又稱豆奶。</soymilk.description>
+
+  <coconutmilk.label>椰汁</coconutmilk.label>
+  <coconutmilk.description>從椰子中獲得的椰汁。</coconutmilk.description>
+
+  <!--[Core] <RawHops.label>hops</RawHops.label>-->
+  <!--[Core] <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>-->
+
+  <NeutroPetals.label>中性花</NeutroPetals.label>
+  <NeutroPetals.description>中性花的漂亮黃橙色花瓣。用於製作中性胺和藥物。</NeutroPetals.description>
+
+  <!--[Core] <Hay.label>hay</Hay.label>-->
+  <!--[Core] <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>-->
+
+
+  <!-- Kibble -->
+
+  <!--[Core] <Kibble.label>kibble</Kibble.label>-->
+  <!--[Core] <Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>-->
+
+  <Silage.label>青貯飼料</Silage.label>
+  <Silage.description>由牧草和穀物發酵而成營養豐富的動物飼料。發酵可以防止青貯飼料腐壞。</Silage.description>
+
+  <RawFertilizer.label>肥料</RawFertilizer.label>
+  <RawFertilizer.description>肥料能豐富土壤和加快植物生長速度。</RawFertilizer.description>
+
+  <VeganEgg.label>蛋（素食）</VeganEgg.label>
+  <VeganEgg.description>由豆腐、南瓜或香蕉製成的蛋狀食物，用於替代烘焙或其他料理中蛋材料。</VeganEgg.description>
+
+  <VG_PileofDirt.label>土堆</VG_PileofDirt.label>
+  <VG_PileofDirt.description>從挖掘點挖掘出的土壤。 用於製作肥料。</VG_PileofDirt.description>
+
+
+</LanguageData>

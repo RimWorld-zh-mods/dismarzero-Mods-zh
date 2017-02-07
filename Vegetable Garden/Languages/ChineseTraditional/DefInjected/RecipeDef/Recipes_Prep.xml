@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Makesoymilk.label>製作豆漿</Makesoymilk.label>
+  <Makesoymilk.description>將黃豆打成豆漿。</Makesoymilk.description>
+  <Makesoymilk.jobString>正在製作豆漿。</Makesoymilk.jobString>
+
+  <Makesoycheese.label>製作奶酪（4）</Makesoycheese.label>
+  <Makesoycheese.description>將奶或豆奶製成奶酪。</Makesoycheese.description>
+  <Makesoycheese.jobString>正在製作奶酪。</Makesoycheese.jobString>
+
+  <Maketofu.label>製作豆腐（4）</Maketofu.label>
+  <Maketofu.description>將黃豆製成豆腐。豆腐可以代替肉食或直接生吃。 \n\n製作4份。</Maketofu.description>
+  <Maketofu.jobString>正在製作豆腐。</Maketofu.jobString>
+
+  <Makebulktofu.label>批量製作豆腐（16）</Makebulktofu.label>
+  <Makebulktofu.description>運用高超的廚藝進行大批量地生產豆腐！ \n\n製作16份。</Makebulktofu.description>
+  <Makebulktofu.jobString>正在製作豆腐。</Makebulktofu.jobString>
+
+  <MakePolenta.label>拌玉米糊（4）</MakePolenta.label>
+  <MakePolenta.description>將玉米粉做成玉米糊。玉米糊可以生吃、做成其他食物、烘焙或者烤製。 \n\n製作4份。</MakePolenta.description>
+  <MakePolenta.jobString>正在拌玉米糊。</MakePolenta.jobString>
+
+  <MakebulkPolenta.label>批量拌玉米糊（16）</MakebulkPolenta.label>
+  <MakebulkPolenta.description>將玉米粉製成玉米糊。玉米糊可以生吃、做成其他食物、烘焙或者烤製。 \n\n製作16份。</MakebulkPolenta.description>
+  <MakebulkPolenta.jobString>正在拌玉米糊。</MakebulkPolenta.jobString>
+
+  <HalfCoconut.label>劈椰子</HalfCoconut.label>
+  <HalfCoconut.description>將椰子劈成兩半，將其中一半做成椰奶。 \n\n產出：5椰肉，5椰奶</HalfCoconut.description>
+  <HalfCoconut.jobString>正在劈椰子。</HalfCoconut.jobString>
+
+  <BrewCoffee.label>煮咖啡（4）</BrewCoffee.label>
+  <BrewCoffee.description>用咖啡豆煮醇厚的咖啡。</BrewCoffee.description>
+  <BrewCoffee.jobString>正在煮咖啡。</BrewCoffee.jobString>
+
+  <BulkBrewCoffee.label>批量煮咖啡（12）</BulkBrewCoffee.label>
+  <BulkBrewCoffee.description>一次煮12杯咖啡。</BulkBrewCoffee.description>
+  <BulkBrewCoffee.jobString>正在煮咖啡。</BulkBrewCoffee.jobString>
+
+  <BrewTea.label>泡茶（2）</BrewTea.label>
+  <BrewTea.description>用新鮮茶葉沖泡兩杯香濃的茶。</BrewTea.description>
+  <BrewTea.jobString>正在泡茶。</BrewTea.jobString>
+
+  <BulkBrewTea.label>批量泡茶（10）</BulkBrewTea.label>
+  <BulkBrewTea.description>用新鮮茶葉沖泡10杯香濃的茶。</BulkBrewTea.description>
+  <BulkBrewTea.jobString>正在泡茶。</BulkBrewTea.jobString>
+
+  <PickleVegetable.label>製作醃菜</PickleVegetable.label>
+  <PickleVegetable.description>把蔬菜醃泡在鹽水中，以防止腐敗。</PickleVegetable.description>
+  <PickleVegetable.jobString>正在製作醃菜。</PickleVegetable.jobString>
+
+  <PickleHighVegetable.label>製作醃菜（10）</PickleHighVegetable.label>
+  <PickleHighVegetable.description>把蔬菜醃泡在鹽水中，以防止腐敗。需要更少蔬菜。</PickleHighVegetable.description>
+  <PickleHighVegetable.jobString>正在製作醃菜。</PickleHighVegetable.jobString>
+
+  <SaltMeat.label>製作醃肉</SaltMeat.label>
+  <SaltMeat.description>把肉醃泡在鹽水中，以防止腐敗。</SaltMeat.description>
+  <SaltMeat.jobString>正在製作醃肉。</SaltMeat.jobString>
+
+  <VG_VeganEgg.label>製作蛋（素食）</VG_VeganEgg.label>
+  <VG_VeganEgg.description>由豆腐、南瓜或香蕉製成的蛋狀食物，用於替代烘焙或其他料理中蛋材料。</VG_VeganEgg.description>
+  <VG_VeganEgg.jobString>正在製作蛋（素食）。</VG_VeganEgg.jobString>
+
+
+</LanguageData>

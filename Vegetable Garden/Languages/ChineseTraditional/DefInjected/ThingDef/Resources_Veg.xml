@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++ -->
+
+  <!--[Core] <RawRice.label>rice</RawRice.label>-->
+  <!--[Core] <RawRice.description>Raw rice.</RawRice.description>-->
+
+  <!--[Core] <RawPotatoes.label>potatoes</RawPotatoes.label>-->
+  <!--[Core] <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>-->
+
+  <!--[Core] <RawCorn.label>corn</RawCorn.label>-->
+  <!--[Core] <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>-->
+
+  <Rawsnowbeet.label>雪甜菜</Rawsnowbeet.label>
+  <Rawsnowbeet.description>生的雪甜菜。</Rawsnowbeet.description>
+
+  <Raweggplant.label>茄子</Raweggplant.label>
+  <Raweggplant.description>紫色的茄子。生吃時有澀味、而且辣嘴。</Raweggplant.description>
+
+  <Rawpumpkin.label>南瓜</Rawpumpkin.label>
+  <Rawpumpkin.description>南瓜家族中的橙色大個子。萬聖節上常用來雕成南瓜頭。</Rawpumpkin.description>
+
+  <Rawsquash.label>西葫蘆</Rawsquash.label>
+  <Rawsquash.description>葫蘆科南瓜屬中的黃色品種。</Rawsquash.description>
+
+  <Rawbean.label>黃豆</Rawbean.label>
+  <Rawbean.description>黃豆在各種烹飪方式中很常見。</Rawbean.description>
+
+  <RawTomatoes.label>番茄</RawTomatoes.label>
+  <RawTomatoes.description>一種口感鮮嫩多汁的水果，用途非常廣。</RawTomatoes.description>
+
+  <RawCarrots.label>胡蘿蔔</RawCarrots.label>
+  <RawCarrots.description>一種爽口鮮脆的蔬菜。可以治療夜盲症。</RawCarrots.description>
+
+  <Rawmushroom.label>蘑菇</Rawmushroom.label>
+  <Rawmushroom.description>富含蛋白質的生蘑菇。即使生吃味道也不錯。</Rawmushroom.description>
+
+  <Rawoats.label>燕麥</Rawoats.label>
+  <Rawoats.description>作為牲畜飼料或主食的穀物。</Rawoats.description>
+
+  <PickledVeg.label>醃菜</PickledVeg.label>
+  <PickledVeg.description>經過鹽水醃泡加工的蔬菜。</PickledVeg.description>
+
+
+  <!--[Core] <RawRice.label>rice</RawRice.label>-->
+  <!--[Core] <RawRice.description>Raw rice.</RawRice.description>-->
+  <!--[Core] <RawPotatoes.label>potatoes</RawPotatoes.label>-->
+  <!--[Core] <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>-->
+  <!--[Core] <RawCorn.label>corn</RawCorn.label>-->
+  <!--[Core] <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>-->
+
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fruitdrink.label>榨果汁</Fruitdrink.label>
+  <Fruitdrink.description>將水果榨成汁。</Fruitdrink.description>
+  <Fruitdrink.jobString>正在榨果汁。</Fruitdrink.jobString>
+
+  <MakeChocolatemilk.label>製作巧克力奶</MakeChocolatemilk.label>
+  <MakeChocolatemilk.description>混合巧克力和牛奶的美味飲料。</MakeChocolatemilk.description>
+  <MakeChocolatemilk.jobString>正在製作巧克力奶。</MakeChocolatemilk.jobString>
+
+  <Makehealthdrink.label>製作健康飲料</Makehealthdrink.label>
+  <Makehealthdrink.description>將草藥和水果配成健康飲料。</Makehealthdrink.description>
+  <Makehealthdrink.jobString>正在配置健康飲料。</Makehealthdrink.jobString>
+
+  <Distillcider.label>釀造Shinzee蘋果酒</Distillcider.label>
+  <Distillcider.description>釀造Shinzee蘋果酒。</Distillcider.description>
+  <Distillcider.jobString>正在釀造Shinzee蘋果酒。</Distillcider.jobString>
+
+  <Distillrum.label>釀造REinstein朗姆酒</Distillrum.label>
+  <Distillrum.description>釀造REinstein朗姆酒。</Distillrum.description>
+  <Distillrum.jobString>正在釀造REinstein朗姆酒。</Distillrum.jobString>
+
+  <PressWine.label>釀造Ramsi葡萄酒</PressWine.label>
+  <PressWine.description>釀造Ramsi葡萄酒。</PressWine.description>
+  <PressWine.jobString>正在釀造Ramsi葡萄酒。</PressWine.jobString>
+
+  <DistillStrawberryWine.label>釀造Spoon草莓酒</DistillStrawberryWine.label>
+  <DistillStrawberryWine.description>釀造Spoon草莓酒。</DistillStrawberryWine.description>
+  <DistillStrawberryWine.jobString>正在釀造Spoon草莓酒。</DistillStrawberryWine.jobString>
+
+  <DistillSaki.label>釀造WHiZ清酒</DistillSaki.label>
+  <DistillSaki.description>釀造WHiZ清酒。</DistillSaki.description>
+  <DistillSaki.jobString>正在釀造WHiZ清酒。</DistillSaki.jobString>
+
+  <DistillVodka.label>釀造Syntria伏特加</DistillVodka.label>
+  <DistillVodka.description>釀造Syntria伏特加。</DistillVodka.description>
+  <DistillVodka.jobString>正在釀造Syntria伏特加。</DistillVodka.jobString>
+
+  <DistillTequila.label>釀造Kitty龍舌蘭酒</DistillTequila.label>
+  <DistillTequila.description>釀造Kitty龍舌蘭酒。</DistillTequila.description>
+  <DistillTequila.jobString>正在釀造Kitty龍舌蘭酒。</DistillTequila.jobString>
+
+  <DistillWhisky.label>釀造Quill18威士忌</DistillWhisky.label>
+  <DistillWhisky.description>釀造Quill18威士忌。</DistillWhisky.description>
+  <DistillWhisky.jobString>正在釀造Quill18威士忌。</DistillWhisky.jobString>
+
+
+</LanguageData>

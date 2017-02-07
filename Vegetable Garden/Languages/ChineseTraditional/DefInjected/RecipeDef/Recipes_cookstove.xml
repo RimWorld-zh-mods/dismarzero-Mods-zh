@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <CookMealSimple.label>cook simple meal</CookMealSimple.label>-->
+  <!--[Core] <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>-->
+  <!--[Core] <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>-->
+
+  <!--[Core] <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>-->
+  <!--[Core] <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>-->
+  <!--[Core] <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>-->
+
+  <!--[Core] <CookMealFine.label>cook fine meal</CookMealFine.label>-->
+  <!--[Core] <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>-->
+  <!--[Core] <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>-->
+
+  <!--[Core] <CookMealLavish.label>cook lavish meal</CookMealLavish.label>-->
+  <!--[Core] <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>-->
+  <!--[Core] <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>-->
+
+  <CookMealSimple_Bulk.label>烹調簡單的料理（4）</CookMealSimple_Bulk.label>
+  <CookMealSimple_Bulk.description>用單種材料烹調4份簡單的料理。</CookMealSimple_Bulk.description>
+  <CookMealSimple_Bulk.jobString>正在簡單的料理。</CookMealSimple_Bulk.jobString>
+
+  <CookMealFine_Bulk.label>烹調精緻的料理（4）</CookMealFine_Bulk.label>
+  <CookMealFine_Bulk.description>將生肉和素食組合，烹調4份相對複雜的食物。\n\n必須同時有肉食和素食。</CookMealFine_Bulk.description>
+  <CookMealFine_Bulk.jobString>正在烹調精緻的料理。</CookMealFine_Bulk.jobString>
+
+  <CookMealLavish_Bulk.label>烹調奢侈的料理（4）</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.description>將生肉和素食組合，烹調4份非常複雜的食物。大部分材料會被浪費。\n\n必須同時有肉食和素食。</CookMealLavish_Bulk.description>
+  <CookMealLavish_Bulk.jobString>正在烹調奢侈的料理。</CookMealLavish_Bulk.jobString>
+
+  <Stirfrymeal.label>炒菜（4）</Stirfrymeal.label>
+  <Stirfrymeal.description>用肉食和素食組合作為原料炒熟。 \n\n做4份。 \n\n食用效果：操作、血液循環。</Stirfrymeal.description>
+  <Stirfrymeal.jobString>正在炒菜。</Stirfrymeal.jobString>
+
+  <Cookstewpot.label>燉菜（8）</Cookstewpot.label>
+  <Cookstewpot.description>用肉食和素食組合作為原料緩慢燉熟。 \n\n做8份。 \n\n食用效果：意識、新陳代謝、血液過濾、血液循環。</Cookstewpot.description>
+  <Cookstewpot.jobString>正在燉菜。</Cookstewpot.jobString>
+
+  <CookGrillcheese.label>烤製芝士三明治（8）</CookGrillcheese.label>
+  <CookGrillcheese.description>兩片烤麵包夾著一片融化的奶酪。 \n\n做8份。\n\n食用效果：新陳代謝。</CookGrillcheese.description>
+  <CookGrillcheese.jobString>正在烤製芝士三明治。</CookGrillcheese.jobString>
+
+  <GrillPolenta.label>烤製玉米糊（4）</GrillPolenta.label>
+  <GrillPolenta.description>烤幾片玉米糊。 \n\n做4份。 \n\n食用效果：新陳代謝。</GrillPolenta.description>
+  <GrillPolenta.jobString>正在烤製玉米糊。</GrillPolenta.jobString>
+
+  <Cookgrilledsandwich.label>製作芝士漢堡（6）</Cookgrilledsandwich.label>
+  <Cookgrilledsandwich.description>兩片麵包夾著烤肉和一片融化的奶酪。 \n\n做6份。 \n\n食用效果：新陳代謝。</Cookgrilledsandwich.description>
+  <Cookgrilledsandwich.jobString>正在製作芝士漢堡。</Cookgrilledsandwich.jobString>
+
+  <CookTacos.label>製作墨西哥玉米捲餅（6）</CookTacos.label>
+  <CookTacos.description>用玉米麵餅包裹著肉和奶酪。 \n\n做6份。 \n\n食用效果：操作、新陳代謝。</CookTacos.description>
+  <CookTacos.jobString>正在製作墨西哥玉米捲餅。</CookTacos.jobString>
+
+  <CookPorridge.label>煮粥（2）</CookPorridge.label>
+  <CookPorridge.description>用穀物簡單煮出來的粥。 \n\n做2份。 \n\n食用效果：視覺、血液過濾。</CookPorridge.description>
+  <CookPorridge.jobString>正在煮粥。</CookPorridge.jobString>
+
+  <VG_MakebulkKibble.label>批量製作飼料</VG_MakebulkKibble.label>
+  <VG_MakebulkKibble.description>混和生肉和作物製成動物飼料。</VG_MakebulkKibble.description>
+  <VG_MakebulkKibble.jobString>正在批量製作飼料。</VG_MakebulkKibble.jobString>
+
+  <VG_MakebulkPemmican.label>批量製作肉餅</VG_MakebulkPemmican.label>
+  <VG_MakebulkPemmican.description>混合肉類、作物製作的乾燥加工食品，雖稱不上美味，但可以於常溫下存放一年以上。</VG_MakebulkPemmican.description>
+  <VG_MakebulkPemmican.jobString>正在批量製作肉餅。</VG_MakebulkPemmican.jobString>
+
+
+</LanguageData>

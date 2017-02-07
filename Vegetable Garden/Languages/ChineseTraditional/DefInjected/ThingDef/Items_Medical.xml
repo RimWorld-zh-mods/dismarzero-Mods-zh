@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bases -->
+
+  <aloe.label>蘆薈</aloe.label>
+  <aloe.description>一捆蘆薈葉子。</aloe.description>
+
+  <Bandagekit.label>繃帶包</Bandagekit.label>
+  <Bandagekit.description>用布製成的繃帶包。不如藥物療效好。</Bandagekit.description>
+
+  <Herbmedicine.label>簡易藥物</Herbmedicine.label>
+  <Herbmedicine.description>一包混合的草藥。醫療效果比工業化生產的藥物低。</Herbmedicine.description>
+
+  <Healthdrink.label>健康飲料</Healthdrink.label>
+  <Healthdrink.description>一種由水果和藥物製成的口服液。幫助病人恢復健康。</Healthdrink.description>
+
+
+</LanguageData>

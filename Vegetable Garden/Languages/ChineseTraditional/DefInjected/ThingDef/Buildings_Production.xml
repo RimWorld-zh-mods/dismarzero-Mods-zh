@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <FueledStove.label>fueled stove</FueledStove.label>-->
+  <!--[Core] <FueledStove.description>A simple fueled stove with an attached countertop for preparing meals.</FueledStove.description>-->
+  <!--[Core] <FueledStove_Blueprint.label>爐灶 (藍圖)</FueledStove_Blueprint.label>-->
+  <!--[Core] <FueledStove_Frame.label>爐灶 (建造)</FueledStove_Frame.label>-->
+
+  <Oven.label>烤爐</Oven.label>
+  <Oven.description>用於烘焙的石質烤爐。</Oven.description>
+  <Oven_Blueprint.label>烤爐(藍圖)</Oven_Blueprint.label>
+  <Oven_Frame.label>烤爐(建造)</Oven_Frame.label>
+
+  <!--[Core] <ElectricStove.label>electric stove</ElectricStove.label>-->
+  <!--[Core] <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>-->
+  <!--[Core] <ElectricStove_Blueprint.label>電子料理台 (藍圖)</ElectricStove_Blueprint.label>-->
+  <!--[Core] <ElectricStove_Frame.label>電子料理台 (建造)</ElectricStove_Frame.label>-->
+
+  <HandCanningstove.label>食物加工台（燃料）</HandCanningstove.label>
+  <HandCanningstove.description>用於壓榨和處理食物的手動工作台。製作簡單的物品。工作效率只有電動的40%</HandCanningstove.description>
+  <HandCanningstove_Blueprint.label>食物加工台（燃料） (藍圖)</HandCanningstove_Blueprint.label>
+  <HandCanningstove_Frame.label>食物加工台（燃料） (建造)</HandCanningstove_Frame.label>
+
+  <Canningstove.label>食物加工台（電動）</Canningstove.label>
+  <Canningstove.description>用於壓榨和處理食物的電動工作台。</Canningstove.description>
+  <Canningstove_Blueprint.label>食物加工台（電動） (藍圖)</Canningstove_Blueprint.label>
+  <Canningstove_Frame.label>食物加工台（電動） (建造)</Canningstove_Frame.label>
+
+  <FueledCandyTable.label>糖果桌（燃料）</FueledCandyTable.label>
+  <FueledCandyTable.description>製作甜美的糖果。</FueledCandyTable.description>
+  <FueledCandyTable_Blueprint.label>糖果桌（燃料） (藍圖)</FueledCandyTable_Blueprint.label>
+  <FueledCandyTable_Frame.label>糖果桌（燃料） (建造)</FueledCandyTable_Frame.label>
+
+  <CandyTable.label>糖果桌（電動）</CandyTable.label>
+  <CandyTable.description>製作甜美的糖果。</CandyTable.description>
+  <CandyTable_Blueprint.label>糖果桌（電動） (藍圖)</CandyTable_Blueprint.label>
+  <CandyTable_Frame.label>糖果桌（電動） (建造)</CandyTable_Frame.label>
+
+  <CookingTools.label>烹飪工具櫃</CookingTools.label>
+  <CookingTools.description>提高工作效率15%。需要放置在爐灶等烹飪類工作台旁。可加速周圍的所有烹飪工作台。</CookingTools.description>
+  <CookingTools_Blueprint.label>烹飪工具櫃 (藍圖)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>烹飪工具櫃 (藍圖)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>烹飪工具櫃 (建造)</CookingTools_Frame.label>
+
+  <!--[Core] <Campfire.label>campfire</Campfire.label>-->
+  <!--[Core] <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>-->
+  <!--[Core] <Campfire_Blueprint.label>篝火 (藍圖)</Campfire_Blueprint.label>-->
+  <!--[Core] <Campfire_Frame.label>篝火 (建造)</Campfire_Frame.label>-->
+
+  <Outdoorlight.label>戶外燈</Outdoorlight.label>
+  <Outdoorlight.description>可以抵御各種惡劣天氣的光源。</Outdoorlight.description>
+  <Outdoorlight_Blueprint.label>戶外燈 (藍圖)</Outdoorlight_Blueprint.label>
+  <Outdoorlight_Frame.label>戶外燈 (建造)</Outdoorlight_Frame.label>
+
+  <GrindStone.label>石磨</GrindStone.label>
+  <GrindStone.description>用於快速研磨植物原料的手動小型石磨。</GrindStone.description>
+  <GrindStone_Blueprint.label>石磨 (藍圖)</GrindStone_Blueprint.label>
+  <GrindStone_Frame.label>石磨 (建造)</GrindStone_Frame.label>
+
+  <TableLoom.label>紡織機</TableLoom.label>
+  <TableLoom.description>用於將纖維原料紡織成布匹的工作台。</TableLoom.description>
+  <TableLoom_Blueprint.label>紡織機 (藍圖)</TableLoom_Blueprint.label>
+  <TableLoom_Frame.label>紡織機 (建造)</TableLoom_Frame.label>
+
+  <!--[Core] <FueledGenerator.label>fueled generator</FueledGenerator.label>-->
+  <!--[Core] <FueledGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator.description>-->
+  <!--[Core] <FueledGenerator_Blueprint.label>燃料發電機(藍圖)</FueledGenerator_Blueprint.label>-->
+  <!--[Core] <FueledGenerator_Frame.label>燃料發電機(建造)</FueledGenerator_Frame.label>-->
+
+  <!--[Core] <FueledSmithy.label>fueled smithy</FueledSmithy.label>-->
+  <!--[Core] <FueledSmithy.description>A fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>-->
+  <!--[Core] <FueledSmithy_Blueprint.label>燃料鍛造台(藍圖)</FueledSmithy_Blueprint.label>-->
+  <!--[Core] <FueledSmithy_Frame.label>燃料鍛造台(建造)</FueledSmithy_Frame.label>-->
+
+
+</LanguageData>
