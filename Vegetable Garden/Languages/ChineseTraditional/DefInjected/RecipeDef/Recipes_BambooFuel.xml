@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MakeChemfuelFromBamboo.label>從竹子中取得化合燃料</MakeChemfuelFromBamboo.label>
-  <MakeChemfuelFromBamboo.description>通過氣化竹子取得化合燃料。</MakeChemfuelFromBamboo.description>
-  <MakeChemfuelFromBamboo.jobString>正在取得化合燃料。</MakeChemfuelFromBamboo.jobString>
+  <MakeChemfuelFromBamboo.label>從竹子中提煉化合燃料</MakeChemfuelFromBamboo.label>
+  <MakeChemfuelFromBamboo.description>通過氣化竹子提煉化合燃料。</MakeChemfuelFromBamboo.description>
+  <MakeChemfuelFromBamboo.jobString>正在提煉化合燃料。</MakeChemfuelFromBamboo.jobString>
 
 
 </LanguageData>
