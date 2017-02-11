@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SoilTilled_Blueprint.label>花園土壤（藍圖）</SoilTilled_Blueprint.label>
+  <SoilTilled_Frame.label>花園土壤（建造中）</SoilTilled_Frame.label>
+
+  <PlaceSoil_Blueprint.label>鋪設土壤（藍圖）</PlaceSoil_Blueprint.label>
+  <PlaceSoil_Frame.label>土壤（建造中）</PlaceSoil_Frame.label>
+
+  <ReclaimSoil_Blueprint.label>墾荒土壤（藍圖）</ReclaimSoil_Blueprint.label>
+  <ReclaimSoil_Frame.label>墾荒土壤（建造中）</ReclaimSoil_Frame.label>
+
+  <PlowSoil_Blueprint.label>肥沃耕地（藍圖）</PlowSoil_Blueprint.label>
+  <PlowSoil_Frame.label>肥沃耕地（建造中）</PlowSoil_Frame.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RawFertilizer.label>肥料</RawFertilizer.label>
+  <RawFertilizer.description>肥料能豐富土壤和加快植物生長速度。</RawFertilizer.description>
+
+  <VG_PileofDirt.label>土堆</VG_PileofDirt.label>
+  <VG_PileofDirt.description>從挖掘點挖掘出的土壤。 用於製作肥料。</VG_PileofDirt.description>
+
+
+</LanguageData>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Vegetable Garden Tools</name>
+  <author>dismarzero</author>
+  <url>https://ludeon.com/forums/index.php?topic=12934.0</url>
+  <targetVersion>0.16.1393</targetVersion>
+  <description>
+
+
+Vegetable Garden Tools Alpha 16
+
+This is a smaller branch mod of the Vegetable Garden. You don't need this is you have the full garden. This Mod just allows you to have all the gardening tool found in my main mod.
+
+
+Soil Reclamation -- Researches methods of :
+
+-Making Fertilier; At the Butcher Table, From bodies at the crematorium, or "growing" it in the compost box.
+
+Fertilizer is used for making soils.
+
+-Turning sand, ice, marshy soil, mud, marsh, gravel into farm-able soil. 
+-Placing soil on smoothed stone and other flooring. 
+
+Sun lamps:
+
+-Two new sizes of sunlamp added. Small and mini,
+
+Hydroponics:
+-Two new tables added. One unpower simple table. One advance table the has its own light and faster grow time.
+
+ </description>
+</ModMetaData>
+
+
+
+

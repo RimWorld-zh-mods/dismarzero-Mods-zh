@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+
+
+
+
+
+	<ThingDef ParentName="VG_ResourceBase">
+		<defName>RawFertilizer</defName>
+		<label>Fertilizer</label>
+		<description>Fertilizers enhance the soil and speed up the growth of plants.</description>
+		<graphicData>
+			<texPath>Things/Item/Fertilizer</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>1</MarketValue>
+		     <Mass>0.35</Mass>
+		</statBases>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+	</ThingDef>
+
+
+
+	<ThingDef ParentName="VG_ResourceBase">
+		<defName>VG_PileofDirt</defName>
+		<label>Pile of Dirt</label>
+		<description>Simple soil dug out of the ground at a digging spot. Used to make fertilizer.</description>
+		<graphicData>
+			<texPath>Things/Item/Soil</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>.01</MarketValue>
+		     <Mass>0.50</Mass>
+		</statBases>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+	</ThingDef>
+
+
+  </Defs>
