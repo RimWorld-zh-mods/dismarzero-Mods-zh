@@ -11,9 +11,6 @@
   <ModularPlanterbox_Blueprint.label>組合植物盆（藍圖）</ModularPlanterbox_Blueprint.label>
   <ModularPlanterbox_Frame.label>組合植物盆（建造中）</ModularPlanterbox_Frame.label>
 
-  <HydroponicsBasin_Blueprint.label>hydroponics basin (blueprint)</HydroponicsBasin_Blueprint.label>
-  <HydroponicsBasin_Frame.label>hydroponics basin (building)</HydroponicsBasin_Frame.label>
-
   <ModularHydroponicsBasin.label>組合水栽培植物盆</ModularHydroponicsBasin.label>
   <ModularHydroponicsBasin.description>將植物種在營養液中，使其快速生長。需要供電，如果電源被切斷，其中的植物將會死亡。</ModularHydroponicsBasin.description>
   <ModularHydroponicsBasin_Blueprint.label>組合水栽培植物盆（藍圖）</ModularHydroponicsBasin_Blueprint.label>
