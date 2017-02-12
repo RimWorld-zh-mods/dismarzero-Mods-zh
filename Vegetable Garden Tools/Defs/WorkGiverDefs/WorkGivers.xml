@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WorkGivers>
+
+
+  <WorkGiverDef>
+    <defName>DoBillsUseDiggingSpot</defName>
+    <label>do bills at digging spot</label>
+    <giverClass>WorkGiver_DoBill</giverClass>
+    <workType>Crafting</workType>
+    <priorityInType>120</priorityInType>
+    <fixedBillGiverDefs>
+      <li>VG_DiggingSpot</li>
+    </fixedBillGiverDefs>
+    <verb>dig</verb>
+    <gerund>digging at</gerund>
+    <requiredCapacities>
+      <li>Manipulation</li>
+    </requiredCapacities>
+    <prioritizeSustains>true</prioritizeSustains>
+  </WorkGiverDef>
+
+</WorkGivers>
+
