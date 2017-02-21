@@ -58,14 +58,4 @@
   <Whiskey_Barrel_Frame.label>Quill18威士忌酒酿酒桶（建造中）</Whiskey_Barrel_Frame.label>
 
 
-  <!--[Core] <Brewery.label>brewery</Brewery.label>-->
-  <!--[Core] <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>-->
-  <!--[Core] <Brewery_Blueprint.label>酿酒台（蓝图）</Brewery_Blueprint.label>-->
-  <!--[Core] <Brewery_Frame.label>酿酒台（建造中）</Brewery_Frame.label>-->
-  <!--[Core] <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>-->
-  <!--[Core] <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>-->
-  <!--[Core] <FermentingBarrel_Blueprint.label>酿酒桶（蓝图）</FermentingBarrel_Blueprint.label>-->
-  <!--[Core] <FermentingBarrel_Blueprint_Install.label>酿酒桶（蓝图）</FermentingBarrel_Blueprint_Install.label>-->
-  <!--[Core] <FermentingBarrel_Frame.label>酿酒桶（建造中）</FermentingBarrel_Frame.label>-->
-
 </LanguageData>

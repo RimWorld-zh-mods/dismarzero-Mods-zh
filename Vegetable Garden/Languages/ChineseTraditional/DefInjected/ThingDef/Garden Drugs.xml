@@ -4,7 +4,12 @@
   <VG_FluEz.label>流感藥物</VG_FluEz.label>
   <VG_FluEz.description>一種能夠治療流感的藥物。需要每五天服用一次。</VG_FluEz.description>
   <VG_FluEz.ingestible.ingestCommandString>服食{0}</VG_FluEz.ingestible.ingestCommandString>
-  <VG_FluEz.ingestible.ingestReportString>正在服食{0}.</VG_FluEz.ingestible.ingestReportString>
+  <VG_FluEz.ingestible.ingestReportString>正在服食{0}。</VG_FluEz.ingestible.ingestReportString>
+
+  <VG_Ibuprofen.label>布洛芬</VG_Ibuprofen.label>
+  <VG_Ibuprofen.description>一種止痛藥。每日一服。</VG_Ibuprofen.description>
+  <VG_Ibuprofen.ingestible.ingestCommandString>服食{0}</VG_Ibuprofen.ingestible.ingestCommandString>
+  <VG_Ibuprofen.ingestible.ingestReportString>正在服食{0}。</VG_Ibuprofen.ingestible.ingestReportString>
 
 
 </LanguageData>
