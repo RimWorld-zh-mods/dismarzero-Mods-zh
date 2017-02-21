@@ -1,3 +1,20 @@
+2/17/17
+- Raspberries changed
+- Digging spot now on any "soil"
+
+2/11/17
+- Lots of grammar and spelling updates. Some decriptions changed.
+- Chinese language added.
+
+
+2/5/17
+-Brewing table and barrels now built using any wood.
+-Antibiotics recipe now correct in drug lab.
+-heated lamps spelling error fixed 
+-ironwood floors corrected
+-Tanelorn added a pain killer to the game. i'm testing it in this version.At the drug lab.
+
+
 2/2/17
 -Red Maple trees added.
 

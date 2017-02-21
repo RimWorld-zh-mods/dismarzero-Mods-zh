@@ -200,9 +200,7 @@
       <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
       <canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
     </building>
-		<placeWorkers>
-			<li>VGDrinks.PlaceWorker_DiggableSoil</li>
-		</placeWorkers>
+    <terrainAffordanceNeeded>GrowSoil</terrainAffordanceNeeded>
   </ThingDef>
 
   

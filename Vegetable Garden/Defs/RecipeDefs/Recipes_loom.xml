@@ -140,7 +140,7 @@
 	<RecipeDef>
 		<defName>MakeDevilstrand</defName>
 		<label>make devilstrand cloth</label>
-		<description>Make devilstrand cloth from raw devilstrand. \n\nMakes 15 cloth.</description>
+		<description>Make devilstrand cloth from raw devilstrand. \n\nMakes 12 cloth.</description>
 		<jobString>Making devilstrand cloth.</jobString>
 		<workAmount>1500</workAmount>
 		<workSpeedStat>TailoringSpeed</workSpeedStat>

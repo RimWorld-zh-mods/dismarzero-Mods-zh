@@ -122,7 +122,7 @@
   <ResearchProjectDef>
     <defName>HeatedSunlamps</defName>
     <label>Heated Sunlamps</label>
-    <description>Allows you to build advanced sun lamps that prvode lamp and act as a small heater to grow crops.</description>
+    <description>Allows you to build advanced sun lamps that provides light and act as a heater to grow crops.</description>
     <baseCost>800</baseCost>
     <techLevel>Industrial</techLevel>
 		<prerequisites>

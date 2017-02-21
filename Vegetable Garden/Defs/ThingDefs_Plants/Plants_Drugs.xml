@@ -7,7 +7,7 @@
   <ThingDef ParentName="VG_PlantBase">
     <defName>PlantTobacco</defName>
     <label>tobacco plant</label>
-    <description>A green, leafy member of the nighshade family. Harvests quickly. Demanding to grow, but an enjoyable crop.</description>
+    <description>A green, leafy plant. Use in making cigarillos.</description>
     <statBases>
       <MaxHitPoints>85</MaxHitPoints>
       <Beauty>1</Beauty>

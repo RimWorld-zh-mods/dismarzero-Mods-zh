@@ -304,7 +304,7 @@
   <ThingDef ParentName="VG_PlantBase">
     <defName>PlantPlumeria</defName>
     <label>Plumeria</label>
-    <description>A beautiful cultivated small bushy flower in that grows in random colors.</description>
+    <description>A beautiful cultivated small bushy flower that grows in random colors.</description>
     <statBases>
       <MaxHitPoints>85</MaxHitPoints>
       <Beauty>20</Beauty>

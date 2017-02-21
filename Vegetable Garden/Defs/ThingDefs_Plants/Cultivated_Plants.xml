@@ -763,7 +763,7 @@
   <ThingDef ParentName="VG_PlantDef">
     <defName>PlantCoffee</defName>
     <label>coffee plant</label>
-    <description>A green, leafy planet yielding red cherries. These cherries contain seeds which, when ground, can be brewed into a tasty beverage.</description>
+    <description>A green, leafy plant yielding coffee beans. These beans can be brewed into a tasty beverage.</description>
     <graphicData>
       <texPath>Things/Plants/CoffeePlant</texPath>
 	 <graphicClass>Graphic_Single</graphicClass>
@@ -1063,14 +1063,14 @@
     <plant>
 			<fertilityMin>0.5</fertilityMin>
 			<fertilitySensitivity>0.5</fertilitySensitivity>
-			<growDays>3</growDays>
+			<growDays>4.5</growDays>
 			<leaflessGraphicPath>Things/Plant/Bush_Leafless</leaflessGraphicPath>
-			<harvestYield>30</harvestYield>
+			<harvestYield>10</harvestYield>
 			<harvestWork>800</harvestWork>
 			<harvestTag>Standard</harvestTag>
-			<harvestDestroys>false</harvestDestroys>
+			<harvestDestroys>true</harvestDestroys>
 			<harvestedThingDef>RawBerries</harvestedThingDef>
-			<wildCommonalityMaxFraction>3.0</wildCommonalityMaxFraction>
+			<wildCommonalityMaxFraction>1.5</wildCommonalityMaxFraction>
 			<wildClusterSizeRange>
 				<min>2</min>
 				<max>5</max>

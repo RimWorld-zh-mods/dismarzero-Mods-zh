@@ -58,7 +58,7 @@
   <RecipeDef>
 		<defName>CookSalad</defName>
 		<label>prepare two salads</label>
-		<description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</description>
+		<description>Cooks a somewhat complex meal from raw plant ingredients.</description>
 		<jobString>Preparing salad.</jobString>
 		<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>

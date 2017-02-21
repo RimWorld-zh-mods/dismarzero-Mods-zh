@@ -149,7 +149,7 @@
         <visible>false</visible>
       </li>
       <li>
-        <label>alcohol withdrawal</label>
+        <label>caffeine withdrawal</label>
         <description>Feeling shaky. Everything pisses me off. I keep thinking of drinking .</description>
         <baseMoodEffect>-15</baseMoodEffect>
       </li>

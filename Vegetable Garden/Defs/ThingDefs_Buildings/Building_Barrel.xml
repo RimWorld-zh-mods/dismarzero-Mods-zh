@@ -59,12 +59,14 @@
         <cornerBR>Damage/Corner</cornerBR>
       </damageData>
     </graphicData>
-    <constructEffect>ConstructWood</constructEffect>
     <CostList>
-      <WoodLog>120</WoodLog>
       <Steel>30</Steel>
     </CostList>
-    <AltitudeLayer>Building</AltitudeLayer>
+    <stuffCategories>
+    	 <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>120</costStuffCount>
+  <AltitudeLayer>Building</AltitudeLayer>
     <fillPercent>0.5</fillPercent>
     <useHitPoints>True</useHitPoints>
     <statBases>
@@ -117,8 +119,11 @@
     <description>A barrel for fermenting raw wort into beer.</description>
     <costList>
       <Steel>10</Steel>
-      <WoodLog>30</WoodLog>
     </costList>
+    <stuffCategories>
+     	  <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>25</costStuffCount>
 		<comps>
 			<li Class="CompProperties_TemperatureRuinable">
 				<minSafeTemperature>-1</minSafeTemperature>
@@ -129,7 +134,6 @@
     <tickerType>Rare</tickerType>
     <rotatable>true</rotatable>
     <designationCategory>VGBrewing</designationCategory>
-    <constructEffect>ConstructWood</constructEffect>
     <researchPrerequisites><li>Brewing</li></researchPrerequisites>
   </ThingDef>
 
@@ -148,10 +152,10 @@
         <statBases>
             <WorkToBuild>250</WorkToBuild>
         </statBases>
-        <constructEffect>ConstructWood</constructEffect>
-        <CostList>
-            <WoodLog>25</WoodLog>
-        </CostList>
+        <stuffCategories>
+     		 <li>Woody</li>
+        </stuffCategories>
+        <costStuffCount>25</costStuffCount>
         <useHitPoints>true</useHitPoints>
         <Size>(1,1)</Size>
         <DesignationCategory>VGBrewing</DesignationCategory>

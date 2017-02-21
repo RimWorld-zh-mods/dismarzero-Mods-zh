@@ -96,7 +96,7 @@
 <ThingDef ParentName="VG_RawFruitBase">
 		<defName>Rawpineapple</defName>
 		<label>pineapple</label>
-		<description>A sweet fruit with a tough skin that grows on a bush.</description>
+		<description>A tropical fruit having large swordlike leaves and a large, fleshy, edible, multiple fruit with a terminal tuft of leaves.</description>
 		<graphicData>
       <texPath>Things/Fruits/pineapple</texPath>
     </graphicData>
@@ -132,7 +132,7 @@
 <ThingDef ParentName="VG_RawFruitBase">
 		<defName>Rawwatermelon</defName>
 		<label>watermelon</label>
-		<description> This fruit is rich in vitamins A and C and can be eaten raw or cooked in a variety of ways.</description>
+		<description>A large, roundish or elongated fruit of a trailing vine having a hard, green rind and a sweet, juicy, usually pink or red pulp.</description>
 		<graphicData>
       <texPath>Things/Fruits/watermelon</texPath>
     </graphicData>
