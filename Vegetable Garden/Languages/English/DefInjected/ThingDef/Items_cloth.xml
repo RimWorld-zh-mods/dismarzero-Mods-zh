@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bases -->
+
+  <RawCotton.label>cotton fibre</RawCotton.label>
+  <RawCotton.description>Raw cotton. It can be spun into cloth or sold to a trader.</RawCotton.description>
+
+  <RawFlax.label>Raw flax</RawFlax.label>
+  <RawFlax.description>Raw flax. It can be spun into cloth or sold to a trader.</RawFlax.description>
+
+  <RawDevilstrand.label>Raw devilstrand</RawDevilstrand.label>
+  <RawDevilstrand.description>Raw devilstrand. It can be spun into cloth or sold to a trader.</RawDevilstrand.description>
+
+  <HempCloth.label>Hemp</HempCloth.label>
+  <HempCloth.description>Cloth woven from the stuff those guys are smoking who decided that wearing this was a good idea?.</HempCloth.description>
+  <HempCloth.stuffProps.stuffAdjective>hemp</HempCloth.stuffProps.stuffAdjective>
+
+  <Cloth.label>cloth</Cloth.label>
+  <Cloth.description>Cloth woven from organic fibers.</Cloth.description>
+  <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>
+
+  <Synthread.label>synthread</Synthread.label>
+  <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>
+  <Synthread.stuffProps.stuffAdjective>synthread</Synthread.stuffProps.stuffAdjective>
+
+  <DevilstrandCloth.label>devilstrand cloth</DevilstrandCloth.label>
+  <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand mushrooms. Very tough, but insulates no better than cloth.</DevilstrandCloth.description>
+  <DevilstrandCloth.stuffProps.stuffAdjective>devilstrand cloth</DevilstrandCloth.stuffProps.stuffAdjective>
+
+  <Hyperweave.label>hyperweave</Hyperweave.label>
+  <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>
+  <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>
+
+  <Flaxcloth.label>Linen Cloth</Flaxcloth.label>
+  <Flaxcloth.description>A fabric designed for making clothes. It is soft, light, and strong.</Flaxcloth.description>
+  <Flaxcloth.stuffProps.stuffAdjective>Linen Cloth</Flaxcloth.stuffProps.stuffAdjective>
+
+  <BleadedLeather.label>blended leather</BleadedLeather.label>
+  <BleadedLeather.description>A piece of leather made from blending small pieces of leather.</BleadedLeather.description>
+  <BleadedLeather.stuffProps.stuffAdjective>blended leather</BleadedLeather.stuffProps.stuffAdjective>
+
+
+</LanguageData>

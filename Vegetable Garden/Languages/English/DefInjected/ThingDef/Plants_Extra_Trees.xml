@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Vanilla Trees -->
+
+  <PlantTreeOak.label>oak tree</PlantTreeOak.label>
+  <PlantTreeOak.description>A strong hardwood tree. Slow-going, but its wood is very strong.</PlantTreeOak.description>
+
+  <PlantTreePoplar.label>poplar tree</PlantTreePoplar.label>
+  <PlantTreePoplar.description>A softwood tree. Grows fast, but yield little useful wood.</PlantTreePoplar.description>
+
+  <PlantTreePine.label>pine tree</PlantTreePine.label>
+  <PlantTreePine.description>A large conifer.</PlantTreePine.description>
+
+  <PlantTreeBirch.label>birch tree</PlantTreeBirch.label>
+  <PlantTreeBirch.description>A northern tree known for its thin, paper-like bark.</PlantTreeBirch.description>
+
+  <PlantTreeTeak.label>teak tree</PlantTreeTeak.label>
+  <PlantTreeTeak.description>A very strong hardwood tree, used in ancient times to build sailing ships.</PlantTreeTeak.description>
+
+  <PlantTreeCecropia.label>cecropia tree</PlantTreeCecropia.label>
+  <PlantTreeCecropia.description>One of the most common rainforest trees. Grows very fast, but yields little usable wood.</PlantTreeCecropia.description>
+
+
+  <!-- New Trees -->
+
+  <PlantTreeWeepingWillow.label>weeping willow tree</PlantTreeWeepingWillow.label>
+  <PlantTreeWeepingWillow.description>Ornamental trees that has long, thin branches the hang down.</PlantTreeWeepingWillow.description>
+
+  <PlantTreeJapaneseMaple.label>japanese maple tree</PlantTreeJapaneseMaple.label>
+  <PlantTreeJapaneseMaple.description>These beautiful trees have branches that twist and turn unpredictably and brilliant orange and red foliage that draws the eye.</PlantTreeJapaneseMaple.description>
+
+  <PlantTreeIronwood.label>ironwood tree</PlantTreeIronwood.label>
+  <PlantTreeIronwood.description>Ironwood trees got their name from the legendary strength of the wood. This is the most commonly used material for making spears and tools.</PlantTreeIronwood.description>
+
+  <PlantTreeCherryBlossom.label>cherry blossom tree</PlantTreeCherryBlossom.label>
+  <PlantTreeCherryBlossom.description>Cherry blossom trees are not just a good source of building materials, they are also one of the most beautiful trees to have in your lawn.</PlantTreeCherryBlossom.description>
+
+  <PlantTreeCamellia.label>camellia tree</PlantTreeCamellia.label>
+  <PlantTreeCamellia.description>This small ornamental tree has beautiful flowers that have been known to stay healthy even through tough winter conditions.</PlantTreeCamellia.description>
+
+  <PlantTreeAcacia.label>acacia tree</PlantTreeAcacia.label>
+  <PlantTreeAcacia.description>Acacia trees are hardy and can grow in the toughest desert environments. They don't provide much wood and they have sharp thorns too.</PlantTreeAcacia.description>
+
+  <PlantTreePalm.label>palm tree</PlantTreePalm.label>
+  <PlantTreePalm.description>Palm trees are hardy and can grow in the toughest desert environments.</PlantTreePalm.description>
+
+  <PlantTreeRedMaple.label>red maple tree</PlantTreeRedMaple.label>
+  <PlantTreeRedMaple.description>A soft wood tree. Known for it's red leaves.</PlantTreeRedMaple.description>
+
+
+</LanguageData>

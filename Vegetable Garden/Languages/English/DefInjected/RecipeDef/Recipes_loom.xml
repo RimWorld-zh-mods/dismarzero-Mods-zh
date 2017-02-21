@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeCloth.label>make cloth</MakeCloth.label>
+  <MakeCloth.description>Make cloth from raw cotton. \n\nMakes 20 cloth.</MakeCloth.description>
+  <MakeCloth.jobString>Making cloth.</MakeCloth.jobString>
+
+  <MakeLinen.label>make linen cloth</MakeLinen.label>
+  <MakeLinen.description>Make linen cloth from raw flax. \n\nMakes 10 cloth.</MakeLinen.description>
+  <MakeLinen.jobString>Making linen cloth.</MakeLinen.jobString>
+
+  <MakeHempCloth.label>make hemp cloth</MakeHempCloth.label>
+  <MakeHempCloth.description>Turn smokeleaf leaves into a hemp cloth.</MakeHempCloth.description>
+  <MakeHempCloth.jobString>Making hemp cloth.</MakeHempCloth.jobString>
+
+  <MakeSynthreadCloth.label>make ten synthread cloth</MakeSynthreadCloth.label>
+  <MakeSynthreadCloth.description>Make synthread cloth from raw cotton and fax. \n\nMakes 10 cloth.</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.jobString>Making synthread cloth.</MakeSynthreadCloth.jobString>
+
+  <MakeDevilstrand.label>make devilstrand cloth</MakeDevilstrand.label>
+  <MakeDevilstrand.description>Make devilstrand cloth from raw devilstrand. \n\nMakes 12 cloth.</MakeDevilstrand.description>
+  <MakeDevilstrand.jobString>Making devilstrand cloth.</MakeDevilstrand.jobString>
+
+  <MakeHyperweaveCloth.label>make hyperweave cloth</MakeHyperweaveCloth.label>
+  <MakeHyperweaveCloth.description>Make hyperweave cloth from mixing raw cotton, flax, and devilstrand. \n\nMakes 15 cloths.</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.jobString>Making hyperweave cloth.</MakeHyperweaveCloth.jobString>
+
+  <Makeblendedleather.label>make blended leather</Makeblendedleather.label>
+  <Makeblendedleather.description>Blend leather from smaller pieces of leather scrap. \n\nMakes 20 leather.</Makeblendedleather.description>
+  <Makeblendedleather.jobString>Blending leather.</Makeblendedleather.jobString>
+
+  <Makeblendedleatherhad.label>hand-make blended leather</Makeblendedleatherhad.label>
+  <Makeblendedleatherhad.description>Blend leather from smaller pieces of leather scrap. \n\nMakes 5 leather.</Makeblendedleatherhad.description>
+  <Makeblendedleatherhad.jobString>Blending leather.</Makeblendedleatherhad.jobString>
+
+  <SalvageApparel.label>salvage apparel</SalvageApparel.label>
+  <SalvageApparel.description>Salvage unwanted apparel into raw materials.</SalvageApparel.description>
+  <SalvageApparel.jobString>Salvaging apparel.</SalvageApparel.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bamboo.label>bamboo</Bamboo.label>
+  <Bamboo.description>fast growing grass used for construction.</Bamboo.description>
+  <Bamboo.stuffProps.stuffAdjective>bamboo</Bamboo.stuffProps.stuffAdjective>
+
+  <VG_IronWoodLog.label>Ironwood</VG_IronWoodLog.label>
+  <VG_IronWoodLog.description>Wood from ironwood trees. Useful for building structures, weapons, and even simple prosthetics. A raw stick of wood can be used as a weapon in a pinch. Very beautiful decorative material.</VG_IronWoodLog.description>
+  <VG_IronWoodLog.stuffProps.stuffAdjective>ironwood</VG_IronWoodLog.stuffProps.stuffAdjective>
+
+
+</LanguageData>

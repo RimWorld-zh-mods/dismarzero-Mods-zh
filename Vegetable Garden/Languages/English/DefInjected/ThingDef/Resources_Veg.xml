@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++ -->
+
+  <RawRice.label>rice</RawRice.label>
+  <RawRice.description>Raw rice.</RawRice.description>
+
+  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+
+  <RawCorn.label>corn</RawCorn.label>
+  <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>
+
+  <Rawsnowbeet.label>snow beet</Rawsnowbeet.label>
+  <Rawsnowbeet.description>Raw snow beet.</Rawsnowbeet.description>
+
+  <Raweggplant.label>eggplant</Raweggplant.label>
+  <Raweggplant.description>Purple variety of the eggplant. Bitten when eaten raw. </Raweggplant.description>
+
+  <Rawpumpkin.label>pumpkin</Rawpumpkin.label>
+  <Rawpumpkin.description>Large orange version of the squash plant. Often carved to ward off ghosts.</Rawpumpkin.description>
+
+  <Rawsquash.label>squash</Rawsquash.label>
+  <Rawsquash.description>Yellow variety of the squash family.  </Rawsquash.description>
+
+  <Rawbean.label>bean</Rawbean.label>
+  <Rawbean.description>Common bean cooked up in many ways.</Rawbean.description>
+
+  <RawTomatoes.label>tomatoes</RawTomatoes.label>
+  <RawTomatoes.description>A sharp-tasting fruit that has many uses.</RawTomatoes.description>
+
+  <RawCarrots.label>carrots</RawCarrots.label>
+  <RawCarrots.description>Crunchy vegetable with a refreshing taste. May help you see in the dark.</RawCarrots.description>
+
+  <Rawmushroom.label>mushroom</Rawmushroom.label>
+  <Rawmushroom.description>Raw protein-rich mushrooms. Nice to eat, even when raw.</Rawmushroom.description>
+
+  <Rawoats.label>oats</Rawoats.label>
+  <Rawoats.description>Cereal grain used for livestock feed or cooked for food.</Rawoats.description>
+
+  <PickledVeg.label>Pickled Vegetable</PickledVeg.label>
+  <PickledVeg.description>Vegetables that have been preserved in a salty brine.</PickledVeg.description>
+
+
+</LanguageData>

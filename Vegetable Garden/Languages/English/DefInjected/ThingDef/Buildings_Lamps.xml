@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SunLamp.label>sun lamp</SunLamp.label>
+  <SunLamp.description>Lights an area brightly enough to grow crops.</SunLamp.description>
+  <SunLamp_Blueprint.label>sun lamp (blueprint)</SunLamp_Blueprint.label>
+  <SunLamp_Frame.label>sun lamp (building)</SunLamp_Frame.label>
+
+  <SmallSunLamp.label>small sun lamp</SmallSunLamp.label>
+  <SmallSunLamp.description>Lights an area brightly enough to grow crops.</SmallSunLamp.description>
+  <SmallSunLamp_Blueprint.label>small sun lamp (blueprint)</SmallSunLamp_Blueprint.label>
+  <SmallSunLamp_Frame.label>small sun lamp (building)</SmallSunLamp_Frame.label>
+
+  <MiniSunLamp.label>mini sun lamp</MiniSunLamp.label>
+  <MiniSunLamp.description>Lights an area brightly enough to grow crops.</MiniSunLamp.description>
+  <MiniSunLamp_Blueprint.label>mini sun lamp (blueprint)</MiniSunLamp_Blueprint.label>
+  <MiniSunLamp_Frame.label>mini sun lamp (building)</MiniSunLamp_Frame.label>
+
+  <VG_DiggingSpot.label>digging spot</VG_DiggingSpot.label>
+  <VG_DiggingSpot.description>Place on diggable soil to digging up piles of soil.</VG_DiggingSpot.description>
+  <VG_DiggingSpot_Blueprint.label>digging spot (blueprint)</VG_DiggingSpot_Blueprint.label>
+  <VG_DiggingSpot_Frame.label>digging spot (building)</VG_DiggingSpot_Frame.label>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bases -->
+
+  <aloe.label>aloe</aloe.label>
+  <aloe.description>A bundle of aloe leaves.</aloe.description>
+
+  <Bandagekit.label>Bandage Kit</Bandagekit.label>
+  <Bandagekit.description>A pack of bandages made from cloth. Less potent than medical kits.</Bandagekit.description>
+
+  <Herbmedicine.label>basic medicine kit</Herbmedicine.label>
+  <Herbmedicine.description>A pack of mix herbs. Less potent than industrial pharmaceuticals. \n\nMade from aloe and cloth.</Herbmedicine.description>
+
+  <Healthdrink.label>antibiotics</Healthdrink.label>
+  <Healthdrink.description>A drink made from fruit and medicine to aid in recovery from sickness.</Healthdrink.description>
+
+
+</LanguageData>

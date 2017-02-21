@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FueledStove.label>fueled stove</FueledStove.label>
+  <FueledStove.description>A simple fueled stove with an attached countertop for preparing meals.</FueledStove.description>
+  <FueledStove_Blueprint.label>fueled stove (blueprint)</FueledStove_Blueprint.label>
+  <FueledStove_Frame.label>fueled stove (building)</FueledStove_Frame.label>
+
+  <Oven.label>oven</Oven.label>
+  <Oven.description>A stone oven used for baking.</Oven.description>
+  <Oven_Blueprint.label>oven (blueprint)</Oven_Blueprint.label>
+  <Oven_Frame.label>oven (building)</Oven_Frame.label>
+
+  <ElectricStove.label>electric stove</ElectricStove.label>
+  <ElectricStove.description>An electrically-powered stove with an attached countertop for preparing meals.</ElectricStove.description>
+  <ElectricStove_Blueprint.label>electric stove (blueprint)</ElectricStove_Blueprint.label>
+  <ElectricStove_Frame.label>electric stove (building)</ElectricStove_Frame.label>
+
+  <HandCanningstove.label>Fueled Food prep table</HandCanningstove.label>
+  <HandCanningstove.description>An unpowered version of the canning stove, food press, and prep table. Makes simple items. Requires 40% work to make items here.</HandCanningstove.description>
+  <HandCanningstove_Blueprint.label>Fueled Food prep table (blueprint)</HandCanningstove_Blueprint.label>
+  <HandCanningstove_Frame.label>Fueled Food prep table (building)</HandCanningstove_Frame.label>
+
+  <Canningstove.label>Food prep table</Canningstove.label>
+  <Canningstove.description>An electric canning stove, food press, and prep table.</Canningstove.description>
+  <Canningstove_Blueprint.label>Food prep table (blueprint)</Canningstove_Blueprint.label>
+  <Canningstove_Frame.label>Food prep table (building)</Canningstove_Frame.label>
+
+  <FueledCandyTable.label>Fueled Sweets Table</FueledCandyTable.label>
+  <FueledCandyTable.description>Makes sweet treates.</FueledCandyTable.description>
+  <FueledCandyTable_Blueprint.label>Fueled Sweets Table (blueprint)</FueledCandyTable_Blueprint.label>
+  <FueledCandyTable_Frame.label>Fueled Sweets Table (building)</FueledCandyTable_Frame.label>
+
+  <CandyTable.label>Sweets Table</CandyTable.label>
+  <CandyTable.description>Makes sweet treates.</CandyTable.description>
+  <CandyTable_Blueprint.label>Sweets Table (blueprint)</CandyTable_Blueprint.label>
+  <CandyTable_Frame.label>Sweets Table (building)</CandyTable_Frame.label>
+
+  <CookingTools.label>Cooking tools</CookingTools.label>
+  <CookingTools.description>Increases work speed 15%. Needs to be placed near cooking tops. Will boost the cook speed of all tables near by.</CookingTools.description>
+  <CookingTools_Blueprint.label>Cooking tools (blueprint)</CookingTools_Blueprint.label>
+  <CookingTools_Blueprint_Install.label>Cooking tools (blueprint)</CookingTools_Blueprint_Install.label>
+  <CookingTools_Frame.label>Cooking tools (building)</CookingTools_Frame.label>
+
+  <Campfire.label>campfire</Campfire.label>
+  <Campfire.description>Cooks meals and produces heat. Burns out after a few days. As with all heat sources, it must be placed indoors so it has a closed space to heat. Refuelable.</Campfire.description>
+  <Campfire_Blueprint.label>campfire (blueprint)</Campfire_Blueprint.label>
+  <Campfire_Frame.label>campfire (building)</Campfire_Frame.label>
+
+  <Outdoorlight.label>outdoor light</Outdoorlight.label>
+  <Outdoorlight.description>A light source which is weather proof.</Outdoorlight.description>
+  <Outdoorlight_Blueprint.label>outdoor light (blueprint)</Outdoorlight_Blueprint.label>
+  <Outdoorlight_Frame.label>outdoor light (building)</Outdoorlight_Frame.label>
+
+  <GrindStone.label>Milling Stone</GrindStone.label>
+  <GrindStone.description>A small muscle-powered grinding stone for quickly grinding raw plants.</GrindStone.description>
+  <GrindStone_Blueprint.label>Milling Stone (blueprint)</GrindStone_Blueprint.label>
+  <GrindStone_Frame.label>Milling Stone (building)</GrindStone_Frame.label>
+
+  <TableLoom.label>tailor's loom</TableLoom.label>
+  <TableLoom.description>A tailor's table used to spin raw materials into usable cloth.</TableLoom.description>
+  <TableLoom_Blueprint.label>tailor's loom (blueprint)</TableLoom_Blueprint.label>
+  <TableLoom_Frame.label>tailor's loom (building)</TableLoom_Frame.label>
+
+  <FueledGenerator.label>fueled generator</FueledGenerator.label>
+  <FueledGenerator.description>Produces power by consuming wood fuel. Must be fueled by hand.</FueledGenerator.description>
+  <FueledGenerator_Blueprint.label>fueled generator (blueprint)</FueledGenerator_Blueprint.label>
+  <FueledGenerator_Frame.label>fueled generator (building)</FueledGenerator_Frame.label>
+
+  <FueledSmithy.label>fueled smithy</FueledSmithy.label>
+  <FueledSmithy.description>A fueled station equipped for smithing non-mechanical weapons and tools.</FueledSmithy.description>
+  <FueledSmithy_Blueprint.label>fueled smithy (blueprint)</FueledSmithy_Blueprint.label>
+  <FueledSmithy_Frame.label>fueled smithy (building)</FueledSmithy_Frame.label>
+
+
+</LanguageData>

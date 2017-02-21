@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VG_FluEz.label>Flu Ez</VG_FluEz.label>
+  <VG_FluEz.description>A drug for blocking flu. Take every five days.</VG_FluEz.description>
+  <VG_FluEz.ingestible.ingestCommandString>Take {0}</VG_FluEz.ingestible.ingestCommandString>
+  <VG_FluEz.ingestible.ingestReportString>Taking {0}.</VG_FluEz.ingestible.ingestReportString>
+
+  <VG_Ibuprofen.label>Ibuprofen</VG_Ibuprofen.label>
+  <VG_Ibuprofen.description>A drug for blocking pain. Take every day.</VG_Ibuprofen.description>
+  <VG_Ibuprofen.ingestible.ingestCommandString>Take {0}</VG_Ibuprofen.ingestible.ingestCommandString>
+  <VG_Ibuprofen.ingestible.ingestReportString>Taking {0}.</VG_Ibuprofen.ingestible.ingestReportString>
+
+
+</LanguageData>

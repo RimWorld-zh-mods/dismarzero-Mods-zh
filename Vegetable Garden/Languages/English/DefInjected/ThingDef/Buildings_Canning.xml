@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CanningFactory.label>canning machine</CanningFactory.label>
+  <CanningFactory.description>The canning machine needs to be loaded with steel. Then you make canned meat, vegetables, and meals.</CanningFactory.description>
+  <CanningFactory_Blueprint.label>canning machine (blueprint)</CanningFactory_Blueprint.label>
+  <CanningFactory_Frame.label>canning machine (building)</CanningFactory_Frame.label>
+
+
+</LanguageData>

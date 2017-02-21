@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeSilage.label>make silage</MakeSilage.label>
+  <MakeSilage.description>Make silage from hay and raw grains.</MakeSilage.description>
+  <MakeSilage.jobString>Making silage.</MakeSilage.jobString>
+
+  <MakeFertilizer.label>make fertilizer</MakeFertilizer.label>
+  <MakeFertilizer.description>Make fertilizer from wood, bamboo, or hay and soil.</MakeFertilizer.description>
+  <MakeFertilizer.jobString>Making fertilizer.</MakeFertilizer.jobString>
+
+  <VG_DigSoil.label>dig soil</VG_DigSoil.label>
+  <VG_DigSoil.description>Dig up pile of soil. Used in making fertilizer</VG_DigSoil.description>
+  <VG_DigSoil.jobString>Digging Soil.</VG_DigSoil.jobString>
+
+
+</LanguageData>

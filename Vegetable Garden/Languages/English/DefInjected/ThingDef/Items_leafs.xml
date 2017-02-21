@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- bases -->
+
+  <RawSteelLeaf.label>steel shrooms</RawSteelLeaf.label>
+  <RawSteelLeaf.description>steel shrooms can be smelted into steel ore.</RawSteelLeaf.description>
+
+  <RawPlasteelLeaf.label>plasteel bulb chunks</RawPlasteelLeaf.label>
+  <RawPlasteelLeaf.description>plasteel bulb chunks can be smelted into plasteel ore.</RawPlasteelLeaf.description>
+
+  <RawGoldLeaf.label>gold fern leaves</RawGoldLeaf.label>
+  <RawGoldLeaf.description>gold fern leaves can be smelted into gold ore.</RawGoldLeaf.description>
+
+  <RawSilverLeaf.label>silver flower petals</RawSilverLeaf.label>
+  <RawSilverLeaf.description>silver flower petals can be smelted into silver.</RawSilverLeaf.description>
+
+  <RawUraniumLeaf.label>uranium root bulbs</RawUraniumLeaf.label>
+  <RawUraniumLeaf.description>uranium root bulbs can be smelted into uranium.</RawUraniumLeaf.description>
+
+
+</LanguageData>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VG_UnpackingSpot.label>upacking spot</VG_UnpackingSpot.label>
+  <VG_UnpackingSpot.description>A place for unpacking crates of alcohol.</VG_UnpackingSpot.description>
+  <VG_UnpackingSpot_Blueprint.label>upacking spot (blueprint)</VG_UnpackingSpot_Blueprint.label>
+  <VG_UnpackingSpot_Frame.label>upacking spot (building)</VG_UnpackingSpot_Frame.label>
+
+  <Brewery.label>brewery</Brewery.label>
+  <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
+  <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>
+  <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>
+
+  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
+  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
+  <FermentingBarrel_Blueprint.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint.label>
+  <FermentingBarrel_Blueprint_Install.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint_Install.label>
+  <FermentingBarrel_Frame.label>fermenting barrel (building)</FermentingBarrel_Frame.label>
+
+  <cider_Barrel.label>barrel of Shinzee's apple cider</cider_Barrel.label>
+  <cider_Barrel.description>A barrel of fermenting alcohol.</cider_Barrel.description>
+  <cider_Barrel_Blueprint.label>barrel of Shinzee's apple cider (blueprint)</cider_Barrel_Blueprint.label>
+  <cider_Barrel_Frame.label>barrel of Shinzee's apple cider (building)</cider_Barrel_Frame.label>
+
+  <rum_Barrel.label>barrel of REinstein's Rum</rum_Barrel.label>
+  <rum_Barrel.description>A barrel of fermenting alcohol.</rum_Barrel.description>
+  <rum_Barrel_Blueprint.label>barrel of REinstein's Rum (blueprint)</rum_Barrel_Blueprint.label>
+  <rum_Barrel_Frame.label>barrel of REinstein's Rum (building)</rum_Barrel_Frame.label>
+
+  <Wine_Barrel.label>barrel of Ramsi's wine</Wine_Barrel.label>
+  <Wine_Barrel.description>A barrel of fermenting alcohol.</Wine_Barrel.description>
+  <Wine_Barrel_Blueprint.label>barrel of Ramsi's wine (blueprint)</Wine_Barrel_Blueprint.label>
+  <Wine_Barrel_Frame.label>barrel of Ramsi's wine (building)</Wine_Barrel_Frame.label>
+
+  <strawberrywine_Barrel.label>barrel of Spoon's Berry wine</strawberrywine_Barrel.label>
+  <strawberrywine_Barrel.description>A barrel of fermenting alcohol.</strawberrywine_Barrel.description>
+  <strawberrywine_Barrel_Blueprint.label>barrel of Spoon's Berry wine (blueprint)</strawberrywine_Barrel_Blueprint.label>
+  <strawberrywine_Barrel_Frame.label>barrel of Spoon's Berry wine (building)</strawberrywine_Barrel_Frame.label>
+
+  <saki_Barrel.label>barrel of WHiZ Sake</saki_Barrel.label>
+  <saki_Barrel.description>A barrel of fermenting alcohol.</saki_Barrel.description>
+  <saki_Barrel_Blueprint.label>barrel of WHiZ Sake (blueprint)</saki_Barrel_Blueprint.label>
+  <saki_Barrel_Frame.label>barrel of WHiZ Sake (building)</saki_Barrel_Frame.label>
+
+  <vodka_Barrel.label>barrel of Syntria Vodka</vodka_Barrel.label>
+  <vodka_Barrel.description>A barrel of fermenting alcohol.</vodka_Barrel.description>
+  <vodka_Barrel_Blueprint.label>barrel of Syntria Vodka (blueprint)</vodka_Barrel_Blueprint.label>
+  <vodka_Barrel_Frame.label>barrel of Syntria Vodka (building)</vodka_Barrel_Frame.label>
+
+  <tequila_Barrel.label>barrel of Kitty's Tequila</tequila_Barrel.label>
+  <tequila_Barrel.description>A barrel of fermenting alcohol.</tequila_Barrel.description>
+  <tequila_Barrel_Blueprint.label>barrel of Kitty's Tequila (blueprint)</tequila_Barrel_Blueprint.label>
+  <tequila_Barrel_Frame.label>barrel of Kitty's Tequila (building)</tequila_Barrel_Frame.label>
+
+  <Whiskey_Barrel.label>barrel of Quill18's Whiskey</Whiskey_Barrel.label>
+  <Whiskey_Barrel.description>A barrel of fermenting alcohol.</Whiskey_Barrel.description>
+  <Whiskey_Barrel_Blueprint.label>barrel of Quill18's Whiskey (blueprint)</Whiskey_Barrel_Blueprint.label>
+  <Whiskey_Barrel_Frame.label>barrel of Quill18's Whiskey (building)</Whiskey_Barrel_Frame.label>
+
+
+</LanguageData>

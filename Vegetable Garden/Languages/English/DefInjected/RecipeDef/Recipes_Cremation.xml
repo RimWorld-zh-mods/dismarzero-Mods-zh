@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FertilizerCorpse.label>cremate into fertilizer</FertilizerCorpse.label>
+  <FertilizerCorpse.description>Cremate a corpse into fertilizer. Be default everything is set to off.</FertilizerCorpse.description>
+  <FertilizerCorpse.jobString>Cremating.</FertilizerCorpse.jobString>
+
+  <FertilizerCorpseCampfire.label>cremate into fertilizer</FertilizerCorpseCampfire.label>
+  <FertilizerCorpseCampfire.description>Cremate a corpse into fertilizer at a campfire. Much less effective then the Crematorium. And less efficient. Be default everything is set to off.</FertilizerCorpseCampfire.description>
+  <FertilizerCorpseCampfire.jobString>Cremating.</FertilizerCorpseCampfire.jobString>
+
+
+</LanguageData>

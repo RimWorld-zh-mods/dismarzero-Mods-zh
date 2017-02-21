@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Main Categories -->
+
+  <agriculture.label>agriculture I</agriculture.label>
+  <agriculture.description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks a new tier of vegetables to grow. \n\n Unlocks sowing of Eggplants, Beans, Pumpkins, Squash, Tomatoes, Red Lentils, and Mushrooms. Also unlocked research for extra flowers and trees.</agriculture.description>
+
+  <agricultureII.label>agriculture II</agricultureII.label>
+  <agricultureII.description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks a new fruits to grow. Fruit has a higher nutrition and requires less to make meals. \n\n Unlocks sowing of Pinneapples, Grapes, Cloudberries, Gooseberries, Agave, Strawberries, Blueberries, and Watermelons. </agricultureII.description>
+
+  <agricultureIII.label>agriculture III</agricultureIII.label>
+  <agricultureIII.description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks new fruit trees to grow. Fruit trees have a longer grow time but a higher yield. \n\n Unlocks sowing of Apple, Banana,Cherries, Olives, Orange, Peach, Date, and Fig trees.</agricultureIII.description>
+
+  <flowersandtrees.label>Flowers and Trees</flowersandtrees.label>
+  <flowersandtrees.description>Researches extra Flowers and Trees to plant.</flowersandtrees.description>
+
+  <resourceleafs.label>Resource Plants</resourceleafs.label>
+  <resourceleafs.description>Researches plants the absorb minerals from the ground. That can be extracted in a smelter.</resourceleafs.description>
+
+  <CookingI.label>Advanced Cooking</CookingI.label>
+  <CookingI.description>Researches methods of advanced cooking machines. \nUnlocks the electric cooking stove, Sweets table, for makes Milk based treats and candies.</CookingI.description>
+
+  <SoilReclam.label>Soil Reclamation I</SoilReclam.label>
+  <SoilReclam.description>Researches methods of making farmable soil. \n\nUnlocks placing soil on smoothed stone and other finished flooring. \n\nUnlocks Floor menus Place Soil and Garden Soil.</SoilReclam.description>
+
+  <SoilReclamII.label>Soil Reclamation II</SoilReclamII.label>
+  <SoilReclamII.description>Researches methods of turning sand, marshy soil, mud, marsh, ice, gravel into farmable soil. \n\nUnlocks Plow soil, to greatly increase crop growth. \n\nUnlocks Floor menus to Plow Soil and Reclaim Soil.</SoilReclamII.description>
+
+  <AdvancedHydroponics.label>advanced hydroponics</AdvancedHydroponics.label>
+  <AdvancedHydroponics.description>Allows you to build advanced hydroponics tables to rapidly grow crops indoors regardless of the terrain or weather outside. Tables cost more to make, require power, and provide light. And crops grow at a faster rate.</AdvancedHydroponics.description>
+
+  <HeatedSunlamps.label>Heated Sunlamps</HeatedSunlamps.label>
+  <HeatedSunlamps.description>Allows you to build advanced sun lamps that provides light and act as a heater to grow crops.</HeatedSunlamps.description>
+
+  <CanningMachine.label>Canning Tech</CanningMachine.label>
+  <CanningMachine.description>Researches methods of making a machine to can food to preserve them in metal. \n\nUnlocks the canning machine and ablity to can food and meals..</CanningMachine.description>
+
+
+</LanguageData>

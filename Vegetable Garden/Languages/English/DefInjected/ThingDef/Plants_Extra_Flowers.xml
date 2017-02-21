@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Flowers Vanilla -->
+
+  <PlantDandelion.label>dandelions</PlantDandelion.label>
+  <PlantDandelion.description>A common small flower. Though it is often considered a weed, it is pleasant to look at.</PlantDandelion.description>
+
+  <PlantRose.label>rose</PlantRose.label>
+  <PlantRose.description>A beautiful cultivated flower, symbolic of love and romance since ancient times.</PlantRose.description>
+
+  <PlantDaylily.label>daylily</PlantDaylily.label>
+  <PlantDaylily.description>A beautiful cultivated flower - great for brightening up a drab yard. Must be replanted often.</PlantDaylily.description>
+
+
+  <!-- New Flowers -->
+
+  <PlantAlliumGiganteum.label>allium giganteum</PlantAlliumGiganteum.label>
+  <PlantAlliumGiganteum.description>A beautiful cultivated flower, dark purple bulb.</PlantAlliumGiganteum.description>
+
+  <PlantAnthurium.label>anthurium</PlantAnthurium.label>
+  <PlantAnthurium.description>A beautiful cultivated red flower.</PlantAnthurium.description>
+
+  <PlantNymphHair.label>NymphHair</PlantNymphHair.label>
+  <PlantNymphHair.description>A beautiful blueish grass.</PlantNymphHair.description>
+
+  <PlantPinkRimstalk.label>PinkRimstalk</PlantPinkRimstalk.label>
+  <PlantPinkRimstalk.description>A beautiful cultivated long stemmed pink flower.</PlantPinkRimstalk.description>
+
+  <PlantPlumeria.label>Plumeria</PlantPlumeria.label>
+  <PlantPlumeria.description>A beautiful cultivated small bushy flower that grows in random colors.</PlantPlumeria.description>
+
+  <PlantSunflower.label>Sunflower</PlantSunflower.label>
+  <PlantSunflower.description>A beautiful tall growing bright yellow flower.</PlantSunflower.description>
+
+
+</LanguageData>

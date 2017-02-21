@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractRawSteelLeaf.label>smelt metal from Steel Shrooms</ExtractRawSteelLeaf.label>
+  <ExtractRawSteelLeaf.description>Use heat and strong electromagnets to separate useful metal from Steel Shrooms. \n\nMakes 4 steel from 16 shrooms.</ExtractRawSteelLeaf.description>
+  <ExtractRawSteelLeaf.jobString>Smelting metal from plants.</ExtractRawSteelLeaf.jobString>
+
+  <ExtractRawPlasteelLeaf.label>smelt metal from Plasteel Bulb Chunks</ExtractRawPlasteelLeaf.label>
+  <ExtractRawPlasteelLeaf.description>Use heat and strong electromagnets to separate useful metal from Plasteel Bulb Chunks. \n\nMakes 4 Plasteel from 16 bulbs.</ExtractRawPlasteelLeaf.description>
+  <ExtractRawPlasteelLeaf.jobString>Smelting metal from plants.</ExtractRawPlasteelLeaf.jobString>
+
+  <ExtractRawGoldLeaf.label>smelt metal from Gold Fern Leaves</ExtractRawGoldLeaf.label>
+  <ExtractRawGoldLeaf.description>Use heat and strong electromagnets to separate useful metal from Gold Fern Leaves. \n\nMakes 4 Gold from 16 leaves.</ExtractRawGoldLeaf.description>
+  <ExtractRawGoldLeaf.jobString>Smelting metal from plants.</ExtractRawGoldLeaf.jobString>
+
+  <ExtractRawSilverLeaf.label>smelt metal from Silver Flower Petals</ExtractRawSilverLeaf.label>
+  <ExtractRawSilverLeaf.description>Use heat and strong electromagnets to separate useful metal from Silver Flower Petals. \n\nMakes 4 Silver from 16 petals.</ExtractRawSilverLeaf.description>
+  <ExtractRawSilverLeaf.jobString>Smelting metal from plants.</ExtractRawSilverLeaf.jobString>
+
+  <ExtractRawUraniumLeaf.label>smelt metal from Uranium Root Bulbs</ExtractRawUraniumLeaf.label>
+  <ExtractRawUraniumLeaf.description>Use heat and strong electromagnets to separate useful metal from Uranium Root Bulbs. \n\nMakes 4 Uranium from 16 bulbs.</ExtractRawUraniumLeaf.description>
+  <ExtractRawUraniumLeaf.jobString>Smelting metal from plants.</ExtractRawUraniumLeaf.jobString>
+
+  <ExtractBulkSteelLeaf.label>bulk smelt metal from Steel Shrooms</ExtractBulkSteelLeaf.label>
+  <ExtractBulkSteelLeaf.description>Use heat and strong electromagnets to separate useful metal from Steel Shrooms. \n\nMakes 16 steel from 64 shrooms.</ExtractBulkSteelLeaf.description>
+  <ExtractBulkSteelLeaf.jobString>Smelting metal from plants.</ExtractBulkSteelLeaf.jobString>
+
+  <ExtractBulkPlasteelLeaf.label>bulk smelt metal from Plasteel Bulb Chunks</ExtractBulkPlasteelLeaf.label>
+  <ExtractBulkPlasteelLeaf.description>Use heat and strong electromagnets to separate useful metal from Plasteel Bulb Chunks. \n\nMakes 16 Plasteel from 64 bulds.</ExtractBulkPlasteelLeaf.description>
+  <ExtractBulkPlasteelLeaf.jobString>Smelting metal from plants.</ExtractBulkPlasteelLeaf.jobString>
+
+  <ExtractbulkGoldLeaf.label>bulk smelt metal from Gold Fern Leaves</ExtractbulkGoldLeaf.label>
+  <ExtractbulkGoldLeaf.description>Use heat and strong electromagnets to separate useful metal from Gold Fern Leaves. \n\nMakes 16 Gold from 64 leaves.</ExtractbulkGoldLeaf.description>
+  <ExtractbulkGoldLeaf.jobString>Smelting metal from plants.</ExtractbulkGoldLeaf.jobString>
+
+  <ExtractBulkSilverLeaf.label>bulk smelt metal from Silver Flower Petals</ExtractBulkSilverLeaf.label>
+  <ExtractBulkSilverLeaf.description>Use heat and strong electromagnets to separate useful metal from Silver Flower Petals. \n\nMakes 16 Silver from 64 petals.</ExtractBulkSilverLeaf.description>
+  <ExtractBulkSilverLeaf.jobString>Smelting metal from plants.</ExtractBulkSilverLeaf.jobString>
+
+  <ExtractBulkUraniumLeaf.label>bulk smelt metal from Uranium Root Bulbs</ExtractBulkUraniumLeaf.label>
+  <ExtractBulkUraniumLeaf.description>Use heat and strong electromagnets to separate useful metal from Uranium Root Bulbs. \n\nMakes 16 Uranium from 64 bulbs.</ExtractBulkUraniumLeaf.description>
+  <ExtractBulkUraniumLeaf.jobString>Smelting metal from plants.</ExtractBulkUraniumLeaf.jobString>
+
+
+</LanguageData>

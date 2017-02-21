@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOven.label>bake goods</DoBillsOven.label>
+  <DoBillsOven.verb>bake</DoBillsOven.verb>
+  <DoBillsOven.gerund>baking</DoBillsOven.gerund>
+
+  <DoBillsCanningstove.label>prep food</DoBillsCanningstove.label>
+  <DoBillsCanningstove.verb>canning</DoBillsCanningstove.verb>
+  <DoBillsCanningstove.gerund>canning</DoBillsCanningstove.gerund>
+
+  <DoBillsHandCanningstove.label>prep food</DoBillsHandCanningstove.label>
+  <DoBillsHandCanningstove.verb>canning</DoBillsHandCanningstove.verb>
+  <DoBillsHandCanningstove.gerund>canning</DoBillsHandCanningstove.gerund>
+
+  <DoBillsBake.label>make candy</DoBillsBake.label>
+  <DoBillsBake.verb>candymaking</DoBillsBake.verb>
+  <DoBillsBake.gerund>candymaking</DoBillsBake.gerund>
+
+  <DoBillsFcandytable.label>make candy</DoBillsFcandytable.label>
+  <DoBillsFcandytable.verb>dispense</DoBillsFcandytable.verb>
+  <DoBillsFcandytable.gerund>dispensing</DoBillsFcandytable.gerund>
+
+  <DoBillsGrindStone.label>grind bulk grains</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>mill</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>milling</DoBillsGrindStone.gerund>
+
+  <DoBillsTableLoom.label>weave at loom</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>make cloth</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>making cloth</DoBillsTableLoom.gerund>
+
+  <DoBillsUseUnpackingSpot.label>do bills at unpacking spot</DoBillsUseUnpackingSpot.label>
+  <DoBillsUseUnpackingSpot.verb>unpack</DoBillsUseUnpackingSpot.verb>
+  <DoBillsUseUnpackingSpot.gerund>unpackinging at</DoBillsUseUnpackingSpot.gerund>
+
+  <DoBillsUseDiggingSpot.label>do bills at digging spot</DoBillsUseDiggingSpot.label>
+  <DoBillsUseDiggingSpot.verb>dig</DoBillsUseDiggingSpot.verb>
+  <DoBillsUseDiggingSpot.gerund>digging</DoBillsUseDiggingSpot.gerund>
+
+  <DoBillsCanningMachine.label>can food</DoBillsCanningMachine.label>
+  <DoBillsCanningMachine.verb>canning</DoBillsCanningMachine.verb>
+  <DoBillsCanningMachine.gerund>canning</DoBillsCanningMachine.gerund>
+
+  <DoBillsUseSaltMine.label>do bills at salt mine</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>mine</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>mining</DoBillsUseSaltMine.gerund>
+
+
+</LanguageData>

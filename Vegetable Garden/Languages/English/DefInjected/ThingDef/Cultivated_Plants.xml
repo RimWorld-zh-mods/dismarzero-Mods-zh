@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New crop types -->
+
+  <PlantPotato.label>potato plant</PlantPotato.label>
+  <PlantPotato.description>A simple, highly nutritious tuber. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop.</PlantPotato.description>
+
+  <PlantCorn.label>corn plant</PlantCorn.label>
+  <PlantCorn.description>A large grain plant which produces ears of delicious yellow seeds. Takes a relatively long time to grow, but yields lots of food, takes a long time to spoil, and can be happily eaten raw. Needs fertile soil to grow well.</PlantCorn.description>
+
+  <PlantRice.label>rice plant</PlantRice.label>
+  <PlantRice.description>A low grain plant that thrives in rich soil and yields food fast, but is not nice to eat uncooked.</PlantRice.description>
+
+  <PlantSnowbeet.label>snow beet plant</PlantSnowbeet.label>
+  <PlantSnowbeet.description>A simple, highly nutritious plants. Grows well even in somewhat poor soil. Harvests quickly. A strong, versatile crop. Does not die in cold weather.</PlantSnowbeet.description>
+
+  <Planteggplant.label>eggplant plant</Planteggplant.label>
+  <Planteggplant.description>Purple variety of the eggplant. Bitter when eaten raw. </Planteggplant.description>
+
+  <Plantredlentil.label>red lentil plant</Plantredlentil.label>
+  <Plantredlentil.description>A redish variety of the lentil plant. One of the oldest know domesticated plants. </Plantredlentil.description>
+
+  <Plantpumpkin.label>pumpkin plant</Plantpumpkin.label>
+  <Plantpumpkin.description>Large orange version of the squash plant. Often carved to ward off ghosts.</Plantpumpkin.description>
+
+  <Plantsquash.label>squash plant</Plantsquash.label>
+  <Plantsquash.description>Yellow variety of the squash family.</Plantsquash.description>
+
+  <Plantbean.label>bean plant</Plantbean.label>
+  <Plantbean.description>Common bean cooked up in many ways.</Plantbean.description>
+
+  <PlantTomato.label>tomato vine</PlantTomato.label>
+  <PlantTomato.description>Distinctive red fruit that grows best in rich soil.</PlantTomato.description>
+
+  <PlantCarrot.label>carrot plant</PlantCarrot.label>
+  <PlantCarrot.description>A long orange vegetable that can be tricky to grow.</PlantCarrot.description>
+
+  <Plantmushroom.label>Mushroom Plant</Plantmushroom.label>
+  <Plantmushroom.description>This robust mushroom has been genetically engineered and cultivated to produce a filling meat substitute. </Plantmushroom.description>
+
+  <Plantoats.label>oats plant</Plantoats.label>
+  <Plantoats.description>A cereal grain.</Plantoats.description>
+
+  <Plantwheat.label>wheat plant</Plantwheat.label>
+  <Plantwheat.description>Wheat is a cereal grain, can be milled into flour.</Plantwheat.description>
+
+  <PlantHaygrass.label>haygrass</PlantHaygrass.label>
+  <PlantHaygrass.description>A mixture of nutrient-rich grasses which yield large amounts of hay. Hay is edible for animals, but not humans.</PlantHaygrass.description>
+
+  <PlantGrass.label>grass</PlantGrass.label>
+  <PlantGrass.description>Wild grass. Grows anywhere there is a little light and minimally fertile ground.</PlantGrass.description>
+
+
+  <!-- New crop types Fruit Trees -->
+
+  <PlantAppletree.label>apple tree</PlantAppletree.label>
+  <PlantAppletree.description>A fruit bearing tree that grows apples and is not destroyed when picked.</PlantAppletree.description>
+
+  <PlantBananaTree.label>banana tree</PlantBananaTree.label>
+  <PlantBananaTree.description>A fruit bearing tree that grows banana and is not destroyed when picked.</PlantBananaTree.description>
+
+  <PlantorangeTree.label>orange tree</PlantorangeTree.label>
+  <PlantorangeTree.description>A fruit bearing tree that grows oranges and is not destroyed when picked.</PlantorangeTree.description>
+
+  <PlantPeachTree.label>peach tree</PlantPeachTree.label>
+  <PlantPeachTree.description>A fruit bearing tree that grows peaches and is not destroyed when picked.</PlantPeachTree.description>
+
+  <DateTree.label>date palm tree</DateTree.label>
+  <DateTree.description>A fruit bearing tree that grows dates and is not destroyed when picked.</DateTree.description>
+
+  <FigTree.label>fig tree</FigTree.label>
+  <FigTree.description>A fruit bearing tree that grows figs and is not destroyed when picked.</FigTree.description>
+
+  <PlantCherrytree.label>cherry tree</PlantCherrytree.label>
+  <PlantCherrytree.description>A fruit bearing tree that grows cherries and is not destroyed when picked.</PlantCherrytree.description>
+
+  <PlantCoconuttree.label>coconut tree</PlantCoconuttree.label>
+  <PlantCoconuttree.description>A fruit bearing tree that grows coconuts and is not destroyed when picked.</PlantCoconuttree.description>
+
+  <PlantOlivetree.label>olive tree</PlantOlivetree.label>
+  <PlantOlivetree.description>A fruit bearing tree that grows olives and is not destroyed when picked.</PlantOlivetree.description>
+
+  <Plantpineapple.label>pineapple plant</Plantpineapple.label>
+  <Plantpineapple.description>Think skin fruit that grows a top a bush.</Plantpineapple.description>
+
+  <Plantgrape.label>grape vine</Plantgrape.label>
+  <Plantgrape.description>A sweet small fruit that grows in small viney bushes.</Plantgrape.description>
+
+  <Plantcloudberry.label>cloudberry plant</Plantcloudberry.label>
+  <Plantcloudberry.description>A berry bush that grows well in cold climates.</Plantcloudberry.description>
+
+  <Plantgooseberry.label>gooseberry plant</Plantgooseberry.label>
+  <Plantgooseberry.description>A berry bush that grows well in cold climates.</Plantgooseberry.description>
+
+  <PlantAgave.label>agave</PlantAgave.label>
+  <PlantAgave.description>A large-leafed desert plant with edible flowers and stalks.</PlantAgave.description>
+
+  <PlantStrawberry.label>strawberry plant</PlantStrawberry.label>
+  <PlantStrawberry.description>A fragile but tasty fruit. Delicious even when raw.</PlantStrawberry.description>
+
+  <Plantblueberry.label>blueberry plant</Plantblueberry.label>
+  <Plantblueberry.description>Blue colored berry that grows in bushes.</Plantblueberry.description>
+
+  <Plantwatermelon.label>watermelon plant</Plantwatermelon.label>
+  <Plantwatermelon.description>This fruit is rich in vitamins A and C and can be eaten raw or cooked in a variety of ways.</Plantwatermelon.description>
+
+  <Plantcocoa.label>cocoa plant</Plantcocoa.label>
+  <Plantcocoa.description>Cocoa beans are refined into chocolate.</Plantcocoa.description>
+
+  <Plantsugarcane.label>sugarcane plant</Plantsugarcane.label>
+  <Plantsugarcane.description>Cane plant refines into sugar.</Plantsugarcane.description>
+
+  <PlantTea.label>tea plant</PlantTea.label>
+  <PlantTea.description>A green leafy plant, who's leaves can be brewed into a tasty beverage.</PlantTea.description>
+
+  <PlantCoffee.label>coffee plant</PlantCoffee.label>
+  <PlantCoffee.description>A green, leafy plant yielding coffee beans. These beans can be brewed into a tasty beverage.</PlantCoffee.description>
+
+  <PlantHops.label>hop plant</PlantHops.label>
+  <PlantHops.description>A flowering plant that yields hops, and essential ingredient in beer.</PlantHops.description>
+
+  <Plantaloe.label>aloe plant</Plantaloe.label>
+  <Plantaloe.description>Aloe is grow for its natural healing properties.</Plantaloe.description>
+
+  <PlantHealroot.label>healroot</PlantHealroot.label>
+  <PlantHealroot.description>A slow-growing plant which yields herbal medicine when harvested.\n\nHealroot was selectively bred for centuries by settlers. It is sometimes also called "healer's hand" by tribespeople - a nickname it owes to its five major medicinal virtues.</PlantHealroot.description>
+
+  <PlantCotton.label>cotton plant</PlantCotton.label>
+  <PlantCotton.description>Yields cotton, a fine plant fiber used to make cloth.</PlantCotton.description>
+
+  <PlantDevilstrand.label>devilstrand</PlantDevilstrand.label>
+  <PlantDevilstrand.description>This fragile mushroom was genetically engineered to produce a silk net of the highest grade. Long rumored to have mystical properties, it owes its name to the greed it inspires in people.</PlantDevilstrand.description>
+
+  <PlantFlax.label>flax flower</PlantFlax.label>
+  <PlantFlax.description>A flower thats fibers are use to spin into cloth.</PlantFlax.description>
+
+  <PlantSteelLeaf.label>steel shroom tree</PlantSteelLeaf.label>
+  <PlantSteelLeaf.description>Plants with natural occurring steel in it's viens. Steel shrooms can be smelted at an Electric Smelter into steel ore.</PlantSteelLeaf.description>
+
+  <PlantPlasteelLeaf.label>plasteel bulb</PlantPlasteelLeaf.label>
+  <PlantPlasteelLeaf.description>Plants with natural occurring plasteel in it's viens. Plasteel bulbs can be smelted at an Electric Smelter into plasteel ore.</PlantPlasteelLeaf.description>
+
+  <PlantGoldLeaf.label>gold fern</PlantGoldLeaf.label>
+  <PlantGoldLeaf.description>Plants with natural occurring gold in it's viens. Gold ferns can be smelted at an Electric Smelter into gold nuggets.</PlantGoldLeaf.description>
+
+  <PlantSilverLeaf.label>silver flower</PlantSilverLeaf.label>
+  <PlantSilverLeaf.description>Plants with natural occurring silver in it's viens. Silver flowers can be smelted at an Electric Smelter into silver.</PlantSilverLeaf.description>
+
+  <PlantUraniumLeaf.label>uranium root</PlantUraniumLeaf.label>
+  <PlantUraniumLeaf.description>Plants with natural occurring Uranium in it's viens. Uranium roots can be smelted at an Electric Smelter into Uranium ore.</PlantUraniumLeaf.description>
+
+  <PlantNeutroFlower.label>Neutro Flower</PlantNeutroFlower.label>
+  <PlantNeutroFlower.description>A beautiful Yellow-Orange Flower. Used to make Neutroamine, a medicine base. </PlantNeutroFlower.description>
+
+  <Plantbamboo.label>bamboo plant</Plantbamboo.label>
+  <Plantbamboo.description>A fast growing grass.</Plantbamboo.description>
+
+  <PlantRaspberry.label>raspberry bush</PlantRaspberry.label>
+  <PlantRaspberry.description>A bushy plant which yields delicious red berries.</PlantRaspberry.description>
+
+
+</LanguageData>

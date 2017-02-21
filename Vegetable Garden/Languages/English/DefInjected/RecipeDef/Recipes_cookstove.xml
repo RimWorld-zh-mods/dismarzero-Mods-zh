@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSimple.label>cook simple meal</CookMealSimple.label>
+  <CookMealSimple.description>Cooks a straightforward meal from one ingredient.</CookMealSimple.description>
+  <CookMealSimple.jobString>Cooking simple meal.</CookMealSimple.jobString>
+
+  <CookMealSimpleCampfire.label>cook simple meal</CookMealSimpleCampfire.label>
+  <CookMealSimpleCampfire.description>Cooks a straightforward meal from one ingredient.</CookMealSimpleCampfire.description>
+  <CookMealSimpleCampfire.jobString>Cooking simple meal.</CookMealSimpleCampfire.jobString>
+
+  <CookMealFine.label>cook fine meal</CookMealFine.label>
+  <CookMealFine.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients.</CookMealFine.description>
+  <CookMealFine.jobString>Cooking fine meal.</CookMealFine.jobString>
+
+  <CookMealLavish.label>cook lavish meal</CookMealLavish.label>
+  <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>
+  <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>
+
+  <CookMealSimple_Bulk.label>cook four simple meals</CookMealSimple_Bulk.label>
+  <CookMealSimple_Bulk.description>Cooks a straightforward meal from one ingredient. Makes enough for 4 meals.</CookMealSimple_Bulk.description>
+  <CookMealSimple_Bulk.jobString>Cooking four simple meals.</CookMealSimple_Bulk.jobString>
+
+  <CookMealFine_Bulk.label>cook four fine meals</CookMealFine_Bulk.label>
+  <CookMealFine_Bulk.description>Cooks a somewhat complex meal from a combination of raw meat and raw plant ingredients. Makes enough for 4 meals.</CookMealFine_Bulk.description>
+  <CookMealFine_Bulk.jobString>Cooking four fine meals.</CookMealFine_Bulk.jobString>
+
+  <CookMealLavish_Bulk.label>cook four lavish meals</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted. Makes enough for 4 meals.</CookMealLavish_Bulk.description>
+  <CookMealLavish_Bulk.jobString>Cooking four lavish meals.</CookMealLavish_Bulk.jobString>
+
+  <Stirfrymeal.label>cook four stir-fried meals</Stirfrymeal.label>
+  <Stirfrymeal.description>Cooks a stir-fried meal from a combination of raw meat and raw plant ingredients. \n\nMakes enough for 4 meals.  \n\nFood Effects: Manipulation and Blood Filtration.</Stirfrymeal.description>
+  <Stirfrymeal.jobString>Cooking stir-fried meals.</Stirfrymeal.jobString>
+
+  <Cookstewpot.label>cook eight pots of stew</Cookstewpot.label>
+  <Cookstewpot.description>Slow cooks a pot of stew from a combination of raw meat and raw plant ingredients. \n\nMakes enough for 8 meals. \n\nFood Effects: Consciousness, Metabolism, Blood Filtration, and Blood Pumping.</Cookstewpot.description>
+  <Cookstewpot.jobString>Slow cooking stew.</Cookstewpot.jobString>
+
+  <CookGrillcheese.label>cook two grilled cheeses</CookGrillcheese.label>
+  <CookGrillcheese.description>Two slices of bread grilled with cheese melt in the middle. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</CookGrillcheese.description>
+  <CookGrillcheese.jobString>Toasting bread.</CookGrillcheese.jobString>
+
+  <GrillPolenta.label>grill two polenta</GrillPolenta.label>
+  <GrillPolenta.description>Grilled slices of Polenta. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</GrillPolenta.description>
+  <GrillPolenta.jobString>Grilling polenta.</GrillPolenta.jobString>
+
+  <Cookgrilledsandwich.label>cook two cheeseburgers</Cookgrilledsandwich.label>
+  <Cookgrilledsandwich.description>Two slices of bread with grilled meat and cheese melt. \n\nMakes 2 servings. \n\nFood Effects: Metabolism.</Cookgrilledsandwich.description>
+  <Cookgrilledsandwich.jobString>Grilling sandwich.</Cookgrilledsandwich.jobString>
+
+  <CookTacos.label>cook five tacos</CookTacos.label>
+  <CookTacos.description>Meat and Cheese in a Corn shell. \n\n Makes 5 servings. \n\nFood Effects: Manipulation and Metabolism.</CookTacos.description>
+  <CookTacos.jobString>Preparing tacos.</CookTacos.jobString>
+
+  <CookPorridge.label>cook two porridges</CookPorridge.label>
+  <CookPorridge.description>A simple porridge cooked from grains. \n\nMakes 2 servings. \n\nFood Effects: Sight and Blood Filtration.</CookPorridge.description>
+  <CookPorridge.jobString>Making porridge.</CookPorridge.jobString>
+
+  <VG_MakebulkKibble.label>make bulk kibble</VG_MakebulkKibble.label>
+  <VG_MakebulkKibble.description>Make animal kibble by combining raw meat and plants.</VG_MakebulkKibble.description>
+  <VG_MakebulkKibble.jobString>Making kibble.</VG_MakebulkKibble.jobString>
+
+  <VG_MakebulkPemmican.label>make bulk pemmican</VG_MakebulkPemmican.label>
+  <VG_MakebulkPemmican.description>Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a year without refrigeration.</VG_MakebulkPemmican.description>
+  <VG_MakebulkPemmican.jobString>Making pemmican.</VG_MakebulkPemmican.jobString>
+
+
+</LanguageData>

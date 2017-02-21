@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeChemfuelFromBamboo.label>make chemfuel from bamboo</MakeChemfuelFromBamboo.label>
+  <MakeChemfuelFromBamboo.description>Make a batch of chemfuel by gasifying bamboo.</MakeChemfuelFromBamboo.description>
+  <MakeChemfuelFromBamboo.jobString>Refining chemfuel from wood.</MakeChemfuelFromBamboo.jobString>
+
+
+</LanguageData>
