@@ -17,17 +17,17 @@
   <!--[Core] <CookMealLavish.description>Cooks a very complex meal from a combination of raw meat and raw plant ingredients. Much of the ingredients are wasted.</CookMealLavish.description>-->
   <!--[Core] <CookMealLavish.jobString>Cooking lavish meal.</CookMealLavish.jobString>-->
 
-  <CookMealSimple_Bulk.label>烹調簡單的料理（4）</CookMealSimple_Bulk.label>
-  <CookMealSimple_Bulk.description>用單種材料烹調4份簡單的料理。</CookMealSimple_Bulk.description>
-  <CookMealSimple_Bulk.jobString>正在簡單的料理。</CookMealSimple_Bulk.jobString>
+  <CookMealSimple_Bulk.label>烹調簡單料理（4）</CookMealSimple_Bulk.label>
+  <CookMealSimple_Bulk.description>用單種材料烹調4份簡單料理。</CookMealSimple_Bulk.description>
+  <CookMealSimple_Bulk.jobString>正在烹調簡單料理。</CookMealSimple_Bulk.jobString>
 
-  <CookMealFine_Bulk.label>烹調精緻的料理（4）</CookMealFine_Bulk.label>
+  <CookMealFine_Bulk.label>烹調精緻料理（4）</CookMealFine_Bulk.label>
   <CookMealFine_Bulk.description>將生肉和素食組合，烹調4份相對複雜的食物。\n\n必須同時有肉食和素食。</CookMealFine_Bulk.description>
-  <CookMealFine_Bulk.jobString>正在烹調精緻的料理。</CookMealFine_Bulk.jobString>
+  <CookMealFine_Bulk.jobString>正在烹調精緻料理。</CookMealFine_Bulk.jobString>
 
-  <CookMealLavish_Bulk.label>烹調奢侈的料理（4）</CookMealLavish_Bulk.label>
+  <CookMealLavish_Bulk.label>烹調豪華料理（4）</CookMealLavish_Bulk.label>
   <CookMealLavish_Bulk.description>將生肉和素食組合，烹調4份非常複雜的食物。大部分材料會被浪費。\n\n必須同時有肉食和素食。</CookMealLavish_Bulk.description>
-  <CookMealLavish_Bulk.jobString>正在烹調奢侈的料理。</CookMealLavish_Bulk.jobString>
+  <CookMealLavish_Bulk.jobString>正在烹調豪華料理。</CookMealLavish_Bulk.jobString>
 
   <Stirfrymeal.label>炒菜（4）</Stirfrymeal.label>
   <Stirfrymeal.description>用肉食和素食組合作為原料炒熟。 \n\n做4份。 \n\n食用效果：操作、血液循環。</Stirfrymeal.description>
