@@ -3,14 +3,14 @@
 
   <!-- Flowers Vanilla -->
 
-  <!--[Core] <PlantDandelion.label>dandelions</PlantDandelion.label>-->
-  <!--[Core] <PlantDandelion.description>A common small flower. Though it is often considered a weed, it is pleasant to look at.</PlantDandelion.description>-->
+  <!--[Core] <PlantDandelion.label>蒲公英</PlantDandelion.label>-->
+  <!--[Core] <PlantDandelion.description>常見的野花。因為繁殖迅速一般被當成野草。是一種比較好看的花。</PlantDandelion.description>-->
 
-  <!--[Core] <PlantRose.label>rose</PlantRose.label>-->
-  <!--[Core] <PlantRose.description>A beautiful cultivated flower, symbolic of love and romance since ancient times.</PlantRose.description>-->
+  <!--[Core] <PlantRose.label>玫瑰</PlantRose.label>-->
+  <!--[Core] <PlantRose.description>一種漂亮的栽培植物，從遠古時代就是浪漫與愛情的象徵。</PlantRose.description>-->
 
-  <!--[Core] <PlantDaylily.label>daylily</PlantDaylily.label>-->
-  <!--[Core] <PlantDaylily.description>A beautiful cultivated flower - great for brightening up a drab yard. Must be replanted often.</PlantDaylily.description>-->
+  <!--[Core] <PlantDaylily.label>金針花</PlantDaylily.label>-->
+  <!--[Core] <PlantDaylily.description>一種漂亮的栽培植物，非常適合替單調的院子增添色彩，需要經常重新種植。</PlantDaylily.description>-->
 
 
   <!-- New Flowers -->

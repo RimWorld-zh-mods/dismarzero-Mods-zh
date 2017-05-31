@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Makeantibiotics.label>製作健康飲料</Makeantibiotics.label>
+  <Makeantibiotics.description>一種由水果和藥物製成的口服液。幫助病人恢復健康。</Makeantibiotics.description>
+  <Makeantibiotics.jobString>正在製作健康飲料。</Makeantibiotics.jobString>
+
+  <VG_Neutroamine.label>製作中性胺</VG_Neutroamine.label>
+  <VG_Neutroamine.description>一種化學合成物質，本身沒有作用，但卻是許多合成毒品必不可少的原料。</VG_Neutroamine.description>
+  <VG_Neutroamine.jobString>正在製作中性胺。</VG_Neutroamine.jobString>
+
+  <VG_BulkNeutroamine.label>批量製作中性胺（5）</VG_BulkNeutroamine.label>
+  <VG_BulkNeutroamine.description>一種化學合成物質，本身沒有作用，但卻是許多合成毒品必不可少的原料。</VG_BulkNeutroamine.description>
+  <VG_BulkNeutroamine.jobString>正在批量製作中性胺。</VG_BulkNeutroamine.jobString>
+
+  <VG_BulkFluEz.label>批量製作流感藥物（4）</VG_BulkFluEz.label>
+  <VG_BulkFluEz.description>用中性胺製作4份流感藥物。</VG_BulkFluEz.description>
+  <VG_BulkFluEz.jobString>正在製作流感藥物。</VG_BulkFluEz.jobString>
+
+  <VG_BulkIbuprofen.label>批量製作布洛芬（4）</VG_BulkIbuprofen.label>
+  <VG_BulkIbuprofen.description>用中性胺製作4份布洛芬。</VG_BulkIbuprofen.description>
+  <VG_BulkIbuprofen.jobString>正在製作布洛芬。</VG_BulkIbuprofen.jobString>
+
+  <VG_Bulkantibiotics.label>批量製作健康飲料（4）</VG_Bulkantibiotics.label>
+  <VG_Bulkantibiotics.description>用中性胺和水果製作4份健康飲料。</VG_Bulkantibiotics.description>
+  <VG_Bulkantibiotics.jobString>正在製作健康飲料。</VG_Bulkantibiotics.jobString>
+
+  <VG_BulkMedicine.label>批量製作醫療包（4）</VG_BulkMedicine.label>
+  <VG_BulkMedicine.description>製作醫療包。</VG_BulkMedicine.description>
+  <VG_BulkMedicine.jobString>正在製作醫療包。</VG_BulkMedicine.jobString>
+
+  <VG_BulkHerbmedicinekit.label>批量製作簡易藥物（4）</VG_BulkHerbmedicinekit.label>
+  <VG_BulkHerbmedicinekit.description>一包混合的草藥。醫療效果比工業化生產的藥物低。</VG_BulkHerbmedicinekit.description>
+  <VG_BulkHerbmedicinekit.jobString>正在製作簡易藥物。</VG_BulkHerbmedicinekit.jobString>
+
+
+</LanguageData>

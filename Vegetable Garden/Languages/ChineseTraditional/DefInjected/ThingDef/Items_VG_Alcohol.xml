@@ -16,8 +16,8 @@
   <Wine.ingestible.ingestCommandString>喝{0}</Wine.ingestible.ingestCommandString>
   <Wine.ingestible.ingestReportString>正在喝{0}。</Wine.ingestible.ingestReportString>
 
-  <strawberrywine.label>Spoon草莓酒</strawberrywine.label>
-  <strawberrywine.description>一種由草莓釀成的粉紅色甜酒精飲品。</strawberrywine.description>
+  <strawberrywine.label>Spoon莓果酒</strawberrywine.label>
+  <strawberrywine.description>一種由莓果釀成的粉紅色甜酒精飲品。</strawberrywine.description>
   <strawberrywine.ingestible.ingestCommandString>喝{0}</strawberrywine.ingestible.ingestCommandString>
   <strawberrywine.ingestible.ingestReportString>正在喝{0}。</strawberrywine.ingestible.ingestReportString>
 

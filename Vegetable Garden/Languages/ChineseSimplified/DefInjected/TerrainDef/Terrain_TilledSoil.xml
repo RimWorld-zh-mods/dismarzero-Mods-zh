@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SoilTilled.label>花园土壤</SoilTilled.label>
-  <SoilTilled.description>疏松土壤，能稍微改善作物生长环境。</SoilTilled.description>
+  <VG_SoilTilled.label>花园土壤</VG_SoilTilled.label>
+  <VG_SoilTilled.description>疏松土壤，能稍微改善作物生长环境。土壤肥力是普通土壤的120％。</VG_SoilTilled.description>
 
   <PlaceSoil.label>铺设土壤</PlaceSoil.label>
   <PlaceSoil.description>在磨光的地面上铺一层土以种植作物。</PlaceSoil.description>
@@ -11,10 +11,7 @@
   <ReclaimSoil.description>挖开沙地、湿软的土地、泥地、沼泽、冰面、沙砾，然后填上土壤以种植作物。</ReclaimSoil.description>
 
   <PlowSoil.label>肥沃耕地</PlowSoil.label>
-  <PlowSoil.description>犁过的土壤能提供给作物更高效的生长环境。</PlowSoil.description>
-
-  <!--[Core] <Mud.label>mud</Mud.label>-->
-  <!--[Core] <Marsh.label>marsh</Marsh.label>-->
+  <PlowSoil.description>犁过的土壤能提供给作物更高效的生长环境。土壤肥力是普通土壤的160％。</PlowSoil.description>
 
 
 </LanguageData>

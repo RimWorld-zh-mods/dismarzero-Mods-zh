@@ -16,21 +16,21 @@
   <HempCloth.description>別人拿來當煙抽的東西製成布然後穿在身上真的沒問題嗎？</HempCloth.description>
   <HempCloth.stuffProps.stuffAdjective>大麻布</HempCloth.stuffProps.stuffAdjective>
 
-  <!--[Core] <Cloth.label>cloth</Cloth.label>-->
-  <!--[Core] <Cloth.description>Cloth woven from organic fibers.</Cloth.description>-->
-  <!--[Core] <Cloth.stuffProps.stuffAdjective>cloth</Cloth.stuffProps.stuffAdjective>-->
+  <!--[Core] <Cloth.label>棉布</Cloth.label>-->
+  <!--[Core] <Cloth.description>以有機纖維編織而成的布料。</Cloth.description>-->
+  <!--[Core] <Cloth.stuffProps.stuffAdjective>棉布</Cloth.stuffProps.stuffAdjective>-->
 
-  <!--[Core] <Synthread.label>synthread</Synthread.label>-->
-  <!--[Core] <Synthread.description>Spacer-tech synthetic fabric designed for making ordinary clothes. It is soft, light, strong, and insulates well.</Synthread.description>-->
-  <!--[Core] <Synthread.stuffProps.stuffAdjective>synthread</Synthread.stuffProps.stuffAdjective>-->
+  <!--[Core] <Synthread.label>合成纖維</Synthread.label>-->
+  <!--[Core] <Synthread.description>以太空科技合成纖維材料製成的衣物，輕盈、柔軟、耐用，而且絕緣良好。</Synthread.description>-->
+  <!--[Core] <Synthread.stuffProps.stuffAdjective>合成纖維</Synthread.stuffProps.stuffAdjective>-->
 
-  <!--[Core] <DevilstrandCloth.label>devilstrand cloth</DevilstrandCloth.label>-->
-  <!--[Core] <DevilstrandCloth.description>Fabric spun from microfibers extracted from silk-producing Devilstrand mushrooms. Very tough, but insulates no better than cloth.</DevilstrandCloth.description>-->
-  <!--[Core] <DevilstrandCloth.stuffProps.stuffAdjective>devilstrand cloth</DevilstrandCloth.stuffProps.stuffAdjective>-->
+  <!--[Core] <DevilstrandCloth.label>魔鬼布料</DevilstrandCloth.label>-->
+  <!--[Core] <DevilstrandCloth.description>終極強韌的布料，提取自魔鬼菇。</DevilstrandCloth.description>-->
+  <!--[Core] <DevilstrandCloth.stuffProps.stuffAdjective>魔鬼布料</DevilstrandCloth.stuffProps.stuffAdjective>-->
 
-  <!--[Core] <Hyperweave.label>hyperweave</Hyperweave.label>-->
-  <!--[Core] <Hyperweave.description>High-tech nano-fibers woven into sheets. It is somewhat heavy, but is incredibly difficult to break. The secrets of its production are known only to the most advanced glitterworld cultures.</Hyperweave.description>-->
-  <!--[Core] <Hyperweave.stuffProps.stuffAdjective>hyperweave</Hyperweave.stuffProps.stuffAdjective>-->
+  <!--[Core] <Hyperweave.label>超級布料</Hyperweave.label>-->
+  <!--[Core] <Hyperweave.description>以高科技奈米纖維織成，有點厚重，但令人難以置信的難以破壞。</Hyperweave.description>-->
+  <!--[Core] <Hyperweave.stuffProps.stuffAdjective>超級布料</Hyperweave.stuffProps.stuffAdjective>-->
 
   <Flaxcloth.label>亞麻布</Flaxcloth.label>
   <Flaxcloth.description>用於製作衣物，柔軟、輕、強韌。</Flaxcloth.description>

@@ -9,6 +9,9 @@
   <Administer_VG_Ibuprofen.label>施用布洛芬</Administer_VG_Ibuprofen.label>
   <Administer_VG_Ibuprofen.jobString>正在施用布洛芬。</Administer_VG_Ibuprofen.jobString>
 
+  <Administer_VG_antibiotics.label>施用健康饮料</Administer_VG_antibiotics.label>
+  <Administer_VG_antibiotics.jobString>正在施用健康饮料。</Administer_VG_antibiotics.jobString>
+
   <Administer_Cigarillos.label>施用小雪茄</Administer_Cigarillos.label>
   <Administer_Cigarillos.jobString>正在施用小雪茄。</Administer_Cigarillos.jobString>
 
@@ -53,9 +56,6 @@
 
   <Administer_Fruitdrink.label>施用果汁</Administer_Fruitdrink.label>
   <Administer_Fruitdrink.jobString>正在施用果汁。</Administer_Fruitdrink.jobString>
-
-  <Administer_Healthdrink.label>施用健康饮料</Administer_Healthdrink.label>
-  <Administer_Healthdrink.jobString>正在施用健康饮料。</Administer_Healthdrink.jobString>
 
 
 </LanguageData>

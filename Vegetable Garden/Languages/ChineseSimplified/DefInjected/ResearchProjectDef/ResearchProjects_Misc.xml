@@ -36,5 +36,8 @@
   <CanningMachine.label>VG：罐头技术</CanningMachine.label>
   <CanningMachine.description>研究如何把食品保存于罐头方法。 \n\n 解锁压罐机、肉类罐头、蔬菜罐头、食物罐头。</CanningMachine.description>
 
+  <BulkMedicine.label>VG：大量生产药物</BulkMedicine.label>
+  <BulkMedicine.description>允许你大量生产药物。\n\n解锁批量制作中性胺、流感药物、布洛芬、健康饮料、简易药物和医药。</BulkMedicine.description>
+
 
 </LanguageData>

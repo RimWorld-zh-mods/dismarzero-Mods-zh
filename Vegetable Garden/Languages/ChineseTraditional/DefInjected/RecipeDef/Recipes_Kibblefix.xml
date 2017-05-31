@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--[Core] <MakeKibble.label>make kibble</MakeKibble.label>-->
-  <!--[Core] <MakeKibble.description>Make animal kibble by combining raw meat and plants. \n\nRequires 1 nutrition of meat and 1 nutrition of veg, fruit, or hay. \n\nMakes 50 Kibble. </MakeKibble.description>-->
-  <!--[Core] <MakeKibble.jobString>Making kibble.</MakeKibble.jobString>-->
+  <!--[Core] <MakeKibble.label>製作飼料</MakeKibble.label>-->
+  <!--[Core] <MakeKibble.description>混和生肉和作物製成動物飼料。</MakeKibble.description>-->
+  <!--[Core] <MakeKibble.jobString>磨製飼料。</MakeKibble.jobString>-->
 
 
 </LanguageData>

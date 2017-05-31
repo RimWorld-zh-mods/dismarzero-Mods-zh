@@ -14,19 +14,19 @@
   <MakeHempCloth.jobString>正在紡織大麻布。</MakeHempCloth.jobString>
 
   <MakeSynthreadCloth.label>製作合成纖維</MakeSynthreadCloth.label>
-  <MakeSynthreadCloth.description>以棉花和亞麻為原料製作合成纖維。\n\n產出：15</MakeSynthreadCloth.description>
+  <MakeSynthreadCloth.description>以棉花和亞麻為原料製作合成纖維。\n\n產出：10</MakeSynthreadCloth.description>
   <MakeSynthreadCloth.jobString>正在製作合成纖維。</MakeSynthreadCloth.jobString>
 
   <MakeDevilstrand.label>紡織魔鬼布料</MakeDevilstrand.label>
-  <MakeDevilstrand.description>將惡魔菇製成魔鬼布料。\n\n產出：15</MakeDevilstrand.description>
+  <MakeDevilstrand.description>將惡魔菇製成魔鬼布料。\n\n產出：12</MakeDevilstrand.description>
   <MakeDevilstrand.jobString>正在製作魔鬼布料。</MakeDevilstrand.jobString>
 
   <MakeHyperweaveCloth.label>紡織超級布料</MakeHyperweaveCloth.label>
-  <MakeHyperweaveCloth.description>以棉花、亞麻和惡魔菇為原料製作超級布料。\n\n產出：20</MakeHyperweaveCloth.description>
+  <MakeHyperweaveCloth.description>以棉花、亞麻和惡魔菇為原料製作超級布料。\n\n產出：15</MakeHyperweaveCloth.description>
   <MakeHyperweaveCloth.jobString>正在製作超級布料。</MakeHyperweaveCloth.jobString>
 
-  <Makeblendedleather.label>鞣制混合皮（10）</Makeblendedleather.label>
-  <Makeblendedleather.description>將多種不同的小塊皮革拼合起來。\n\n產出：10。</Makeblendedleather.description>
+  <Makeblendedleather.label>鞣制混合皮（20）</Makeblendedleather.label>
+  <Makeblendedleather.description>將多種不同的小塊皮革拼合起來。\n\n產出：20。</Makeblendedleather.description>
   <Makeblendedleather.jobString>正在鞣制混合皮。</Makeblendedleather.jobString>
 
   <Makeblendedleatherhad.label>鞣制混合皮（5）</Makeblendedleatherhad.label>

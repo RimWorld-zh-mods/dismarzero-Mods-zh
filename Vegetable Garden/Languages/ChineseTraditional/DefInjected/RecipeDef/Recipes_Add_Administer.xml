@@ -9,6 +9,9 @@
   <Administer_VG_Ibuprofen.label>施用布洛芬</Administer_VG_Ibuprofen.label>
   <Administer_VG_Ibuprofen.jobString>正在施用布洛芬。</Administer_VG_Ibuprofen.jobString>
 
+  <Administer_VG_antibiotics.label>施用健康飲料</Administer_VG_antibiotics.label>
+  <Administer_VG_antibiotics.jobString>正在施用健康飲料。</Administer_VG_antibiotics.jobString>
+
   <Administer_Cigarillos.label>施用小雪茄</Administer_Cigarillos.label>
   <Administer_Cigarillos.jobString>正在施用小雪茄。</Administer_Cigarillos.jobString>
 
@@ -21,8 +24,8 @@
   <Administer_Wine.label>施用Ramsi葡萄酒</Administer_Wine.label>
   <Administer_Wine.jobString>正在施用Ramsi葡萄酒。</Administer_Wine.jobString>
 
-  <Administer_strawberrywine.label>施用Spoon草莓酒</Administer_strawberrywine.label>
-  <Administer_strawberrywine.jobString>正在施用Spoon草莓酒。</Administer_strawberrywine.jobString>
+  <Administer_strawberrywine.label>施用Spoon莓果酒</Administer_strawberrywine.label>
+  <Administer_strawberrywine.jobString>正在施用Spoon莓果酒。</Administer_strawberrywine.jobString>
 
   <Administer_saki.label>施用WHiZ清酒</Administer_saki.label>
   <Administer_saki.jobString>正在施用WHiZ清酒。</Administer_saki.jobString>
@@ -53,9 +56,6 @@
 
   <Administer_Fruitdrink.label>施用果汁</Administer_Fruitdrink.label>
   <Administer_Fruitdrink.jobString>正在施用果汁。</Administer_Fruitdrink.jobString>
-
-  <Administer_Healthdrink.label>施用健康飲料</Administer_Healthdrink.label>
-  <Administer_Healthdrink.jobString>正在施用健康飲料。</Administer_Healthdrink.jobString>
 
 
 </LanguageData>

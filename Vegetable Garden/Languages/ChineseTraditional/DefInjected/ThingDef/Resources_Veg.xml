@@ -3,14 +3,14 @@
 
   <!-- ++++++++++++++++++++++++++++++++++++++++++++ -->
 
-  <!--[Core] <RawRice.label>rice</RawRice.label>-->
-  <!--[Core] <RawRice.description>Raw rice.</RawRice.description>-->
+  <!--[Core] <RawRice.label>稻米</RawRice.label>-->
+  <!--[Core] <RawRice.description>未經加工的生米。</RawRice.description>-->
 
-  <!--[Core] <RawPotatoes.label>potatoes</RawPotatoes.label>-->
-  <!--[Core] <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>-->
+  <!--[Core] <RawPotatoes.label>馬鈴薯</RawPotatoes.label>-->
+  <!--[Core] <RawPotatoes.description>生馬鈴薯。</RawPotatoes.description>-->
 
-  <!--[Core] <RawCorn.label>corn</RawCorn.label>-->
-  <!--[Core] <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>-->
+  <!--[Core] <RawCorn.label>玉米</RawCorn.label>-->
+  <!--[Core] <RawCorn.description>生的玉米，味道鮮美，可以生吃。</RawCorn.description>-->
 
   <Rawsnowbeet.label>雪甜菜</Rawsnowbeet.label>
   <Rawsnowbeet.description>生的雪甜菜。</Rawsnowbeet.description>
@@ -29,6 +29,9 @@
 
   <RawTomatoes.label>番茄</RawTomatoes.label>
   <RawTomatoes.description>一種口感鮮嫩多汁的水果，用途非常廣。</RawTomatoes.description>
+
+  <RawOlive.label>橄欖</RawOlive.label>
+  <RawOlive.description>長在樹上的小果實。</RawOlive.description>
 
   <RawCarrots.label>胡蘿蔔</RawCarrots.label>
   <RawCarrots.description>一種爽口鮮脆的蔬菜。可以治療夜盲症。</RawCarrots.description>

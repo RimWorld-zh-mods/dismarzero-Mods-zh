@@ -42,20 +42,17 @@
   <RawCherry.label>櫻桃</RawCherry.label>
   <RawCherry.description>長在樹上的紅色小果實。</RawCherry.description>
 
-  <RawOlive.label>橄欖</RawOlive.label>
-  <RawOlive.description>長在樹上的小果實。</RawOlive.description>
-
   <RawCoconut.label>椰子</RawCoconut.label>
   <RawCoconut.description>長在樹上的椰果。有著堅硬的外殼，內部有果肉和大量汁液。可以在食物加工台上劈開得到「椰肉」和「椰汁」。</RawCoconut.description>
 
   <RawCoconutHalf.label>椰肉</RawCoconutHalf.label>
   <RawCoconutHalf.description>劈開椰子後得到的椰肉，富含好吃營養的汁液。</RawCoconutHalf.description>
 
-  <!--[Core] <RawBerries.label>berries</RawBerries.label>-->
-  <!--[Core] <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>-->
+  <!--[Core] <RawBerries.label>莓果</RawBerries.label>-->
+  <!--[Core] <RawBerries.description>各種各樣的莓果，就算生吃味道也很好。</RawBerries.description>-->
 
-  <!--[Core] <RawAgave.label>agave fruit</RawAgave.label>-->
-  <!--[Core] <RawAgave.description>Raw agave fruit.</RawAgave.description>-->
+  <!--[Core] <RawAgave.label>龍舌蘭</RawAgave.label>-->
+  <!--[Core] <RawAgave.description>生龍舌蘭果實。</RawAgave.description>-->
 
 
 </LanguageData>
