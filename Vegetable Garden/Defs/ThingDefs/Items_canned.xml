@@ -78,6 +78,9 @@
       <DeteriorationRate>10</DeteriorationRate>
        <Mass>0.4</Mass>
    </statBases>
+    <comps>
+      <li Class="CompProperties_Ingredients" />
+    </comps>
     <thingCategories>
       <li>MeatRaw</li>
     </thingCategories>

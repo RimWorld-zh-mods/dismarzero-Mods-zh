@@ -236,7 +236,7 @@
       </shadowData>
     </graphicData>
     <statBases>
-      <Beauty>5</Beauty>
+      <Beauty>3</Beauty>
     </statBases>
     <ingestible>
       <nutrition>1</nutrition>
@@ -248,8 +248,8 @@
       <harvestWork>700</harvestWork>
       <harvestYield>55</harvestYield>
 	<wildBiomes>
-		<TemperateForest>0.025</TemperateForest>
-    		<BorealForest>0.025</BorealForest>
+		<TemperateForest>0.01</TemperateForest>
+    		<BorealForest>0.01</BorealForest>
 	</wildBiomes>
        <sowResearchPrerequisites>
         <li>flowersandtrees</li>
@@ -400,8 +400,8 @@
         <li>Ground</li>
       </sowTags>
 	<wildBiomes>
-		<TemperateForest>0.025</TemperateForest>
-    		<BorealForest>0.025</BorealForest>
+		<TemperateForest>0.01</TemperateForest>
+    		<BorealForest>0.01</BorealForest>
 	</wildBiomes>
         <sowResearchPrerequisites>
         <li>flowersandtrees</li>

@@ -42,20 +42,17 @@
   <RawCherry.label>Cherries</RawCherry.label>
   <RawCherry.description>A red berry fruit that grows on trees.</RawCherry.description>
 
-  <RawOlive.label>Olive</RawOlive.label>
-  <RawOlive.description>A small berry fruit that grows on trees.</RawOlive.description>
-
   <RawCoconut.label>Coconut</RawCoconut.label>
   <RawCoconut.description>A coconut fruit that grows on trees. Has a hard outer shell with a juicy fruit flesh inside. Can be further havested at a food prep table to make coconut halves and milk.</RawCoconut.description>
 
   <RawCoconutHalf.label>Coconut Halves</RawCoconutHalf.label>
   <RawCoconutHalf.description>A half of a coconut fruit that grows on trees. Has a hard outer shell with a juicy fruit flesh inside.</RawCoconutHalf.description>
 
-  <RawBerries.label>berries</RawBerries.label>
-  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+  <!--[Core] <RawBerries.label>berries</RawBerries.label>-->
+  <!--[Core] <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>-->
 
-  <RawAgave.label>agave fruit</RawAgave.label>
-  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+  <!--[Core] <RawAgave.label>agave fruit</RawAgave.label>-->
+  <!--[Core] <RawAgave.description>Raw agave fruit.</RawAgave.description>-->
 
 
 </LanguageData>

@@ -53,9 +53,9 @@
 	</RecipeDef>
 
 	<RecipeDef>
-		<defName>MakeFertilizer</defName>
-		<label>make fertilizer</label>
-		<description>Make fertilizer from wood, bamboo, or hay and soil.</description>
+		<defName>MakeCompostStarter</defName>
+		<label>make compost starter</label>
+		<description>Make compost starter from a wood source and a food source.</description>
 		<jobString>Making fertilizer.</jobString>
 		<workSpeedStat>BrewingSpeed</workSpeedStat>
 		<workSkillLearnFactor>0.25</workSkillLearnFactor>
@@ -69,33 +69,33 @@
 			      <thingDefs>
 			        <li>WoodLog</li>
 			        <li>Bamboo</li>
-			        <li>Hay</li>
 	     			 </thingDefs>
 	  		    </filter>
 			<count>10</count>
 			</li>
-			<li>
-			    <filter>
-			      <thingDefs>
-			        <li>VG_PileofDirt</li>
-	     			 </thingDefs>
-	  		    </filter>
-				<count>20</count>
+ 		     <li>
+     			   <filter>
+     			     <categories>
+     			       <li>FoodRaw</li>
+   				</categories>
+ 		        </filter>
+				<count>10</count>
 			</li>
 		</ingredients>
 		<fixedIngredientFilter>
 			<thingDefs>
-			   <li>WoodLog</li>
-		        <li>Bamboo</li>
-		        <li>Hay</li>
-     			   <li>VG_PileofDirt</li>
+			     <li>WoodLog</li>
+			     <li>Bamboo</li>
 			</thingDefs>
+ 			<categories>
+     			     <li>FoodRaw</li>
+   			</categories>
 	      <specialFiltersToDisallow>
      			   <li>AllowNonSmeltableWeapons</li>
 	      </specialFiltersToDisallow>
 	     </fixedIngredientFilter>
 		<products>
-			<RawFertilizer>30</RawFertilizer>
+			<VG_Compost>15</VG_Compost>
 		</products>
 		<workSkill>Crafting</workSkill>
   		<recipeUsers>
@@ -103,6 +103,52 @@
 		</recipeUsers>
 	</RecipeDef>
 
+	<RecipeDef>
+		<defName>MakeFertilizer</defName>
+		<label>make fertilizer</label>
+		<description>Make fertilizer from compost starter and soil.</description>
+		<jobString>Making fertilizer.</jobString>
+		<workSpeedStat>BrewingSpeed</workSpeedStat>
+		<workSkillLearnFactor>0.25</workSkillLearnFactor>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_CookMeal</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<workAmount>1500</workAmount>
+		<ingredients>
+			<li>
+			    <filter>
+			      <thingDefs>
+			        <li>VG_Compost</li>
+	     			 </thingDefs>
+	  		    </filter>
+				<count>10</count>
+			</li>
+			<li>
+			    <filter>
+			      <thingDefs>
+			        <li>VG_PileofDirt</li>
+	     			 </thingDefs>
+	  		    </filter>
+				<count>10</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+			   <li>VG_Compost</li>
+     			   <li>VG_PileofDirt</li>
+			</thingDefs>
+	      <specialFiltersToDisallow>
+     			   <li>AllowNonSmeltableWeapons</li>
+	      </specialFiltersToDisallow>
+	     </fixedIngredientFilter>
+		<products>
+			<RawFertilizer>10</RawFertilizer>
+		</products>
+		<workSkill>Crafting</workSkill>
+  		<recipeUsers>
+			<li>TableButcher</li>
+		</recipeUsers>
+	</RecipeDef>
 
 
 	<RecipeDef>

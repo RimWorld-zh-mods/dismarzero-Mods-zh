@@ -88,9 +88,6 @@
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       </ingestible>
-      <thingCategories>
-         <li>FoodMeals</li>
-      </thingCategories>
     <comps>
       <li Class="CompProperties_Rottable">
         <daysToRotStart>60</daysToRotStart>
@@ -298,7 +295,7 @@
     </comps>
     <ingestible>
 	      <foodType>Processed</foodType>
-     	      <nutrition>0.5</nutrition>
+     	      <nutrition>0.05</nutrition>
            <preferability>MealAwful</preferability>
       <maxNumToIngestAtOnce>2</maxNumToIngestAtOnce>
     </ingestible>
@@ -453,11 +450,28 @@
     </graphicData>
   </ThingDef>
 
+	<ThingDef ParentName="VG_ResourceBase">
+		<defName>VG_Compost</defName>
+		<label>Compost Starter</label>
+		<description>Compost starter is use to make fertilizer which enhances the soil and speeds up the growth of plants.</description>
+		<graphicData>
+			<texPath>Things/Item/Compoststart</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<MarketValue>1</MarketValue>
+		     <Mass>0.15</Mass>
+		</statBases>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+	</ThingDef>
+
 
 	<ThingDef ParentName="VG_ResourceBase">
 		<defName>RawFertilizer</defName>
 		<label>Fertilizer</label>
-		<description>Fertilizers enhance the soil and speed up the growth of plants.</description>
+		<description>Fertilizers enhance the soil and speeds up the growth of plants.</description>
 		<graphicData>
 			<texPath>Things/Item/Fertilizer</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -501,5 +515,25 @@
 		</thingCategories>
 	</ThingDef>
 
+  <ThingDef ParentName="ResourceBase">
+    <defName>VG_Biofuel</defName>
+    <label>biofuel</label>
+    <description>Fuel made from the processes of refining various types of plants for oils and alcohols. And is used to fuel generators and workbenches.</description>
+    <graphicData>
+      <texPath>Things/Item/BioFuel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>400</stackLimit>
+		<statBases>
+      <MaxHitPoints>50</MaxHitPoints>
+      <MarketValue>4</MarketValue>
+      <Mass>0.05</Mass>
+      <Flammability>1.0</Flammability>
+			<DeteriorationRate>1.0</DeteriorationRate>
+		</statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+  </ThingDef>
 
   </Defs>

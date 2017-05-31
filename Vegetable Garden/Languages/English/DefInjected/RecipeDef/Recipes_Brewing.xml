@@ -9,41 +9,5 @@
   <MakeChocolatemilk.description>Blend chocolate and milk.</MakeChocolatemilk.description>
   <MakeChocolatemilk.jobString>Mixing milk.</MakeChocolatemilk.jobString>
 
-  <Makehealthdrink.label>make antibiotics</Makehealthdrink.label>
-  <Makehealthdrink.description>Combine herbs and fruit into antibiotics.</Makehealthdrink.description>
-  <Makehealthdrink.jobString>Making antibiotics.</Makehealthdrink.jobString>
-
-  <Distillcider.label>distill Shinzee's apple cider</Distillcider.label>
-  <Distillcider.description>Distill a bottle of apple cider.</Distillcider.description>
-  <Distillcider.jobString>Distilling apple cider.</Distillcider.jobString>
-
-  <Distillrum.label>distill REinstein's Rum</Distillrum.label>
-  <Distillrum.description>Distill a bottle of rum.</Distillrum.description>
-  <Distillrum.jobString>Distilling rum.</Distillrum.jobString>
-
-  <PressWine.label>Make Ramsi's wine</PressWine.label>
-  <PressWine.description>make a bottle of wine.</PressWine.description>
-  <PressWine.jobString>Pressing grapes.</PressWine.jobString>
-
-  <DistillStrawberryWine.label>make Spoon's Berry wine</DistillStrawberryWine.label>
-  <DistillStrawberryWine.description>Distill a bottle of strawberry wine.</DistillStrawberryWine.description>
-  <DistillStrawberryWine.jobString>Distilling strawberry wine.</DistillStrawberryWine.jobString>
-
-  <DistillSaki.label>make WHiZ  saki</DistillSaki.label>
-  <DistillSaki.description>Distill a bottle of saki.</DistillSaki.description>
-  <DistillSaki.jobString>Distilling saki</DistillSaki.jobString>
-
-  <DistillVodka.label>Make Syntria vodka</DistillVodka.label>
-  <DistillVodka.description>Distill a bottle of vodka from potatoes.</DistillVodka.description>
-  <DistillVodka.jobString>Distilling vodka</DistillVodka.jobString>
-
-  <DistillTequila.label>Make Kitty's tequila</DistillTequila.label>
-  <DistillTequila.description>Distill a bottle of tequila from agave.</DistillTequila.description>
-  <DistillTequila.jobString>Distilling tequila</DistillTequila.jobString>
-
-  <DistillWhisky.label>Make Quill18's whiskey</DistillWhisky.label>
-  <DistillWhisky.description>Distill a bottle of whiskey from corn.</DistillWhisky.description>
-  <DistillWhisky.jobString>Distilling whiskey</DistillWhisky.jobString>
-
 
 </LanguageData>

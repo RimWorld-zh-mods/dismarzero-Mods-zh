@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alcohol Precursors -->
+
+  <CPD_CornWort.label>corn wort</CPD_CornWort.label>
+  <CPD_CornWort.description>Wort made from corn. This substance needs to ferment in a fermenting barrel before it becomes drinkable whiskey.</CPD_CornWort.description>
+
+  <CPD_RiceMash.label>rice mash</CPD_RiceMash.label>
+  <CPD_RiceMash.description>Milled, soaked, and cooked rice. This substance needs to ferment in a fermenting barrel before it becomes drinkable saki.</CPD_RiceMash.description>
+
+  <CPD_VodkaPrecursor.label>undistilled vodka</CPD_VodkaPrecursor.label>
+  <CPD_VodkaPrecursor.description>Fermented vodka. This substance needs to be filtered and distilled at a brewery before it becomes drinkable vodka.</CPD_VodkaPrecursor.description>
+
+  <CPD_WineMust.label>wine must</CPD_WineMust.label>
+  <CPD_WineMust.description>Pressed strawberry juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable strawberry wine.</CPD_WineMust.description>
+
+  <VG_CiderMust.label>cider must</VG_CiderMust.label>
+  <VG_CiderMust.description>Pressed apple juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable hard cider.</VG_CiderMust.description>
+
+  <VG_CaneMash.label>sugarcane mash</VG_CaneMash.label>
+  <VG_CaneMash.description>Milled, soaked, and cooked sugarcane. This substance needs to ferment in a fermenting barrel before it becomes drinkable rum.</VG_CaneMash.description>
+
+  <VG_GrapeMust.label>wine must</VG_GrapeMust.label>
+  <VG_GrapeMust.description>Pressed fruit juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable wine.</VG_GrapeMust.description>
+
+  <VG_AgaveMust.label>agave must</VG_AgaveMust.label>
+  <VG_AgaveMust.description>Pressed agave juice. This substance needs to ferment in a fermenting barrel before it becomes drinkable tequila.</VG_AgaveMust.description>
+
+
+</LanguageData>

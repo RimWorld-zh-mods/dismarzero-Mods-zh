@@ -16,8 +16,8 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawPotatoes</harvestedThingDef>
-      <harvestYield>8</harvestYield>
-      <growDays>3.094</growDays>
+      <harvestYield>14</harvestYield>
+      <growDays>6</growDays>
       <fertilitySensitivity>0.4</fertilitySensitivity>
    </plant>
   </ThingDef>
@@ -33,10 +33,11 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawCorn</harvestedThingDef>
-      <harvestYield>19</harvestYield>
+      <harvestYield>27</harvestYield>
       <topWindExposure>0.35</topWindExposure>
-      <growDays>6.84</growDays>
+      <growDays>11.3</growDays>
       <fertilitySensitivity>1.0</fertilitySensitivity>
+      <immatureGraphicPath>Things/Plant/CornImmature</immatureGraphicPath>
     </plant>
   </ThingDef>
   
@@ -51,8 +52,8 @@
     <plant>
       <maxMeshCount>4</maxMeshCount>
       <harvestedThingDef>RawRice</harvestedThingDef>
-      <harvestYield>6</harvestYield>
-      <growDays>2.4</growDays>
+      <harvestYield>7</harvestYield>
+      <growDays>3</growDays>
       <visualSizeRange>
         <min>0.3</min>
         <max>0.8</max>
@@ -72,13 +73,9 @@
     <plant>
       <dieIfLeafless>false</dieIfLeafless>
       <harvestedThingDef>Rawsnowbeet</harvestedThingDef>
-      <harvestYield>8</harvestYield>
-      <growDays>3.5</growDays>
+      <harvestYield>13</harvestYield>
+      <growDays>6</growDays>
       <fertilitySensitivity>0.4</fertilitySensitivity>
-	<wildBiomes>
-	   <BorealForest>0.02</BorealForest>
-	   <Tundra>0.02</Tundra>
-	</wildBiomes>
     </plant>
   </ThingDef>
 
@@ -93,9 +90,9 @@
     </graphicData>
     <plant>
       <harvestedThingDef>Raweggplant</harvestedThingDef>
-	<harvestYield>6</harvestYield>
+	<harvestYield>7</harvestYield>
       <sowMinSkill>4</sowMinSkill>
-      <growDays>3.75</growDays>
+      <growDays>4.5</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
       <sowResearchPrerequisites>
         <li>agriculture</li>
@@ -136,9 +133,9 @@
      	</graphicData>
       <plant>
       <harvestedThingDef>Rawpumpkin</harvestedThingDef>
-	 <harvestYield>6</harvestYield>
+	 <harvestYield>9</harvestYield>
       <sowMinSkill>4</sowMinSkill>
-      <growDays>4</growDays>
+      <growDays>6</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
       <sowResearchPrerequisites>
         <li>agriculture</li>
@@ -156,9 +153,9 @@
      </graphicData>
 	<plant>
       <harvestedThingDef>Rawsquash</harvestedThingDef>
-	<harvestYield>6</harvestYield>
+	<harvestYield>8</harvestYield>
       <sowMinSkill>4</sowMinSkill>
-      <growDays>4</growDays>
+      <growDays>5</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
       <sowResearchPrerequisites>
         <li>agriculture</li>
@@ -177,7 +174,7 @@
     <plant>
       <harvestedThingDef>Rawbean</harvestedThingDef>
 	<harvestYield>10</harvestYield>
-      <growDays>3.75</growDays>
+      <growDays>4</growDays>
       <fertilitySensitivity>1.0</fertilitySensitivity>
        <sowResearchPrerequisites>
         <li>agriculture</li>
@@ -196,10 +193,9 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawTomatoes</harvestedThingDef>
-      <harvestDestroys>true</harvestDestroys>
 	<harvestYield>8</harvestYield>
       <sowMinSkill>4</sowMinSkill>
-      <growDays>4.76</growDays>
+      <growDays>5</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
       <sowResearchPrerequisites>
         <li>agriculture</li>
@@ -219,8 +215,8 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawCarrots</harvestedThingDef>
-	<harvestYield>6</harvestYield>
-      <growDays>2.5</growDays>
+	<harvestYield>7</harvestYield>
+      <growDays>3</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
     </plant>
   </ThingDef>
@@ -236,7 +232,7 @@
     </graphicData>
     <plant>
       <harvestedThingDef>Rawmushroom</harvestedThingDef>
-	<harvestYield>7</harvestYield>
+	<harvestYield>8</harvestYield>
       <sowMinSkill>4</sowMinSkill>
       <topWindExposure>0.3</topWindExposure>
       <growDays>4.75</growDays>
@@ -264,9 +260,9 @@
     </graphicData>
     <plant>
       <harvestedThingDef>Rawoats</harvestedThingDef>
-	<harvestYield>12</harvestYield>
+	<harvestYield>16</harvestYield>
       <topWindExposure>0.35</topWindExposure>
-      <growDays>3</growDays>
+      <growDays>7</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
 	 </plant>
   </ThingDef>
@@ -284,7 +280,7 @@
 	<harvestYield>9</harvestYield>
       <sowMinSkill>5</sowMinSkill>
       <topWindExposure>0.1</topWindExposure>
-      <growDays>3.75</growDays>
+      <growDays>4</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
     </plant>
   </ThingDef>
@@ -302,8 +298,8 @@
     <plant>
       <maxMeshCount>4</maxMeshCount>
       <harvestedThingDef>Hay</harvestedThingDef>
-      <harvestYield>18</harvestYield>
-      <growDays>5</growDays>
+      <harvestYield>23</harvestYield>
+      <growDays>7</growDays>
       <fertilitySensitivity>0.6</fertilitySensitivity>
       <visualSizeRange>
         <min>0.3</min>
@@ -326,382 +322,28 @@
     </graphicData>
     <hideAtSnowDepth>0.5</hideAtSnowDepth>
     <ingestible>
-      <nutrition>0.15</nutrition>
+      <nutrition>0.18</nutrition>
 	</ingestible>
     <plant>
-      <leaflessGraphicPath>Things/Plant/Grass_Leafless</leaflessGraphicPath>
+			<fertilityMin>0.05</fertilityMin>
+			<fertilitySensitivity>0.3</fertilitySensitivity>
+			<growDays>2.5</growDays>
+			<leaflessGraphicPath>Things/Plant/Grass_Leafless</leaflessGraphicPath>
       <harvestWork>40</harvestWork>
-      <fertilityMin>0.05</fertilityMin>
       <maxMeshCount>9</maxMeshCount>
       <visualSizeRange>
         <min>0.4</min>
-        <max>0.8</max>
+        <max>0.6</max>
       </visualSizeRange>
-      <growDays>2</growDays>
       <topWindExposure>0.4</topWindExposure>
-		<reproduceMtbDays>3</reproduceMtbDays>
+      <reproduceMtbDays>2</reproduceMtbDays>
 		<sowTags>
 			<li>Ground</li>
 		</sowTags>
-		<fertilityMin>0.05</fertilityMin>
-		<fertilitySensitivity>0.3</fertilitySensitivity>
     </plant>
   </ThingDef>
 
 
-<!-- New crop types Fruit Trees -->
-
-
-
-
-
-  <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantAppletree</defName>
-    <label>apple tree</label>
-    <description>A fruit bearing tree that grows apples and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Plants/appleTree</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>13</growDays>
-      <harvestedThingDef>Rawapple</harvestedThingDef>
-	<wildBiomes>
-	   <TemperateForest>0.025</TemperateForest>
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-  
-  <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantBananaTree</defName>
-    <label>banana tree</label>
-    <description>A fruit bearing tree that grows banana and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Plants/bananaTree</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>   
-      <growDays>12</growDays>
-      <harvestedThingDef>Rawbanana</harvestedThingDef>
-	<wildBiomes>
-	   <TropicalRainforest>0.025</TropicalRainforest>    		
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-    <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantorangeTree</defName>
-    <label>orange tree</label>
-    <description>A fruit bearing tree that grows oranges and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Plants/orangeTree</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>13</growDays>
-      <harvestedThingDef>Raworange</harvestedThingDef>
-	<wildBiomes>
-	   <TropicalRainforest>0.03</TropicalRainforest>    		
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantPeachTree</defName>
-    <label>peach tree</label>
-    <description>A fruit bearing tree that grows peaches and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Plants/peachTree</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>13</growDays>
-      <harvestedThingDef>Rawpeach</harvestedThingDef>
-	<wildBiomes>
-	   <TemperateForest>0.03</TemperateForest>
-	   <TropicalRainforest>0.03</TropicalRainforest>    		
-	</wildBiomes>
-     </plant>
- </ThingDef>
-
-
-    <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>DateTree</defName>
-    <label>date palm tree</label>
-    <description>A fruit bearing tree that grows dates and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Plants/DateTree</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>12</growDays>
-      <harvestedThingDef>Rawdate</harvestedThingDef>
-	<wildBiomes>
-        <AridShrubland>0.03</AridShrubland>
-        <Desert>0.01</Desert>
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-    <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>FigTree</defName>
-    <label>fig tree</label>
-    <description>A fruit bearing tree that grows figs and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Plants/FigTree</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>12</growDays>
-      <harvestedThingDef>Rawfig</harvestedThingDef>
-	<wildBiomes>
-        <AridShrubland>0.01</AridShrubland>
-        <Desert>0.01</Desert>
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantCherrytree</defName>
-    <label>cherry tree</label>
-    <description>A fruit bearing tree that grows cherries and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Tree/TreeCherryFruit</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>14</growDays>
-      <harvestedThingDef>RawCherry</harvestedThingDef>
-	<wildBiomes>
-	   <TemperateForest>0.02</TemperateForest>
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantCoconuttree</defName>
-    <label>coconut tree</label>
-    <description>A fruit bearing tree that grows coconuts and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Tree/TreeCoconut</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>14</growDays>
-      <harvestedThingDef>RawCoconut</harvestedThingDef>
-	<wildBiomes>
-	   <TropicalRainforest>0.02</TropicalRainforest>    		
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-
-  <ThingDef ParentName="VG_FruitTreeBase">
-    <defName>PlantOlivetree</defName>
-    <label>olive tree</label>
-    <description>A fruit bearing tree that grows olives and is not destroyed when picked.</description>
-    <graphicData>
-      <texPath>Things/Tree/TreeOlive</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <growDays>14</growDays>
-      <harvestedThingDef>RawOlive</harvestedThingDef>
-	<wildBiomes>
-        <AridShrubland>0.02</AridShrubland>
-	</wildBiomes>
-    </plant>
-  </ThingDef>
-
-
-<ThingDef ParentName="VG_PlantDef">
-	<defName>Plantpineapple</defName>
-	<label>pineapple plant</label>
-	<description>Think skin fruit that grows a top a bush.</description>
-    <graphicData>
-      <texPath>Things/Plants/pineapplePlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>Rawpineapple</harvestedThingDef>
-	<harvestYield>6</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <growDays>6.25</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-	<wildBiomes>
-	   <TropicalRainforest>0.03</TropicalRainforest>    		
-	</wildBiomes>
-      <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-    </plant>
-  </ThingDef>
-
-
-<ThingDef ParentName="VG_PlantDef">
-	<defName>Plantgrape</defName>
-	<label>grape vine</label>
-	<description>A sweet small fruit that grows in small viney bushes.</description>
-    <graphicData>
-      <texPath>Things/Plants/grapePlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>Rawgrape</harvestedThingDef>
-	<harvestYield>6</harvestYield>
-     <sowMinSkill>6</sowMinSkill>
-      <growDays>6.5</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-      <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-    </plant>
-
-  </ThingDef>
-
-
-<ThingDef ParentName="VG_PlantDef">
-	<defName>Plantcloudberry</defName>
-	<label>cloudberry plant</label>
-	<description>A berry bush that grows well in cold climates.</description>
-    <graphicData>
-      <texPath>Things/Plants/cloudberryPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <dieIfLeafless>false</dieIfLeafless>
-      <harvestedThingDef>Rawcloudberry</harvestedThingDef>
-      <harvestYield>6</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <growDays>6.25</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-	<wildBiomes>
-	   <BorealForest>0.3</BorealForest>
-	   <Tundra>0.01</Tundra>
-	</wildBiomes>
-       <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
-
-<ThingDef ParentName="VG_PlantDef">
-	<defName>Plantgooseberry</defName>
-	<label>gooseberry plant</label>
-	<description>A berry bush that grows well in cold climates.</description>
-    <graphicData>
-      <texPath>Things/Plants/gooseberryPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <dieIfLeafless>false</dieIfLeafless>
-      <harvestedThingDef>Rawgooseberry</harvestedThingDef>
-      <harvestYield>6</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <sowTags>
-        <li>Ground</li>
-        <li>Hydroponic</li>
-      </sowTags>
-      <growDays>6.25</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-	<wildBiomes>
-	   <BorealForest>0.03</BorealForest>
-	   <Tundra>0.01</Tundra>
-	</wildBiomes>
-      <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-    </plant>
-
-  </ThingDef>
-
-<ThingDef ParentName="VG_PlantDef">
-    <defName>PlantAgave</defName>
-    <label>agave</label>
-    <description>A large-leafed desert plant with edible flowers and stalks.</description>
-    <graphicData>
-      <texPath>Things/Plants/Agave</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawAgave</harvestedThingDef>
-      <harvestYield>7</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <sowTags>
-        <li>Hydroponic</li>
-        <li>Ground</li>
-      </sowTags>
-      <fertilityMin>0.3</fertilityMin>
-      <growDays>6</growDays>
-      <topWindExposure>0.3</topWindExposure>
-      <fertilitySensitivity>0.75</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-  </plant>
-  </ThingDef>
-
-
-  <ThingDef ParentName="VG_PlantDef">
-    <defName>PlantStrawberry</defName>
-    <label>strawberry plant</label>
-    <description>A fragile but tasty fruit. Delicious even when raw.</description>
-    <graphicData>
-      <texPath>Things/Plants/StrawberryPlant</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawBerries</harvestedThingDef>
-      <harvestYield>7</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <growDays>6.30</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
-
-
-<ThingDef ParentName="VG_PlantDef">
-		<defName>Plantblueberry</defName>
-		<label>blueberry plant</label>
-		<description>Blue colored berry that grows in bushes.</description>
-    <graphicData>
-      <texPath>Things/Plants/blueberryPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>Rawblueberry</harvestedThingDef>
-      <harvestYield>8</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <growDays>7</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
-
-<ThingDef ParentName="VG_PlantDef">
-	<defName>Plantwatermelon</defName>
-	<label>watermelon plant</label>
-	<description>This fruit is rich in vitamins A and C and can be eaten raw or cooked in a variety of ways.</description>
-    <graphicData>
-      <texPath>Things/Plants/watermelonPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>Rawwatermelon</harvestedThingDef>
-	<harvestYield>6</harvestYield>
-      <sowMinSkill>6</sowMinSkill>
-      <growDays>6</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>agricultureII</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
 
 <ThingDef ParentName="VG_PlantDef">
 	<defName>Plantcocoa</defName>
@@ -787,14 +429,15 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawHops</harvestedThingDef>
-      <harvestYield>8</harvestYield>
+      <harvestYield>10</harvestYield>
       <sowMinSkill>7</sowMinSkill>
-      <growDays>5.25</growDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
+      <growDays>5</growDays>
+      <fertilitySensitivity>0.7</fertilitySensitivity>
     </plant>
   </ThingDef>
 
 
+<!-- =========== 
 
 <ThingDef ParentName="VG_PlantDef">
 	<defName>Plantaloe</defName>
@@ -820,6 +463,9 @@
 	</wildBiomes>
     </plant>
   </ThingDef>
+=========== -->
+
+
 
   <ThingDef ParentName="VG_PlantDef">
     <defName>PlantHealroot</defName>
@@ -850,10 +496,10 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawCotton</harvestedThingDef>
-      <harvestYield>5</harvestYield>
+      <harvestYield>13</harvestYield>
       <sowMinSkill>4</sowMinSkill>
-      <growDays>2.7</growDays>
-      <fertilitySensitivity>0.7</fertilitySensitivity>
+      <growDays>8</growDays>
+      <fertilitySensitivity>0.7</fertilitySensitivity>      <immatureGraphicPath>Things/Plant/CottonImmature</immatureGraphicPath>
     </plant>
   </ThingDef>
 
@@ -887,112 +533,13 @@
     </graphicData>
     <plant>
       <harvestedThingDef>RawFlax</harvestedThingDef>
-	<harvestYield>7</harvestYield>
+	<harvestYield>9</harvestYield>
       <sowMinSkill>4</sowMinSkill>
       <growDays>16.1</growDays>
       <fertilitySensitivity>0.4</fertilitySensitivity>
     </plant>
   </ThingDef>
 
-  <ThingDef ParentName="VG_PlantDef">
-    <defName>PlantSteelLeaf</defName>
-    <label>steel shroom tree</label>
-    <description>Plants with natural occurring steel in it's viens. Steel shrooms can be smelted at an Electric Smelter into steel ore.</description>
-    <graphicData>
-      <texPath>Things/Plants/SteelPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawSteelLeaf</harvestedThingDef>
-      <harvestYield>16</harvestYield>
-      <sowMinSkill>8</sowMinSkill>
-      <growDays>12</growDays>
-      <fertilitySensitivity>1</fertilitySensitivity>
-      <sowResearchPrerequisites>
-        <li>resourceleafs</li>
-      </sowResearchPrerequisites>
-    </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_PlantDef">
-    <defName>PlantPlasteelLeaf</defName>
-    <label>plasteel bulb</label>
-    <description>Plants with natural occurring plasteel in it's viens. Plasteel bulbs can be smelted at an Electric Smelter into plasteel ore.</description>
-    <graphicData>
-      <texPath>Things/Plants/PlasteelPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawPlasteelLeaf</harvestedThingDef>
-      <harvestYield>16</harvestYield>
-      <sowMinSkill>10</sowMinSkill>
-      <growDays>16</growDays>
-      <fertilitySensitivity>1</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>resourceleafs</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_PlantDef">
-    <defName>PlantGoldLeaf</defName>
-    <label>gold fern</label>
-    <description>Plants with natural occurring gold in it's viens. Gold ferns can be smelted at an Electric Smelter into gold nuggets.</description>
-    <graphicData>
-      <texPath>Things/Plants/GoldPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawGoldLeaf</harvestedThingDef>
-      <harvestYield>16</harvestYield>
-      <sowMinSkill>15</sowMinSkill>
-      <growDays>16</growDays>
-      <fertilitySensitivity>1</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>resourceleafs</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_PlantDef">
-    <defName>PlantSilverLeaf</defName>
-    <label>silver flower</label>
-    <description>Plants with natural occurring silver in it's viens. Silver flowers can be smelted at an Electric Smelter into silver.</description>
-    <graphicData>
-      <texPath>Things/Plants/SilverPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawSilverLeaf</harvestedThingDef>
-      <harvestYield>16</harvestYield>
-      <sowMinSkill>12</sowMinSkill>
-      <growDays>18</growDays>
-      <fertilitySensitivity>1</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>resourceleafs</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_PlantDef">
-    <defName>PlantUraniumLeaf</defName>
-    <label>uranium root</label>
-    <description>Plants with natural occurring Uranium in it's viens. Uranium roots can be smelted at an Electric Smelter into Uranium ore.</description>
-    <graphicData>
-      <texPath>Things/Plants/UraniumPlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>RawUraniumLeaf</harvestedThingDef>
-      <harvestYield>16</harvestYield>
-      <sowMinSkill>14</sowMinSkill>
-      <growDays>20</growDays>
-      <fertilitySensitivity>1</fertilitySensitivity>
-       <sowResearchPrerequisites>
-        <li>resourceleafs</li>
-      </sowResearchPrerequisites>
-   </plant>
-  </ThingDef>
 
   <ThingDef ParentName="VG_PlantDef">
     <defName>PlantNeutroFlower</defName>
@@ -1035,55 +582,10 @@
       <growDays>5</growDays>
       <fertilitySensitivity>0.75</fertilitySensitivity>
 	<wildBiomes>
-	   <TemperateForest>0.02</TemperateForest>
+	   <TemperateForest>0.01</TemperateForest>
 	   <TropicalRainforest>0.02</TropicalRainforest>    			</wildBiomes>
     </plant>
   </ThingDef>
-
-  <ThingDef ParentName="VG_PlantBase">
-    <defName>PlantRaspberry</defName>
-    <label>raspberry bush</label>
-    <description>A bushy plant which yields delicious red berries.</description>
-    <statBases>
-      <MaxHitPoints>120</MaxHitPoints>
-    </statBases>
-    <graphicData>
-      <texPath>Things/Plants/Raspberry</texPath>
-      <graphicClass>Graphic_Random</graphicClass>
-      <shadowData>
-        <volume>(0.55, 0.2, 0.2)</volume>
-      </shadowData>
-    </graphicData>
-    <selectable>true</selectable>
-    <fillPercent>0.25</fillPercent>
-    <pathCost>30</pathCost>
-    <ingestible>
-      <nutrition>0.25</nutrition>
-    </ingestible>
-    <plant>
-			<fertilityMin>0.5</fertilityMin>
-			<fertilitySensitivity>0.5</fertilitySensitivity>
-			<growDays>4.5</growDays>
-			<leaflessGraphicPath>Things/Plant/Bush_Leafless</leaflessGraphicPath>
-			<harvestYield>10</harvestYield>
-			<harvestWork>800</harvestWork>
-			<harvestTag>Standard</harvestTag>
-			<harvestDestroys>true</harvestDestroys>
-			<harvestedThingDef>RawBerries</harvestedThingDef>
-			<wildCommonalityMaxFraction>1.5</wildCommonalityMaxFraction>
-			<wildClusterSizeRange>
-				<min>2</min>
-				<max>5</max>
-			</wildClusterSizeRange>
-			<wildClusterRadius>4</wildClusterRadius>
-			<visualSizeRange>
-				<min>0.7</min>
-				<max>1.1</max>
-			</visualSizeRange>
-			<topWindExposure>0.3</topWindExposure>
-		</plant>
-  </ThingDef>
-
 
 
 </Plants>

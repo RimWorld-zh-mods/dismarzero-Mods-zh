@@ -238,24 +238,6 @@
   </ThingDef>
 
 <ThingDef ParentName="VG_RawFruitBase">
-		<defName>RawOlive</defName>
-		<label>Olive</label>
-		<description>A small berry fruit that grows on trees.</description>
-		<graphicData>
-      <texPath>Things/Fruits/OliveFruit</texPath>
-    </graphicData>
-    <statBases>
-      <MarketValue>4</MarketValue>
- 			<Mass>0.027</Mass>
-   </statBases>
-    <comps>
-      <li Class="CompProperties_Rottable">
-        <daysToRotStart>8</daysToRotStart>
-      </li>
-    </comps>
-  </ThingDef>
-
-<ThingDef ParentName="VG_RawFruitBase">
 		<defName>RawCoconut</defName>
 		<label>Coconut</label>
 		<description>A coconut fruit that grows on trees. Has a hard outer shell with a juicy fruit flesh inside. Can be further havested at a food prep table to make coconut halves and milk.</description>

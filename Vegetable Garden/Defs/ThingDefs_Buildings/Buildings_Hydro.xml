@@ -4,7 +4,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>Planterbox</defName>
     <label>Planter Box</label>
-    <description>Crude box filled with soil, that allows you to grow anywhere. Growth rate is reduced to 60% Does not require power.</description>
+    <description>Crude box filled with soil, that allows you to grow anywhere. Fertility is reduced to 60%. Does not require power.</description>
     <thingClass>Building_PlantGrower</thingClass>
     <graphicData>
       <texPath>Things/Building/Planterbox</texPath>
@@ -29,7 +29,10 @@
       <Cleanliness>-3</Cleanliness>
     </statBases>
     <size>(1,4)</size>
-    <stuffCategories>
+     <CostList>
+      <VG_PileofDirt>4</VG_PileofDirt>
+    </CostList>
+   <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
       <li>Stony</li>
@@ -48,7 +51,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>ModularPlanterbox</defName>
     <label>Modular Planter Box</label>
-    <description>Crude box filled with soil, that allows you to grow anywhere. Growth rate is reduced to 60% Does not require power. Modular allows you to make 1x1 connected boxes of any size.</description>
+    <description>Crude box filled with soil, that allows you to grow anywhere. Fertility is reduced to 60%. Does not require power. Modular allows you to make 1x1 connected boxes of any size.</description>
     <thingClass>Building_PlantGrower</thingClass>
     <graphicData>
       <texPath>Things/Building/PlanterModular_Atlas</texPath>
@@ -77,7 +80,10 @@
       <Flammability>1.0</Flammability>
       <Cleanliness>-3</Cleanliness>
     </statBases>
-    <stuffCategories>
+     <CostList>
+      <VG_PileofDirt>1</VG_PileofDirt>
+    </CostList>
+   <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
       <li>Stony</li>
@@ -98,7 +104,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>HydroponicsBasin</defName>
     <label>hydroponics basin</label>
-    <description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</description>
+    <description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut. Fertility is 220%.</description>
     <thingClass>Building_PlantGrower</thingClass>
     <graphicData>
       <texPath>Things/Building/Production/HydroponicsBasin</texPath>
@@ -151,7 +157,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>ModularHydroponicsBasin</defName>
     <label>Modular Hydroponics Basin</label>
-    <description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</description>
+    <description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut. Fertility is 220%.</description>
     <thingClass>Building_PlantGrower</thingClass>
     <graphicData>
       <texPath>Things/Building/HydroModular_Atlas</texPath>
@@ -209,7 +215,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>ADVHydroponicsBasin</defName>
     <label>Advanced hydroponics basin</label>
-    <description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light.</description>
+    <description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light. Fertility  is 300%.</description>
     <thingClass>Building_PlantGrower</thingClass>
     <graphicData>
       <texPath>Things/Building/Production/HydroponicsBasin</texPath>
@@ -267,7 +273,7 @@
   <ThingDef ParentName="BuildingBase">
     <defName>ADVModularHydroponicsBasin</defName>
     <label> Adv. Modular hydroponics basin</label>
-    <description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light.</description>
+    <description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light. Fertility is 300%.</description>
     <thingClass>Building_PlantGrower</thingClass>
     <graphicData>
       <texPath>Things/Building/HydroModular_Atlas</texPath>
@@ -325,49 +331,6 @@
     <designationCategory>GardenTools</designationCategory>
   </ThingDef>
 
-  <ThingDef ParentName="BuildingBase">
-    <defName>Composterbox</defName>
-    <label>Composter Box</label>
-    <description>Crude box filled with soil and plant matter that allows the "growth" of fertilizer</description>
-    <thingClass>Building_PlantGrower</thingClass>
-    <graphicData>
-      <texPath>Things/Building/Planterbox</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(2,2)</drawSize>
-      <damageData>
-        <cornerTL>Damage/Corner</cornerTL>
-        <cornerTR>Damage/Corner</cornerTR>
-        <cornerBL>Damage/Corner</cornerBL>
-        <cornerBR>Damage/Corner</cornerBR>
-      </damageData>
-    </graphicData>
-    <altitudeLayer>FloorEmplacement</altitudeLayer>
-    <passability>PassThroughOnly</passability>
-    <pathCost>60</pathCost>
-    <castEdgeShadows>true</castEdgeShadows>
-    <fillPercent>0.30</fillPercent>
-    <statBases>
-      <WorkToBuild>2800</WorkToBuild>
-      <MaxHitPoints>180</MaxHitPoints>
-      <Flammability>1.0</Flammability>
-      <Cleanliness>-3</Cleanliness>
-    </statBases>
-    <size>(2,2)</size>
-    <stuffCategories>
-      <li>Metallic</li>
-      <li>Woody</li>
-      <li>Stony</li>
-    </stuffCategories>
-    <costStuffCount>50</costStuffCount>
-    <fertility>1</fertility>
-    <building>
-      <defaultPlantToGrow>Plant_Fertilizer</defaultPlantToGrow>
-      <sowTag>Composter</sowTag>
- </building>
- <tickerType>Rare</tickerType>
-    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-    <designationCategory>GardenTools</designationCategory>
-  </ThingDef>
 
 
   <ThingDef ParentName="BuildingBase">
@@ -432,6 +395,116 @@
     <terrainAffordanceNeeded>GrowSoil</terrainAffordanceNeeded>
     <designationCategory>GardenTools</designationCategory>
   </ThingDef>
+
+	<ThingDef ParentName="BuildingBase">
+		<defName>FertilizerMachine</defName>
+		<label>fertilizer machine</label>
+		<description>Use plants to produce fertilizer. Requires to install near hopper!</description>
+		<thingClass>VGDrinks.Building_FertilizerProductionMachine</thingClass>
+		<graphicData>
+			<texPath>Things/Building/FertilizerProductionMachine</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(3,2)</drawSize>
+			<damageData>
+				<rect>(0.02,0.25,2.96,2.85)</rect>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+			</damageData>
+		</graphicData>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<fillPercent>1</fillPercent>
+		<statBases>
+			<WorkToBuild>2200</WorkToBuild>
+			<MaxHitPoints>350</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+		</statBases>
+		<building>
+			<wantsHopperAdjacent>true</wantsHopperAdjacent>
+        <nutritionCostPerDispense>0.3</nutritionCostPerDispense>
+			<soundDispense>DispensePaste</soundDispense>
+		</building>
+		<comps>
+			<li Class="CompProperties_Power">
+				<compClass>CompPowerTrader</compClass>
+				<startElectricalFires>true</startElectricalFires>
+				<basePowerConsumption>600</basePowerConsumption>
+			</li>
+			<li Class="CompProperties_Flickable"/>
+			<li Class="CompProperties_Breakdownable"/>
+		</comps>
+		<size>(3,2)</size>
+		<stuffCategories>
+			<li>Metallic</li>
+		</stuffCategories>
+		<costStuffCount>130</costStuffCount>
+		<costList>
+			<Component>1</Component>
+		</costList>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<interactionCellOffset>(0,0,2)</interactionCellOffset>
+		<hasInteractionCell>true</hasInteractionCell>
+		<terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
+		<designationCategory>Production</designationCategory>
+		<tickerType>Rare</tickerType>
+	</ThingDef>
+
+    <ThingDef ParentName="BuildingBase">
+		<thingClass>CuprosDrinks.Building_AlcoholBarrel</thingClass>
+        <defName>VG_Composterbox</defName>
+        <label>Composter Box</label>
+    <description>Crude box filled with soil and plant matter that allows the "growth" of fertilizer</description>
+    <graphicData>
+      <texPath>Things/Building/Planterbox</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+		<minifiedDef>MinifiedFurniture</minifiedDef>
+		<altitudeLayer>Building</altitudeLayer>
+		<passability>PassThroughOnly</passability>
+		<canOverlapZones>false</canOverlapZones>
+		<fillPercent>0.45</fillPercent>
+		<pathCost>60</pathCost>
+		<rotatable>true</rotatable>
+
+     		<size>(1,1)</size>
+	<stuffCategories>
+     		<li>Metallic</li>
+     		<li>Woody</li>
+     		<li>Stony</li>
+   	</stuffCategories>
+    <costStuffCount>50</costStuffCount>
+		<useHitPoints>true</useHitPoints>
+		<Passability>PassThroughOnly</Passability>
+		<tickerType>Rare</tickerType>
+
+    <statBases>
+      	<Cleanliness>-15</Cleanliness>
+		<WorkToBuild>600</WorkToBuild>
+		<Mass>10</Mass>
+		<MaxHitPoints>100</MaxHitPoints>
+		<Flammability>1.0</Flammability>
+    </statBases>
+    <designationCategory>GardenTools</designationCategory>
+  <comps>
+     	<li Class="CuprosDrinks.CompProperties_AlcoholBarrel">
+				<ingredient>VG_Compost</ingredient>
+				<product>RawFertilizer</product>
+            </li>
+ 	<li Class="CompProperties_TemperatureRuinable">
+				<minSafeTemperature>-1</minSafeTemperature>
+				<maxSafeTemperature>32</maxSafeTemperature>
+				<progressPerDegreePerTick>0.00001</progressPerDegreePerTick>
+			</li>
+       </comps>
+    </ThingDef>
+
 
 
 </ThingDefs>

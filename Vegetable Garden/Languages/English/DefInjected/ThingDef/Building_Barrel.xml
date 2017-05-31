@@ -1,61 +1,74 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VG_UnpackingSpot.label>upacking spot</VG_UnpackingSpot.label>
-  <VG_UnpackingSpot.description>A place for unpacking crates of alcohol.</VG_UnpackingSpot.description>
-  <VG_UnpackingSpot_Blueprint.label>upacking spot (blueprint)</VG_UnpackingSpot_Blueprint.label>
-  <VG_UnpackingSpot_Frame.label>upacking spot (building)</VG_UnpackingSpot_Frame.label>
+  <!--[Core] <Brewery.label>brewery</Brewery.label>-->
+  <!--[Core] <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>-->
+  <!--[Core] <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>-->
+  <!--[Core] <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>-->
+  <!--[Core] <Brewery_Frame.description>A work station with all the equipment needed to brew beer.</Brewery_Frame.description>-->
 
-  <Brewery.label>brewery</Brewery.label>
-  <Brewery.description>A work station with all the equipment needed to brew beer.</Brewery.description>
-  <Brewery_Blueprint.label>brewery (blueprint)</Brewery_Blueprint.label>
-  <Brewery_Frame.label>brewery (building)</Brewery_Frame.label>
+  <!--[Core] <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>-->
+  <!--[Core] <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>-->
+  <!--[Core] <FermentingBarrel_Blueprint.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint.label>-->
+  <!--[Core] <FermentingBarrel_Blueprint_Install.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint_Install.label>-->
+  <!--[Core] <FermentingBarrel_Frame.label>fermenting barrel (building)</FermentingBarrel_Frame.label>-->
+  <!--[Core] <FermentingBarrel_Frame.description>A barrel for fermenting raw wort into beer.</FermentingBarrel_Frame.description>-->
 
-  <FermentingBarrel.label>fermenting barrel</FermentingBarrel.label>
-  <FermentingBarrel.description>A barrel for fermenting raw wort into beer.</FermentingBarrel.description>
-  <FermentingBarrel_Blueprint.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint.label>
-  <FermentingBarrel_Blueprint_Install.label>fermenting barrel (blueprint)</FermentingBarrel_Blueprint_Install.label>
-  <FermentingBarrel_Frame.label>fermenting barrel (building)</FermentingBarrel_Frame.label>
+  <cider_Barrel.label>fermenting barrel, Apple cider</cider_Barrel.label>
+  <cider_Barrel.description>A barrel for fermenting alcohol.</cider_Barrel.description>
+  <cider_Barrel_Blueprint.label>fermenting barrel, Apple cider (blueprint)</cider_Barrel_Blueprint.label>
+  <cider_Barrel_Blueprint_Install.label>fermenting barrel, Apple cider (blueprint)</cider_Barrel_Blueprint_Install.label>
+  <cider_Barrel_Frame.label>fermenting barrel, Apple cider (building)</cider_Barrel_Frame.label>
+  <cider_Barrel_Frame.description>A barrel for fermenting alcohol.</cider_Barrel_Frame.description>
 
-  <cider_Barrel.label>barrel of Shinzee's apple cider</cider_Barrel.label>
-  <cider_Barrel.description>A barrel of fermenting alcohol.</cider_Barrel.description>
-  <cider_Barrel_Blueprint.label>barrel of Shinzee's apple cider (blueprint)</cider_Barrel_Blueprint.label>
-  <cider_Barrel_Frame.label>barrel of Shinzee's apple cider (building)</cider_Barrel_Frame.label>
+  <rum_Barrel.label>fermenting barrel, Rum</rum_Barrel.label>
+  <rum_Barrel.description>A barrel for fermenting alcohol.</rum_Barrel.description>
+  <rum_Barrel_Blueprint.label>fermenting barrel, Rum (blueprint)</rum_Barrel_Blueprint.label>
+  <rum_Barrel_Blueprint_Install.label>fermenting barrel, Rum (blueprint)</rum_Barrel_Blueprint_Install.label>
+  <rum_Barrel_Frame.label>fermenting barrel, Rum (building)</rum_Barrel_Frame.label>
+  <rum_Barrel_Frame.description>A barrel for fermenting alcohol.</rum_Barrel_Frame.description>
 
-  <rum_Barrel.label>barrel of REinstein's Rum</rum_Barrel.label>
-  <rum_Barrel.description>A barrel of fermenting alcohol.</rum_Barrel.description>
-  <rum_Barrel_Blueprint.label>barrel of REinstein's Rum (blueprint)</rum_Barrel_Blueprint.label>
-  <rum_Barrel_Frame.label>barrel of REinstein's Rum (building)</rum_Barrel_Frame.label>
+  <Wine_Barrel.label>fermenting barrel, Berry Wine</Wine_Barrel.label>
+  <Wine_Barrel.description>A barrel for fermenting alcohol.</Wine_Barrel.description>
+  <Wine_Barrel_Blueprint.label>fermenting barrel, Berry Wine (blueprint)</Wine_Barrel_Blueprint.label>
+  <Wine_Barrel_Blueprint_Install.label>fermenting barrel, Berry Wine (blueprint)</Wine_Barrel_Blueprint_Install.label>
+  <Wine_Barrel_Frame.label>fermenting barrel, Berry Wine (building)</Wine_Barrel_Frame.label>
+  <Wine_Barrel_Frame.description>A barrel for fermenting alcohol.</Wine_Barrel_Frame.description>
 
-  <Wine_Barrel.label>barrel of Ramsi's wine</Wine_Barrel.label>
-  <Wine_Barrel.description>A barrel of fermenting alcohol.</Wine_Barrel.description>
-  <Wine_Barrel_Blueprint.label>barrel of Ramsi's wine (blueprint)</Wine_Barrel_Blueprint.label>
-  <Wine_Barrel_Frame.label>barrel of Ramsi's wine (building)</Wine_Barrel_Frame.label>
+  <GrapeWine_Barrel.label>fermenting barrel, Grape Wine</GrapeWine_Barrel.label>
+  <GrapeWine_Barrel.description>A barrel for fermenting alcohol.</GrapeWine_Barrel.description>
+  <GrapeWine_Barrel_Blueprint.label>fermenting barrel, Grape Wine (blueprint)</GrapeWine_Barrel_Blueprint.label>
+  <GrapeWine_Barrel_Blueprint_Install.label>fermenting barrel, Grape Wine (blueprint)</GrapeWine_Barrel_Blueprint_Install.label>
+  <GrapeWine_Barrel_Frame.label>fermenting barrel, Grape Wine (building)</GrapeWine_Barrel_Frame.label>
+  <GrapeWine_Barrel_Frame.description>A barrel for fermenting alcohol.</GrapeWine_Barrel_Frame.description>
 
-  <strawberrywine_Barrel.label>barrel of Spoon's Berry wine</strawberrywine_Barrel.label>
-  <strawberrywine_Barrel.description>A barrel of fermenting alcohol.</strawberrywine_Barrel.description>
-  <strawberrywine_Barrel_Blueprint.label>barrel of Spoon's Berry wine (blueprint)</strawberrywine_Barrel_Blueprint.label>
-  <strawberrywine_Barrel_Frame.label>barrel of Spoon's Berry wine (building)</strawberrywine_Barrel_Frame.label>
+  <saki_Barrel.label>fermenting barrel, Sake</saki_Barrel.label>
+  <saki_Barrel.description>A barrel for fermenting alcohol.</saki_Barrel.description>
+  <saki_Barrel_Blueprint.label>fermenting barrel, Sake (blueprint)</saki_Barrel_Blueprint.label>
+  <saki_Barrel_Blueprint_Install.label>fermenting barrel, Sake (blueprint)</saki_Barrel_Blueprint_Install.label>
+  <saki_Barrel_Frame.label>fermenting barrel, Sake (building)</saki_Barrel_Frame.label>
+  <saki_Barrel_Frame.description>A barrel for fermenting alcohol.</saki_Barrel_Frame.description>
 
-  <saki_Barrel.label>barrel of WHiZ Sake</saki_Barrel.label>
-  <saki_Barrel.description>A barrel of fermenting alcohol.</saki_Barrel.description>
-  <saki_Barrel_Blueprint.label>barrel of WHiZ Sake (blueprint)</saki_Barrel_Blueprint.label>
-  <saki_Barrel_Frame.label>barrel of WHiZ Sake (building)</saki_Barrel_Frame.label>
+  <vodka_Barrel.label>fermenting barrel, Vodka</vodka_Barrel.label>
+  <vodka_Barrel.description>A barrel for fermenting alcohol.</vodka_Barrel.description>
+  <vodka_Barrel_Blueprint.label>fermenting barrel, Vodka (blueprint)</vodka_Barrel_Blueprint.label>
+  <vodka_Barrel_Blueprint_Install.label>fermenting barrel, Vodka (blueprint)</vodka_Barrel_Blueprint_Install.label>
+  <vodka_Barrel_Frame.label>fermenting barrel, Vodka (building)</vodka_Barrel_Frame.label>
+  <vodka_Barrel_Frame.description>A barrel for fermenting alcohol.</vodka_Barrel_Frame.description>
 
-  <vodka_Barrel.label>barrel of Syntria Vodka</vodka_Barrel.label>
-  <vodka_Barrel.description>A barrel of fermenting alcohol.</vodka_Barrel.description>
-  <vodka_Barrel_Blueprint.label>barrel of Syntria Vodka (blueprint)</vodka_Barrel_Blueprint.label>
-  <vodka_Barrel_Frame.label>barrel of Syntria Vodka (building)</vodka_Barrel_Frame.label>
+  <tequila_Barrel.label>fermenting barrel, Tequila</tequila_Barrel.label>
+  <tequila_Barrel.description>A barrel for fermenting alcohol.</tequila_Barrel.description>
+  <tequila_Barrel_Blueprint.label>fermenting barrel, Tequila (blueprint)</tequila_Barrel_Blueprint.label>
+  <tequila_Barrel_Blueprint_Install.label>fermenting barrel, Tequila (blueprint)</tequila_Barrel_Blueprint_Install.label>
+  <tequila_Barrel_Frame.label>fermenting barrel, Tequila (building)</tequila_Barrel_Frame.label>
+  <tequila_Barrel_Frame.description>A barrel for fermenting alcohol.</tequila_Barrel_Frame.description>
 
-  <tequila_Barrel.label>barrel of Kitty's Tequila</tequila_Barrel.label>
-  <tequila_Barrel.description>A barrel of fermenting alcohol.</tequila_Barrel.description>
-  <tequila_Barrel_Blueprint.label>barrel of Kitty's Tequila (blueprint)</tequila_Barrel_Blueprint.label>
-  <tequila_Barrel_Frame.label>barrel of Kitty's Tequila (building)</tequila_Barrel_Frame.label>
-
-  <Whiskey_Barrel.label>barrel of Quill18's Whiskey</Whiskey_Barrel.label>
-  <Whiskey_Barrel.description>A barrel of fermenting alcohol.</Whiskey_Barrel.description>
-  <Whiskey_Barrel_Blueprint.label>barrel of Quill18's Whiskey (blueprint)</Whiskey_Barrel_Blueprint.label>
-  <Whiskey_Barrel_Frame.label>barrel of Quill18's Whiskey (building)</Whiskey_Barrel_Frame.label>
+  <Whiskey_Barrel.label>fermenting barrel, Whiskey</Whiskey_Barrel.label>
+  <Whiskey_Barrel.description>A barrel for fermenting alcohol.</Whiskey_Barrel.description>
+  <Whiskey_Barrel_Blueprint.label>fermenting barrel, Whiskey (blueprint)</Whiskey_Barrel_Blueprint.label>
+  <Whiskey_Barrel_Blueprint_Install.label>fermenting barrel, Whiskey (blueprint)</Whiskey_Barrel_Blueprint_Install.label>
+  <Whiskey_Barrel_Frame.label>fermenting barrel, Whiskey (building)</Whiskey_Barrel_Frame.label>
+  <Whiskey_Barrel_Frame.description>A barrel for fermenting alcohol.</Whiskey_Barrel_Frame.description>
 
 
 </LanguageData>

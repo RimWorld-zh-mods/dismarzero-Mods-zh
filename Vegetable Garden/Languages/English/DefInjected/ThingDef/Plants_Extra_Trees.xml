@@ -3,23 +3,23 @@
 
   <!-- Vanilla Trees -->
 
-  <PlantTreeOak.label>oak tree</PlantTreeOak.label>
-  <PlantTreeOak.description>A strong hardwood tree. Slow-going, but its wood is very strong.</PlantTreeOak.description>
+  <!--[Core] <PlantTreeOak.label>oak tree</PlantTreeOak.label>-->
+  <!--[Core] <PlantTreeOak.description>A strong hardwood tree. Slow-going, but its wood is very strong.</PlantTreeOak.description>-->
 
-  <PlantTreePoplar.label>poplar tree</PlantTreePoplar.label>
-  <PlantTreePoplar.description>A softwood tree. Grows fast, but yield little useful wood.</PlantTreePoplar.description>
+  <!--[Core] <PlantTreePoplar.label>poplar tree</PlantTreePoplar.label>-->
+  <!--[Core] <PlantTreePoplar.description>A softwood tree. Grows fast, but yield little useful wood.</PlantTreePoplar.description>-->
 
-  <PlantTreePine.label>pine tree</PlantTreePine.label>
-  <PlantTreePine.description>A large conifer.</PlantTreePine.description>
+  <!--[Core] <PlantTreePine.label>pine tree</PlantTreePine.label>-->
+  <!--[Core] <PlantTreePine.description>A large conifer.</PlantTreePine.description>-->
 
-  <PlantTreeBirch.label>birch tree</PlantTreeBirch.label>
-  <PlantTreeBirch.description>A northern tree known for its thin, paper-like bark.</PlantTreeBirch.description>
+  <!--[Core] <PlantTreeBirch.label>birch tree</PlantTreeBirch.label>-->
+  <!--[Core] <PlantTreeBirch.description>A northern tree known for its thin, paper-like bark.</PlantTreeBirch.description>-->
 
-  <PlantTreeTeak.label>teak tree</PlantTreeTeak.label>
-  <PlantTreeTeak.description>A very strong hardwood tree, used in ancient times to build sailing ships.</PlantTreeTeak.description>
+  <!--[Core] <PlantTreeTeak.label>teak tree</PlantTreeTeak.label>-->
+  <!--[Core] <PlantTreeTeak.description>A very strong hardwood tree, used in ancient times to build sailing ships.</PlantTreeTeak.description>-->
 
-  <PlantTreeCecropia.label>cecropia tree</PlantTreeCecropia.label>
-  <PlantTreeCecropia.description>One of the most common rainforest trees. Grows very fast, but yields little usable wood.</PlantTreeCecropia.description>
+  <!--[Core] <PlantTreeCecropia.label>cecropia tree</PlantTreeCecropia.label>-->
+  <!--[Core] <PlantTreeCecropia.description>One of the most common rainforest trees. Grows very fast, but yields little usable wood.</PlantTreeCecropia.description>-->
 
 
   <!-- New Trees -->

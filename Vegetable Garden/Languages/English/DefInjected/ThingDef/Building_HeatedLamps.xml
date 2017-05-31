@@ -5,16 +5,19 @@
   <HeatedSunLamp.description>Lights an area brightly enough to grow crops. Also is a larger heater that will keep your room warm.</HeatedSunLamp.description>
   <HeatedSunLamp_Blueprint.label>heated sun lamp (blueprint)</HeatedSunLamp_Blueprint.label>
   <HeatedSunLamp_Frame.label>heated sun lamp (building)</HeatedSunLamp_Frame.label>
+  <HeatedSunLamp_Frame.description>Lights an area brightly enough to grow crops. Also is a larger heater that will keep your room warm.</HeatedSunLamp_Frame.description>
 
   <HeatedSmallSunLamp.label>small heated sun lamp</HeatedSmallSunLamp.label>
   <HeatedSmallSunLamp.description>Lights an area brightly enough to grow crops. Also acts as a medium sized heater.</HeatedSmallSunLamp.description>
   <HeatedSmallSunLamp_Blueprint.label>small heated sun lamp (blueprint)</HeatedSmallSunLamp_Blueprint.label>
   <HeatedSmallSunLamp_Frame.label>small heated sun lamp (building)</HeatedSmallSunLamp_Frame.label>
+  <HeatedSmallSunLamp_Frame.description>Lights an area brightly enough to grow crops. Also acts as a medium sized heater.</HeatedSmallSunLamp_Frame.description>
 
   <HeatedMiniSunLamp.label>mini heated sun lamp</HeatedMiniSunLamp.label>
   <HeatedMiniSunLamp.description>Lights an area brightly enough to grow crops.</HeatedMiniSunLamp.description>
   <HeatedMiniSunLamp_Blueprint.label>mini heated sun lamp (blueprint)</HeatedMiniSunLamp_Blueprint.label>
   <HeatedMiniSunLamp_Frame.label>mini heated sun lamp (building)</HeatedMiniSunLamp_Frame.label>
+  <HeatedMiniSunLamp_Frame.description>Lights an area brightly enough to grow crops.</HeatedMiniSunLamp_Frame.description>
 
 
 </LanguageData>

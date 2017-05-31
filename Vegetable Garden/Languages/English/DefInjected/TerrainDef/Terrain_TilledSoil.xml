@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SoilTilled.label>garden soil</SoilTilled.label>
-  <SoilTilled.description>Till soil to make a small improvement in soil growing condition.</SoilTilled.description>
+  <VG_SoilTilled.label>garden soil</VG_SoilTilled.label>
+  <VG_SoilTilled.description>Till soil to make a small improvement in soil growing condition. Soil fertility is 120% of normal soil.</VG_SoilTilled.description>
 
   <PlaceSoil.label>Place Soil</PlaceSoil.label>
   <PlaceSoil.description>Places dirt onto smoothed floors to grow crops.</PlaceSoil.description>
@@ -11,10 +11,7 @@
   <ReclaimSoil.description>Digs up sand, marshy soil, mud, marsh, ice,  gravel and places dirt to grow crops.</ReclaimSoil.description>
 
   <PlowSoil.label>plow soil</PlowSoil.label>
-  <PlowSoil.description>Plow soil for much improved growing conditions.</PlowSoil.description>
-
-  <Mud.label>mud</Mud.label>
-  <Marsh.label>marsh</Marsh.label>
+  <PlowSoil.description>Plow soil for much improved growing conditions. Soil fertility 160% of normal soil.</PlowSoil.description>
 
 
 </LanguageData>

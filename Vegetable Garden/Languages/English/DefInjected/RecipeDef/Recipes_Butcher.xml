@@ -5,8 +5,12 @@
   <MakeSilage.description>Make silage from hay and raw grains.</MakeSilage.description>
   <MakeSilage.jobString>Making silage.</MakeSilage.jobString>
 
+  <MakeCompostStarter.label>make compost starter</MakeCompostStarter.label>
+  <MakeCompostStarter.description>Make compost starter from a wood source and a food source.</MakeCompostStarter.description>
+  <MakeCompostStarter.jobString>Making fertilizer.</MakeCompostStarter.jobString>
+
   <MakeFertilizer.label>make fertilizer</MakeFertilizer.label>
-  <MakeFertilizer.description>Make fertilizer from wood, bamboo, or hay and soil.</MakeFertilizer.description>
+  <MakeFertilizer.description>Make fertilizer from compost starter and soil.</MakeFertilizer.description>
   <MakeFertilizer.jobString>Making fertilizer.</MakeFertilizer.jobString>
 
   <VG_DigSoil.label>dig soil</VG_DigSoil.label>

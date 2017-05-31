@@ -8,7 +8,7 @@
 	<jobString>Making flour.</jobString>
 	<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
-	<workAmount>900</workAmount>
+	<workAmount>700</workAmount>
      <soundWorking>Recipe_CookMeal</soundWorking>          	<allowMixingIngredients>true</allowMixingIngredients>
 	<ingredients>
 	  <li>
@@ -53,7 +53,7 @@
 	<jobString>Making bulk flour.</jobString>
 	<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
-	<workAmount>700</workAmount>
+	<workAmount>1400</workAmount>
      <soundWorking>Recipe_CookMeal</soundWorking>          	<allowMixingIngredients>true</allowMixingIngredients>
 	<ingredients>
 	  <li>
@@ -133,7 +133,7 @@
 	<jobString>Grinding corn.</jobString>
 	<workSpeedStat>CookSpeed</workSpeedStat>
 		<effectWorking>Cook</effectWorking>
-	<workAmount>700</workAmount>
+	<workAmount>1400</workAmount>
      <soundWorking>Recipe_CookMeal</soundWorking>          	<allowMixingIngredients>true</allowMixingIngredients>
 	<ingredients>
 	  <li>
@@ -166,7 +166,7 @@
 	<label>grind sugarcane</label>
       <description>Beat and grind those canes to get at that sugar!</description>
       <jobString>Grinding sugarcane.</jobString>
-      <workAmount>1100</workAmount>
+      <workAmount>700</workAmount>
 	<recipeUsers>
          <li>Canningstove</li>
            <li>HandCanningstove</li>
@@ -204,7 +204,7 @@
 	<label>grind bulk sugarcane</label>
       <description>Beat and grind those canes to get at that sugar!</description>
       <jobString>Grinding sugarcane.</jobString>
-      <workAmount>700</workAmount>
+      <workAmount>1400</workAmount>
       <workSpeedStat>CookSpeed</workSpeedStat>
       <effectWorking>Cook</effectWorking>
       <soundWorking>Recipe_CookMeal</soundWorking>

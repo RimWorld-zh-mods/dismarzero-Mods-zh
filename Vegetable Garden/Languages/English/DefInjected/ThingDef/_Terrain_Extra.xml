@@ -5,21 +5,27 @@
 
   <BambooFloor_Blueprint.label>bamboo floor (blueprint)</BambooFloor_Blueprint.label>
   <BambooFloor_Frame.label>bamboo floor (building)</BambooFloor_Frame.label>
+  <BambooFloor_Frame.description>Terrain building in progress.</BambooFloor_Frame.description>
 
   <IronwoodFloor_Blueprint.label>ironwood floor (blueprint)</IronwoodFloor_Blueprint.label>
   <IronwoodFloor_Frame.label>ironwood floor (building)</IronwoodFloor_Frame.label>
+  <IronwoodFloor_Frame.description>Terrain building in progress.</IronwoodFloor_Frame.description>
 
-  <SoilTilled_Blueprint.label>garden soil (blueprint)</SoilTilled_Blueprint.label>
-  <SoilTilled_Frame.label>garden soil (building)</SoilTilled_Frame.label>
+  <VG_SoilTilled_Blueprint.label>garden soil (blueprint)</VG_SoilTilled_Blueprint.label>
+  <VG_SoilTilled_Frame.label>garden soil (building)</VG_SoilTilled_Frame.label>
+  <VG_SoilTilled_Frame.description>Terrain building in progress.</VG_SoilTilled_Frame.description>
 
   <PlaceSoil_Blueprint.label>Place Soil (blueprint)</PlaceSoil_Blueprint.label>
   <PlaceSoil_Frame.label>Place Soil (building)</PlaceSoil_Frame.label>
+  <PlaceSoil_Frame.description>Terrain building in progress.</PlaceSoil_Frame.description>
 
   <ReclaimSoil_Blueprint.label>Reclaim Soil (blueprint)</ReclaimSoil_Blueprint.label>
   <ReclaimSoil_Frame.label>Reclaim Soil (building)</ReclaimSoil_Frame.label>
+  <ReclaimSoil_Frame.description>Terrain building in progress.</ReclaimSoil_Frame.description>
 
   <PlowSoil_Blueprint.label>plow soil (blueprint)</PlowSoil_Blueprint.label>
   <PlowSoil_Frame.label>plow soil (building)</PlowSoil_Frame.label>
+  <PlowSoil_Frame.description>Terrain building in progress.</PlowSoil_Frame.description>
 
 
 </LanguageData>

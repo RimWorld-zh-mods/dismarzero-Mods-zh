@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Makeantibiotics.label>make antibiotics</Makeantibiotics.label>
+  <Makeantibiotics.description>A drink made from fruit and medicine to aid in recovery from sickness.</Makeantibiotics.description>
+  <Makeantibiotics.jobString>Making antibiotics.</Makeantibiotics.jobString>
+
+  <VG_Neutroamine.label>make neutroamine</VG_Neutroamine.label>
+  <VG_Neutroamine.description>Make Neutroamine from neutroflower petals.</VG_Neutroamine.description>
+  <VG_Neutroamine.jobString>Crafting Neutroamine.</VG_Neutroamine.jobString>
+
+  <VG_BulkNeutroamine.label>make bulk neutroamine</VG_BulkNeutroamine.label>
+  <VG_BulkNeutroamine.description>Make bulk neutroamine from neutroflower petals.</VG_BulkNeutroamine.description>
+  <VG_BulkNeutroamine.jobString>Crafting Neutroamine.</VG_BulkNeutroamine.jobString>
+
+  <VG_BulkFluEz.label>make four fluEz</VG_BulkFluEz.label>
+  <VG_BulkFluEz.description>Make four FluEz from Neutroamine.</VG_BulkFluEz.description>
+  <VG_BulkFluEz.jobString>Crafting FluEz.</VG_BulkFluEz.jobString>
+
+  <VG_BulkIbuprofen.label>make four Ibuprofen</VG_BulkIbuprofen.label>
+  <VG_BulkIbuprofen.description>Make bulk Ibuprofen from Neutroamine.</VG_BulkIbuprofen.description>
+  <VG_BulkIbuprofen.jobString>Crafting Ibuprofen.</VG_BulkIbuprofen.jobString>
+
+  <VG_Bulkantibiotics.label>make four antibiotics</VG_Bulkantibiotics.label>
+  <VG_Bulkantibiotics.description>Make bulk antibiotics from Neutroamine and fruits.</VG_Bulkantibiotics.description>
+  <VG_Bulkantibiotics.jobString>Crafting antibiotics.</VG_Bulkantibiotics.jobString>
+
+  <VG_BulkMedicine.label>make bulk Medicine</VG_BulkMedicine.label>
+  <VG_BulkMedicine.description>Make bulk Medicine. Makes 4 medicine kits.</VG_BulkMedicine.description>
+  <VG_BulkMedicine.jobString>Crafting Medicine.</VG_BulkMedicine.jobString>
+
+  <VG_BulkHerbmedicinekit.label>make bulk Herb medicine kit</VG_BulkHerbmedicinekit.label>
+  <VG_BulkHerbmedicinekit.description>Make bulk packs of herbal concoctions. Less potent than industrial pharmaceuticals. \n\nMade from Hops, Smokeleaf, and a Bandage kit. \n\nMakes 4 Herb kits</VG_BulkHerbmedicinekit.description>
+  <VG_BulkHerbmedicinekit.jobString>Crafting Medicine.</VG_BulkHerbmedicinekit.jobString>
+
+
+</LanguageData>

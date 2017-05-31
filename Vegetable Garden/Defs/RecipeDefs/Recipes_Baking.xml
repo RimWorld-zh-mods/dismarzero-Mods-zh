@@ -630,7 +630,7 @@
 
     <RecipeDef>
 	<defName>Bakechocomuffin</defName>
-	<label>bake four choccolate muffins</label>
+	<label>bake four chocolate muffins</label>
 	<description>Bake some tasty chocolate filled muffins. \n\nMakes 4 muffins.</description>
 	<jobString>Baking chocolate muffins.</jobString>
 	<workSpeedStat>CookSpeed</workSpeedStat>

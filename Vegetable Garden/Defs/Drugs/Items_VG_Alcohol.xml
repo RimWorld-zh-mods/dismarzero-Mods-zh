@@ -8,7 +8,7 @@
     <statBases>
       <DeteriorationRate>0.5</DeteriorationRate>
       <MarketValue>9</MarketValue>
-      <Mass>0.5</Mass>
+      <Mass>0.3</Mass>
       <MeleeWeapon_DamageAmount>7</MeleeWeapon_DamageAmount>
       <MeleeWeapon_Cooldown>1.8</MeleeWeapon_Cooldown>
     </statBases>
@@ -18,7 +18,11 @@
       <nurseable>true</nurseable>
       <drugCategory>Social</drugCategory>
       <ingestSound>Ingest_Beer</ingestSound>
-      <ingestHoldOffsetStanding>(0.18,0,0)</ingestHoldOffsetStanding>
+      <ingestHoldOffsetStanding>
+        <northDefault>
+          <offset>(0.18,0,0)</offset>
+        </northDefault>
+      </ingestHoldOffsetStanding>
       <ingestCommandString>Drink {0}</ingestCommandString>
       <ingestReportString>Drinking {0}.</ingestReportString>
       <chairSearchRadius>25</chairSearchRadius>

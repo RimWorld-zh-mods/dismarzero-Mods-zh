@@ -3,12 +3,12 @@
   <name>Vegetable Garden </name>
   <author>dismarzero</author>
   <url>https://ludeon.com/forums/index.php?topic=12934.0</url>
-  <targetVersion>0.16.1393</targetVersion>
+  <targetVersion>0.17.1546</targetVersion>
   <description>
 
 I set out to add a bunch of variety to this game I love and Play almost everyday. I hope you enjoy the mod! Please leave any feed back and I will get back to ya! 
 
-Vegetable Garden v5.3 ~0.16.1393
+Vegetable Garden v5.4 ~0.17.1546
 
 The vegetable garden adds new tiers of plants to research and grow. New meals, ways to cook them, some for health, and some for joy. New drugs. Food preservation. Cloth and leather production. New medicines production. Resources that can be renewed. And Tools used to enhance the way you grow and produce plants in the game.
 
@@ -16,14 +16,40 @@ All of my mod is center around the theme of growing!
 Please go to the Forum home page for all news : 
 https://ludeon.com/forums/index.php?topic=12934.0 
 
+I would like to thank some of the following people :
 
-Chinese translation for dismar's mods
 
-Translator:
+Spoonshortage for her work on remaking ALL the artwork for my mod. It all looks amazing!!
+cuproPanda for the coding of Barrels and Place-workers! And tons of support over the years!
+Igabond for giving me his old mod Xtra Plants to continue on his great works!
+diana-winters for expanding the garden resources!
+Notfood For Seeds version of this mod. And help with C# Coding!
+Telkir for his Expandedcrops mod that inspired me to add even more.
+Fluff_Thorrent's for Can I Brew It? ( base crop alcohols)
+DeaconBlues for Finer Things ( coffee, tobacco, and many types of alcohol)
+E and the CCL team for the coding stolen for the Heated Sun lamps!
+duduluu and bigmap for their work with Ocean biome fertilizier machine and water plants.
 
-Biscuit (??)
-duduluu (????)
-??
+And more expanded in the credits on the forums!
+
+Thank you for all the feedback from the forums and steam. You make this mod better everyday! 
+
+Notes : 
+
+-Loading into a save game is not recommended! You never know how it can effect the save. Once Any Mod of this size is loaded into a game it cannot be removed once saved. So backup before trying. 
+
+- Oven is defaulted to Granite. You can build it out of any stone. You just have to have it in your stockpile first.
+
+- If you are using Tilted Soil Mod please have it after the Garden if you want it's effects. 
+
+Big note on resource plants.
+
+Resource Plant require A LOT of work to make. They are an END game solution to running out of resources. As of now it takes :
+
+Research the plants 1500
+Grow times on plants are 16+ days 
+Sow skill is high to plant them
+Research time on the Smelter to melt them 1700
 
  </description>
 </ModMetaData>

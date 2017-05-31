@@ -2,49 +2,65 @@
 <LanguageData>
 
   <Planterbox.label>Planter Box</Planterbox.label>
-  <Planterbox.description>Crude box filled with soil, that allows you to grow anywhere. Growth rate is reduced to 60% Does not require power.</Planterbox.description>
+  <Planterbox.description>Crude box filled with soil, that allows you to grow anywhere. Fertility is reduced to 60%. Does not require power.</Planterbox.description>
   <Planterbox_Blueprint.label>Planter Box (blueprint)</Planterbox_Blueprint.label>
   <Planterbox_Frame.label>Planter Box (building)</Planterbox_Frame.label>
+  <Planterbox_Frame.description>Crude box filled with soil, that allows you to grow anywhere. Fertility is reduced to 60%. Does not require power.</Planterbox_Frame.description>
 
   <ModularPlanterbox.label>Modular Planter Box</ModularPlanterbox.label>
-  <ModularPlanterbox.description>Crude box filled with soil, that allows you to grow anywhere. Growth rate is reduced to 60% Does not require power. Modular allows you to make 1x1 connected boxes of any size.</ModularPlanterbox.description>
+  <ModularPlanterbox.description>Crude box filled with soil, that allows you to grow anywhere. Fertility is reduced to 60%. Does not require power. Modular allows you to make 1x1 connected boxes of any size.</ModularPlanterbox.description>
   <ModularPlanterbox_Blueprint.label>Modular Planter Box (blueprint)</ModularPlanterbox_Blueprint.label>
   <ModularPlanterbox_Frame.label>Modular Planter Box (building)</ModularPlanterbox_Frame.label>
+  <ModularPlanterbox_Frame.description>Crude box filled with soil, that allows you to grow anywhere. Fertility is reduced to 60%. Does not require power. Modular allows you to make 1x1 connected boxes of any size.</ModularPlanterbox_Frame.description>
 
-  <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>
-  <HydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin.description>
-  <HydroponicsBasin_Blueprint.label>hydroponics basin (blueprint)</HydroponicsBasin_Blueprint.label>
-  <HydroponicsBasin_Frame.label>hydroponics basin (building)</HydroponicsBasin_Frame.label>
+  <!--[Core] <HydroponicsBasin.label>hydroponics basin</HydroponicsBasin.label>-->
+  <!--[Core] <HydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin.description>-->
+  <!--[Core] <HydroponicsBasin_Blueprint.label>hydroponics basin (blueprint)</HydroponicsBasin_Blueprint.label>-->
+  <!--[Core] <HydroponicsBasin_Frame.label>hydroponics basin (building)</HydroponicsBasin_Frame.label>-->
+  <!--[Core] <HydroponicsBasin_Frame.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</HydroponicsBasin_Frame.description>-->
 
   <ModularHydroponicsBasin.label>Modular Hydroponics Basin</ModularHydroponicsBasin.label>
-  <ModularHydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut.</ModularHydroponicsBasin.description>
+  <ModularHydroponicsBasin.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut. Fertility is 220%.</ModularHydroponicsBasin.description>
   <ModularHydroponicsBasin_Blueprint.label>Modular Hydroponics Basin (blueprint)</ModularHydroponicsBasin_Blueprint.label>
   <ModularHydroponicsBasin_Frame.label>Modular Hydroponics Basin (building)</ModularHydroponicsBasin_Frame.label>
+  <ModularHydroponicsBasin_Frame.description>Grows plants quickly in an artificial nutrient bath. Requires power to work; plants will die if power is cut. Fertility is 220%.</ModularHydroponicsBasin_Frame.description>
 
   <ADVHydroponicsBasin.label>Advanced hydroponics basin</ADVHydroponicsBasin.label>
-  <ADVHydroponicsBasin.description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light.</ADVHydroponicsBasin.description>
+  <ADVHydroponicsBasin.description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light. Fertility  is 300%.</ADVHydroponicsBasin.description>
   <ADVHydroponicsBasin_Blueprint.label>Advanced hydroponics basin (blueprint)</ADVHydroponicsBasin_Blueprint.label>
   <ADVHydroponicsBasin_Frame.label>Advanced hydroponics basin (building)</ADVHydroponicsBasin_Frame.label>
+  <ADVHydroponicsBasin_Frame.description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light. Fertility  is 300%.</ADVHydroponicsBasin_Frame.description>
 
   <ADVModularHydroponicsBasin.label> Adv. Modular hydroponics basin</ADVModularHydroponicsBasin.label>
-  <ADVModularHydroponicsBasin.description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light.</ADVModularHydroponicsBasin.description>
+  <ADVModularHydroponicsBasin.description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light. Fertility is 300%.</ADVModularHydroponicsBasin.description>
   <ADVModularHydroponicsBasin_Blueprint.label> Adv. Modular hydroponics basin (blueprint)</ADVModularHydroponicsBasin_Blueprint.label>
   <ADVModularHydroponicsBasin_Frame.label> Adv. Modular hydroponics basin (building)</ADVModularHydroponicsBasin_Frame.label>
-
-  <Composterbox.label>Composter Box</Composterbox.label>
-  <Composterbox.description>Crude box filled with soil and plant matter that allows the "growth" of fertilizer</Composterbox.description>
-  <Composterbox_Blueprint.label>Composter Box (blueprint)</Composterbox_Blueprint.label>
-  <Composterbox_Frame.label>Composter Box (building)</Composterbox_Frame.label>
+  <ADVModularHydroponicsBasin_Frame.description>Grows plants more quickly in an artificial nutrient bath. Requires more power to work then basic basin; plants will die if power is cut. Provides it's own light. Fertility is 300%.</ADVModularHydroponicsBasin_Frame.description>
 
   <ModularFlowerarea.label>Modular flower area</ModularFlowerarea.label>
   <ModularFlowerarea.description>An area that allows you to grow flowers. Can only be placed on growable soil. Modular allows you to make 1x1 connected boxes of any size.</ModularFlowerarea.description>
   <ModularFlowerarea_Blueprint.label>Modular flower area (blueprint)</ModularFlowerarea_Blueprint.label>
   <ModularFlowerarea_Frame.label>Modular flower area (building)</ModularFlowerarea_Frame.label>
+  <ModularFlowerarea_Frame.description>An area that allows you to grow flowers. Can only be placed on growable soil. Modular allows you to make 1x1 connected boxes of any size.</ModularFlowerarea_Frame.description>
 
   <VG_Flowerarea.label>Flower area 2x2</VG_Flowerarea.label>
   <VG_Flowerarea.description>A 2x2 area that allows you to grow flowers. Can only be placed on growable soil.</VG_Flowerarea.description>
   <VG_Flowerarea_Blueprint.label>Flower area 2x2 (blueprint)</VG_Flowerarea_Blueprint.label>
   <VG_Flowerarea_Frame.label>Flower area 2x2 (building)</VG_Flowerarea_Frame.label>
+  <VG_Flowerarea_Frame.description>A 2x2 area that allows you to grow flowers. Can only be placed on growable soil.</VG_Flowerarea_Frame.description>
+
+  <FertilizerMachine.label>fertilizer machine</FertilizerMachine.label>
+  <FertilizerMachine.description>Use plants to produce fertilizer. Requires to install near hopper!</FertilizerMachine.description>
+  <FertilizerMachine_Blueprint.label>fertilizer machine (blueprint)</FertilizerMachine_Blueprint.label>
+  <FertilizerMachine_Frame.label>fertilizer machine (building)</FertilizerMachine_Frame.label>
+  <FertilizerMachine_Frame.description>Use plants to produce fertilizer. Requires to install near hopper!</FertilizerMachine_Frame.description>
+
+  <VG_Composterbox.label>Composter Box</VG_Composterbox.label>
+  <VG_Composterbox.description>Crude box filled with soil and plant matter that allows the "growth" of fertilizer</VG_Composterbox.description>
+  <VG_Composterbox_Blueprint.label>Composter Box (blueprint)</VG_Composterbox_Blueprint.label>
+  <VG_Composterbox_Blueprint_Install.label>Composter Box (blueprint)</VG_Composterbox_Blueprint_Install.label>
+  <VG_Composterbox_Frame.label>Composter Box (building)</VG_Composterbox_Frame.label>
+  <VG_Composterbox_Frame.description>Crude box filled with soil and plant matter that allows the "growth" of fertilizer</VG_Composterbox_Frame.description>
 
 
 </LanguageData>

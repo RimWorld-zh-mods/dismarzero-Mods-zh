@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New crop types Wild Fruit Trees -->
+
+  <WildAppletree.label>apple tree</WildAppletree.label>
+  <WildAppletree.description>A fruit bearing tree that grows apples and is not destroyed when picked.</WildAppletree.description>
+
+  <WildBananaTree.label>banana tree</WildBananaTree.label>
+  <WildBananaTree.description>A fruit bearing tree that grows banana and is not destroyed when picked.</WildBananaTree.description>
+
+  <WildorangeTree.label>orange tree</WildorangeTree.label>
+  <WildorangeTree.description>A fruit bearing tree that grows oranges and is not destroyed when picked.</WildorangeTree.description>
+
+  <WildPeachTree.label>peach tree</WildPeachTree.label>
+  <WildPeachTree.description>A fruit bearing tree that grows peaches and is not destroyed when picked.</WildPeachTree.description>
+
+  <WildDateTree.label>date palm tree</WildDateTree.label>
+  <WildDateTree.description>A fruit bearing tree that grows dates and is not destroyed when picked.</WildDateTree.description>
+
+  <WildFigTree.label>fig tree</WildFigTree.label>
+  <WildFigTree.description>A fruit bearing tree that grows figs and is not destroyed when picked.</WildFigTree.description>
+
+  <WildCoconuttree.label>coconut tree</WildCoconuttree.label>
+  <WildCoconuttree.description>A fruit bearing tree that grows coconuts and is not destroyed when picked.</WildCoconuttree.description>
+
+
+</LanguageData>

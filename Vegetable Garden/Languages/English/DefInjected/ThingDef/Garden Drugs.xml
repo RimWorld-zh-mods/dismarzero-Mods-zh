@@ -11,5 +11,8 @@
   <VG_Ibuprofen.ingestible.ingestCommandString>Take {0}</VG_Ibuprofen.ingestible.ingestCommandString>
   <VG_Ibuprofen.ingestible.ingestReportString>Taking {0}.</VG_Ibuprofen.ingestible.ingestReportString>
 
+  <VG_antibiotics.label>antibiotics</VG_antibiotics.label>
+  <VG_antibiotics.description>A drink made from fruit and medicine to aid in recovery from sickness.</VG_antibiotics.description>
+
 
 </LanguageData>

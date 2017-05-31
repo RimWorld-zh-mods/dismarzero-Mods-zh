@@ -29,10 +29,6 @@
   <DoBillsTableLoom.verb>make cloth</DoBillsTableLoom.verb>
   <DoBillsTableLoom.gerund>making cloth</DoBillsTableLoom.gerund>
 
-  <DoBillsUseUnpackingSpot.label>do bills at unpacking spot</DoBillsUseUnpackingSpot.label>
-  <DoBillsUseUnpackingSpot.verb>unpack</DoBillsUseUnpackingSpot.verb>
-  <DoBillsUseUnpackingSpot.gerund>unpackinging at</DoBillsUseUnpackingSpot.gerund>
-
   <DoBillsUseDiggingSpot.label>do bills at digging spot</DoBillsUseDiggingSpot.label>
   <DoBillsUseDiggingSpot.verb>dig</DoBillsUseDiggingSpot.verb>
   <DoBillsUseDiggingSpot.gerund>digging</DoBillsUseDiggingSpot.gerund>
@@ -44,6 +40,14 @@
   <DoBillsUseSaltMine.label>do bills at salt mine</DoBillsUseSaltMine.label>
   <DoBillsUseSaltMine.verb>mine</DoBillsUseSaltMine.verb>
   <DoBillsUseSaltMine.gerund>mining</DoBillsUseSaltMine.gerund>
+
+  <CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.label>take alcohol out of alcohol barrels</CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.label>
+  <CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.verb>take alcohol</CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.verb>
+  <CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.gerund>taking alcohol from</CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.gerund>
+
+  <CPD_WorkGiver_FillAlcoholBarrel.label>fill alcohol barrels</CPD_WorkGiver_FillAlcoholBarrel.label>
+  <CPD_WorkGiver_FillAlcoholBarrel.verb>fill</CPD_WorkGiver_FillAlcoholBarrel.verb>
+  <CPD_WorkGiver_FillAlcoholBarrel.gerund>filling</CPD_WorkGiver_FillAlcoholBarrel.gerund>
 
 
 </LanguageData>

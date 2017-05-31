@@ -92,11 +92,11 @@
 		 <li>Bamboo</li>
 		 <li>VG_IronWoodLog</li>
             <li>WoodLog</li>
+		 <li>VG_Biofuel</li>
         </thingDefs>
         </fuelFilter>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
       </li>
-      <li Class="CompProperties_Breakdownable"/>
     </comps>
     <building>
       <isMealSource>true</isMealSource>
@@ -165,7 +165,8 @@
             <li>WoodLog</li>
 		 <li>VG_IronWoodLog</li>
 		 <li>Bamboo</li>
-          </thingDefs>
+   		 <li>VG_Biofuel</li>
+       </thingDefs>
         </fuelFilter>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
       </li>
@@ -219,6 +220,7 @@
       <li>CookMealFine</li>
       <li>CookMealLavish</li>
       <li>MakePemmican</li>
+      <li>CookMealSurvival</li>
     </recipes>
     <inspectorTabs>
       <li>ITab_Bills</li>
@@ -246,7 +248,6 @@
     <designationHotKey>Misc8</designationHotKey>
     	<researchPrerequisites>
 		<li>Electricity</li>
-		<li>CookingI</li>
 	</researchPrerequisites>
   </ThingDef>
 
@@ -312,6 +313,7 @@
             <li>WoodLog</li>
 		 <li>VG_IronWoodLog</li>
 		 <li>Bamboo</li>
+		 <li>VG_Biofuel</li>
           </thingDefs>
         </fuelFilter>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
@@ -448,7 +450,8 @@
             <li>WoodLog</li>
 		 <li>VG_IronWoodLog</li>
 		 <li>Bamboo</li>
-          </thingDefs>
+  		 <li>VG_Biofuel</li>
+        </thingDefs>
         </fuelFilter>
         <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
       </li>
@@ -553,7 +556,7 @@
       <WorkToBuild>1800</WorkToBuild>
       <Flammability>1.0</Flammability>
     </statBases>
-    <description>Increases work speed 15%. Needs to be placed near cooking tops. Will boost the cook speed of all tables near by.</description>
+    <description>Increases work speed 14%. Needs to be placed near cooking tops. Will boost the cook speed of all tables near by.</description>
     <size>(1,1)</size>
     <costList>
       <Steel>250</Steel>
@@ -756,7 +759,6 @@
 			<li>ITab_Bills</li>
 		</inspectorTabs>
 		<designationCategory>Production</designationCategory>
-
 		<building>
 			<spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
 		</building>
@@ -766,8 +768,6 @@
           <li>CookingTools</li>
         </linkableFacilities>
       </li>
-      <li Class="CompProperties_Breakdownable"/>
-
     </comps>
 
 	</ThingDef>
@@ -834,141 +834,6 @@
 	</ThingDef>
 
 
-  <ThingDef ParentName="VG_BuildingBase">
-    <defName>FueledGenerator</defName>
-    <label>fueled generator</label>
-    <thingClass>Building</thingClass>
-    <graphicData>
-      <texPath>Things/Building/Power/FueledGenerator</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(2,2)</drawSize>
-    </graphicData>
-    <altitudeLayer>Building</altitudeLayer>
-    <passability>Impassable</passability>
-    <pathCost>150</pathCost>
-    <blockWind>true</blockWind>
-    <fillPercent>1.0</fillPercent>
-    <castEdgeShadows>false</castEdgeShadows>
-    <rotatable>false</rotatable>
-    <statBases>
-      <MaxHitPoints>300</MaxHitPoints>
-      <WorkToBuild>2500</WorkToBuild>
-      <Flammability>1.0</Flammability>
-    </statBases>
-    <tickerType>Normal</tickerType>
-    <description>Produces power by consuming wood fuel. Must be fueled by hand.</description>
-    <size>(2,2)</size>
-    <building>
-      <ignoreNeedsPower>true</ignoreNeedsPower>
-    </building>
-    <costList>
-      <Steel>100</Steel>
-      <Component>2</Component>
-    </costList>
-    <comps>
-      <li Class="CompProperties_Power">
-        <compClass>CompPowerPlant</compClass>
-        <basePowerConsumption>-1000</basePowerConsumption>
-        <transmitsPower>true</transmitsPower>
-      </li>
-      <li Class="CompProperties_Flickable" />
-      <li Class="CompProperties_Refuelable">
-        <fuelConsumptionRate>16.0</fuelConsumptionRate>
-        <fuelCapacity>75.0</fuelCapacity>
-        <fuelFilter>
-          <thingDefs>
- 		 <li>Bamboo</li>
-		 <li>VG_IronWoodLog</li>
-           <li>WoodLog</li>
-          </thingDefs>
-        </fuelFilter>
-      </li>
-      <li Class="CompProperties_Glower">
-        <glowRadius>6</glowRadius>
-        <glowColor>(217,112,33,0)</glowColor>
-      </li>
-      <li Class="CompProperties_HeatPusher">
-        <compClass>CompHeatPusherPowered</compClass>
-        <heatPerSecond>4</heatPerSecond>
-      </li>
-      <li Class="CompProperties_Breakdownable"/>
-    </comps>
-    <terrainAffordanceNeeded>Heavy</terrainAffordanceNeeded>
-    <designationCategory>Power</designationCategory>
-    <staticSunShadowHeight>0.5</staticSunShadowHeight>
-    <designationHotkey>Misc3</designationHotkey>
-    <constructEffect>ConstructMetal</constructEffect>
-    <researchPrerequisites>
-      <li>Electricity</li>
-    </researchPrerequisites>
-  </ThingDef>
-
-  <ThingDef ParentName="VG_BenchBase">
-    <DefName>FueledSmithy</DefName>
-    <label>fueled smithy</label>
-    <ThingClass>Building_WorkTable</ThingClass>
-    <Description>A fueled station equipped for smithing non-mechanical weapons and tools.</Description>
-    <graphicData>
-      <texPath>Things/Building/Production/TableSmithingFueled</texPath>
-      <graphicClass>Graphic_Multi</graphicClass>
-      <drawSize>(3.5,1.5)</drawSize>
-      <damageData>
-        <cornerTL>Damage/Corner</cornerTL>
-        <cornerTR>Damage/Corner</cornerTR>
-        <cornerBL>Damage/Corner</cornerBL>
-        <cornerBR>Damage/Corner</cornerBR>
-      </damageData>
-    </graphicData>
-    <CostList>
-      <Steel>100</Steel>
-    </CostList>
-    <constructEffect>ConstructWood</constructEffect>
-    <AltitudeLayer>Building</AltitudeLayer>
-    <fillPercent>0.5</fillPercent>
-    <useHitPoints>True</useHitPoints>
-    <statBases>
-      <WorkToBuild>3000</WorkToBuild>
-      <MaxHitPoints>180</MaxHitPoints>
-      <Flammability>1.0</Flammability>
-      <Cleanliness>-3</Cleanliness>
-    </statBases>
-    <Size>(3,1)</Size>
-    <DesignationCategory>Production</DesignationCategory>
-    <Passability>PassThroughOnly</Passability>
-    <pathCost>70</pathCost>
-    <hasInteractionCell>True</hasInteractionCell>
-    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
-    <surfaceType>Item</surfaceType>
-    <inspectorTabs>
-      <li>ITab_Bills</li>
-    </inspectorTabs>
-    <building>
-      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
-    </building>
-    <comps>
-      <li Class="CompProperties_Refuelable">
-        <fuelConsumptionRate>80.0</fuelConsumptionRate>
-        <fuelCapacity>50.0</fuelCapacity>
-        <fuelFilter>
-          <thingDefs>
-		 <li>Bamboo</li>
-		 <li>VG_IronWoodLog</li>
-            <li>WoodLog</li>
-          </thingDefs>
-        </fuelFilter>
-        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
-      </li>
-      <li Class="CompProperties_AffectedByFacilities">
-        <linkableFacilities>
-          <li>ToolCabinet</li>
-        </linkableFacilities>
-      </li>
-    </comps>
-		<placeWorkers>
-			<li>PlaceWorker_ShowFacilitiesConnections</li>
-		</placeWorkers>
-    <researchPrerequisites><li>Smithing</li></researchPrerequisites>
-  </ThingDef>
 
 
 </ThingDefs>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationInsert">
+		<success>Always</success>
+		<xpath>*/ThingDef[@Name="CPD_VegGardenThingInsertion"]</xpath>
+		<Order>Prepend</Order>
+		<value>
+			<ThingDef Name="VdaSoda" ParentName="SodaResourceBase" Abstract="True">
+				<graphicData>
+					<graphicClass>Graphic_Single</graphicClass>
+				</graphicData>
+				<thingCategories>
+					<li>SweetMeals</li>
+				</thingCategories>
+				<statBases>
+					<MarketValue>15</MarketValue>
+				</statBases>
+				<ingestible>
+					<nutrition>0.1</nutrition>
+					<outcomeDoers>
+						<li Class="IngestionOutcomeDoer_GiveHediff">
+							<chance>1</chance>
+							<hediffDef>CPD_Soda</hediffDef>
+						</li>
+					</outcomeDoers>
+				</ingestible>
+			</ThingDef>
+
+
+			<ThingDef ParentName="SodaResourceBase">
+				<defName>CPD_Syrup</defName>
+				<label>syrup</label>
+				<description>A bottle of syrup made by reducing foods containing a large amount of sugar.</description>
+				<graphicData>
+					<texPath>Cupro/Item/Usable/Syrup</texPath>
+				</graphicData>
+				<statBases>
+					<MarketValue>8</MarketValue>
+				</statBases>
+				<thingCategories>
+					<li>SweetMeals</li>
+				</thingCategories>
+				<ingestible>
+					<nutrition>0.1</nutrition>
+					<outcomeDoers>
+						<li Class="IngestionOutcomeDoer_GiveHediff">
+							<chance>1</chance>
+							<hediffDef>CPD_Syrup</hediffDef>
+						</li>
+					</outcomeDoers>
+				</ingestible>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>AppleSoda</defName>
+				<label>apple soda</label>
+				<description>A sweet soda made from apples.</description>
+				<graphicData>
+					<texPath>Things/Item/AppleSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>BananaSoda</defName>
+				<label>banana soda</label>
+				<description>A slightly sweet soda made from bananas.</description>
+				<graphicData>
+					<texPath>Things/Item/BananaSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>GrapeSoda</defName>
+				<label>grape soda</label>
+				<description>A sweet soda made from grapes.</description>
+				<graphicData>
+					<texPath>Things/Item/GrapeSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>OrangeSoda</defName>
+				<label>orange soda</label>
+				<description>A sweet and tangy soda made from oranges.</description>
+				<graphicData>
+					<texPath>Things/Item/OrangeSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>PeachSoda</defName>
+				<label>peach soda</label>
+				<description>A sweet soda made from peaches.</description>
+				<graphicData>
+					<texPath>Things/Item/PeachSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>PineappleSoda</defName>
+				<label>pineapple soda</label>
+				<description>A sweet and sour soda made from pineapples.</description>
+				<graphicData>
+					<texPath>Things/Item/PineappleSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>BlueberrySoda</defName>
+				<label>blueberry soda</label>
+				<description>A sweet soda made from blueberries.</description>
+				<graphicData>
+					<texPath>Things/Item/BlueberrySoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>WatermelonSoda</defName>
+				<label>watermelon soda</label>
+				<description>A sweet soda made from watermelons.</description>
+				<graphicData>
+					<texPath>Things/Item/WatermelonSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>CloudberrySoda</defName>
+				<label>cloudberry soda</label>
+				<description>A sweet soda made from cloudberries.</description>
+				<graphicData>
+					<texPath>Things/Item/CloudberrySoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>GooseberrySoda</defName>
+				<label>gooseberry soda</label>
+				<description>A sweet soda made from gooseberries.</description>
+				<graphicData>
+					<texPath>Things/Item/GooseberrySoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>FigSoda</defName>
+				<label>fig soda</label>
+				<description>A sweet soda made from figs.</description>
+				<graphicData>
+					<texPath>Things/Item/FigSoda</texPath>
+				</graphicData>
+			</ThingDef>
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>DateSoda</defName>
+				<label>date soda</label>
+				<description>A sweet soda made from dates.</description>
+				<graphicData>
+					<texPath>Things/Item/DateSoda</texPath>
+				</graphicData>
+			</ThingDef>	
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>CoconutSoda</defName>
+				<label>coconut soda</label>
+				<description>A sweet soda made from coconuts.</description>
+				<graphicData>
+					<texPath>Things/Item/CoconutSoda</texPath>
+				</graphicData>
+			</ThingDef>	
+
+			<ThingDef ParentName="VdaSoda">
+				<defName>CherrySoda</defName>
+				<label>cherry soda</label>
+				<description>A sweet soda made from cherries.</description>
+				<graphicData>
+					<texPath>Things/Item/CherrySoda</texPath>
+				</graphicData>
+			</ThingDef>
+		</value>
+	</Operation>
+
+</Patch>

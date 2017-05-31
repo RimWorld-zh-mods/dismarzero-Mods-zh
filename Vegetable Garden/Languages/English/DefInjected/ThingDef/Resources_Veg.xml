@@ -3,14 +3,14 @@
 
   <!-- ++++++++++++++++++++++++++++++++++++++++++++ -->
 
-  <RawRice.label>rice</RawRice.label>
-  <RawRice.description>Raw rice.</RawRice.description>
+  <!--[Core] <RawRice.label>rice</RawRice.label>-->
+  <!--[Core] <RawRice.description>Raw rice.</RawRice.description>-->
 
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
-  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+  <!--[Core] <RawPotatoes.label>potatoes</RawPotatoes.label>-->
+  <!--[Core] <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>-->
 
-  <RawCorn.label>corn</RawCorn.label>
-  <RawCorn.description>Raw corn. Nice to eat, even when raw.</RawCorn.description>
+  <!--[Core] <RawCorn.label>corn</RawCorn.label>-->
+  <!--[Core] <RawCorn.description>Raw corn.</RawCorn.description>-->
 
   <Rawsnowbeet.label>snow beet</Rawsnowbeet.label>
   <Rawsnowbeet.description>Raw snow beet.</Rawsnowbeet.description>
@@ -29,6 +29,9 @@
 
   <RawTomatoes.label>tomatoes</RawTomatoes.label>
   <RawTomatoes.description>A sharp-tasting fruit that has many uses.</RawTomatoes.description>
+
+  <RawOlive.label>Olive</RawOlive.label>
+  <RawOlive.description>A small berry fruit that grows on trees.</RawOlive.description>
 
   <RawCarrots.label>carrots</RawCarrots.label>
   <RawCarrots.description>Crunchy vegetable with a refreshing taste. May help you see in the dark.</RawCarrots.description>

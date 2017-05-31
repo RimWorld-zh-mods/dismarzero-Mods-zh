@@ -8,10 +8,11 @@
 		<defName>agriculture</defName>
 		<label>agriculture I</label>
 		<description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks a new tier of vegetables to grow. \n\n Unlocks sowing of Eggplants, Beans, Pumpkins, Squash, Tomatoes, Red Lentils, and Mushrooms. Also unlocked research for extra flowers and trees.</description>
+		<tab>VG</tab>
 		<baseCost>300</baseCost>
 		    <techLevel>Neolithic</techLevel>
- 		<researchViewX>13</researchViewX>
-		<researchViewY>4.75</researchViewY>
+ 		<researchViewX>0</researchViewX>
+		<researchViewY>0</researchViewY>
  </ResearchProjectDef>
 
 
@@ -19,26 +20,28 @@
 		<defName>agricultureII</defName>
 		<label>agriculture II</label>
 		<description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks a new fruits to grow. Fruit has a higher nutrition and requires less to make meals. \n\n Unlocks sowing of Pinneapples, Grapes, Cloudberries, Gooseberries, Agave, Strawberries, Blueberries, and Watermelons. </description>
+		<tab>VG</tab>
 		<baseCost>300</baseCost>
 		    <techLevel>Neolithic</techLevel>
 		<prerequisites>
 			<li>agriculture</li>
 		</prerequisites>
- 		<researchViewX>14</researchViewX>
-		<researchViewY>4.75</researchViewY>
+ 		<researchViewX>1</researchViewX>
+		<researchViewY>0</researchViewY>
   </ResearchProjectDef>
 
 	<ResearchProjectDef>
 		<defName>agricultureIII</defName>
 		<label>agriculture III</label>
 		<description>Researches plant genetics to unlock new and exciting new types of plants to grow! \n\n Unlocks new fruit trees to grow. Fruit trees have a longer grow time but a higher yield. \n\n Unlocks sowing of Apple, Banana,Cherries, Olives, Orange, Peach, Date, and Fig trees.</description>
+		<tab>VG</tab>
 		<baseCost>300</baseCost>
 		    <techLevel>Medieval</techLevel>
 		<prerequisites>
 			<li>agricultureII</li>
 		</prerequisites>
- 		<researchViewX>15</researchViewX>
-		<researchViewY>4.75</researchViewY>
+ 		<researchViewX>2</researchViewX>
+		<researchViewY>0</researchViewY>
  	 </ResearchProjectDef>
 
 
@@ -46,23 +49,25 @@
 		<defName>flowersandtrees</defName>
 		<label>Flowers and Trees</label>
 		<description>Researches extra Flowers and Trees to plant.</description>
+		<tab>VG</tab>
 		<baseCost>200</baseCost>
 		    <techLevel>Neolithic</techLevel>
 		<prerequisites>
 			<li>agriculture</li>
 		</prerequisites>
- 		<researchViewX>14</researchViewX>
-		<researchViewY>5.25</researchViewY>
+ 		<researchViewX>1</researchViewX>
+		<researchViewY>1</researchViewY>
  	 </ResearchProjectDef>
 
 	<ResearchProjectDef>
 		<defName>resourceleafs</defName>
 		<label>Resource Plants</label>
 		<description>Researches plants the absorb minerals from the ground. That can be extracted in a smelter.</description>
+		<tab>VG</tab>
 		<baseCost>1500</baseCost>
 		<techLevel>Industrial</techLevel>
-		<researchViewX>15</researchViewX>
-		<researchViewY>5.25</researchViewY>
+		<researchViewX>0</researchViewX>
+		<researchViewY>1</researchViewY>
  	 </ResearchProjectDef>
 
 
@@ -71,13 +76,14 @@
 		<defName>CookingI</defName>
 		<label>Advanced Cooking</label>
 		<description>Researches methods of advanced cooking machines. \nUnlocks the electric cooking stove, Sweets table, for makes Milk based treats and candies.</description>
+		<tab>VG</tab>
 		<baseCost>500</baseCost>
 		    <techLevel>Industrial</techLevel>
 		<prerequisites>
 			<li>Electricity</li>
 		</prerequisites>
-		<researchViewX>13</researchViewX>
-		<researchViewY>5.25</researchViewY>
+		<researchViewX>0</researchViewX>
+		<researchViewY>3</researchViewY>
 
 	</ResearchProjectDef>
 
@@ -86,61 +92,79 @@
 		<defName>SoilReclam</defName>
 		<label>Soil Reclamation I</label>
 		<description>Researches methods of making farmable soil. \n\nUnlocks placing soil on smoothed stone and other finished flooring. \n\nUnlocks Floor menus Place Soil and Garden Soil.</description>
+		<tab>VG</tab>
 		<baseCost>800</baseCost>
 		    <techLevel>Medieval</techLevel>
-		<researchViewX>13</researchViewX>
-		<researchViewY>4.25</researchViewY>
+		<researchViewX>0</researchViewX>
+		<researchViewY>2</researchViewY>
 	</ResearchProjectDef>
 
 	<ResearchProjectDef>
 		<defName>SoilReclamII</defName>
 		<label>Soil Reclamation II</label>
 		<description>Researches methods of turning sand, marshy soil, mud, marsh, ice, gravel into farmable soil. \n\nUnlocks Plow soil, to greatly increase crop growth. \n\nUnlocks Floor menus to Plow Soil and Reclaim Soil.</description>
+		<tab>VG</tab>
 		<baseCost>1700</baseCost>
 		    <techLevel>Industrial</techLevel>
 		<prerequisites>
 			<li>SoilReclam</li>
 		</prerequisites>
-		<researchViewX>14</researchViewX>
-		<researchViewY>4.25</researchViewY>
+		<researchViewX>1</researchViewX>
+		<researchViewY>2</researchViewY>
 	</ResearchProjectDef>
 
 
   <ResearchProjectDef>
     <defName>AdvancedHydroponics</defName>
-    <label>advanced hydroponics</label>
-    <description>Allows you to build advanced hydroponics tables to rapidly grow crops indoors regardless of the terrain or weather outside. Tables cost more to make, require power, and provide light. And crops grow at a faster rate.</description>
+    <label>adv. hydroponic</label>
+    <description>Allows you to build advanced hydroponics tables to rapidly grow crops indoors regardless of the terrain or weather outside. Tables cost more to make, require power, and provide light. And crops grow at a faster rate.</description>	<tab>VG</tab>
     <baseCost>700</baseCost>
     <techLevel>Industrial</techLevel>
     <prerequisites>
       <li>Hydroponics</li>
     </prerequisites>
-		<researchViewX>6</researchViewX>
-		<researchViewY>4.25</researchViewY>
+		<researchViewX>4</researchViewX>
+		<researchViewY>0</researchViewY>
   </ResearchProjectDef>
 
   <ResearchProjectDef>
     <defName>HeatedSunlamps</defName>
     <label>Heated Sunlamps</label>
     <description>Allows you to build advanced sun lamps that provides light and act as a heater to grow crops.</description>
+		<tab>VG</tab>
     <baseCost>800</baseCost>
     <techLevel>Industrial</techLevel>
 		<prerequisites>
 			<li>Electricity</li>
 		</prerequisites>
-		<researchViewX>15</researchViewX>
-		<researchViewY>4.25</researchViewY>
+		<researchViewX>3</researchViewX>
+		<researchViewY>0</researchViewY>
   </ResearchProjectDef>
 
 	<ResearchProjectDef>
 		<defName>CanningMachine</defName>
 		<label>Canning Tech</label>
 		<description>Researches methods of making a machine to can food to preserve them in metal. \n\nUnlocks the canning machine and ablity to can food and meals..</description>
+		<tab>VG</tab>
 		<baseCost>500</baseCost>
 		    <techLevel>Medieval</techLevel>
- 		<researchViewX>16</researchViewX>
-		<researchViewY>4.75</researchViewY>
+ 		<researchViewX>1</researchViewX>
+		<researchViewY>3</researchViewY>
 	</ResearchProjectDef>
+
+  <ResearchProjectDef>
+    <defName>BulkMedicine</defName>
+    <label>Bulk Medicine</label>
+    <description>Allows you to craft larger numbers or medicines. Effects Neutroamine, FluEz, Ibuprofen, Antibiotics, Herb medicine kits, and Medicine Kits.</description>
+		<tab>VG</tab>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>MedicineProduction</li>
+		</prerequisites>
+		<researchViewX>2</researchViewX>
+		<researchViewY>3</researchViewY>
+  </ResearchProjectDef>
 
 
 </ResearchProjectDefs>

@@ -85,7 +85,6 @@
 		<statBases>
 			<MaxHitPoints>75</MaxHitPoints>
 			<Flammability>1.0</Flammability>
-			<MarketValue>200</MarketValue>
 		 	<Mass>12</Mass>
 		</statBases>
 		<stackLimit>2</stackLimit>
@@ -249,7 +248,6 @@
     <plant>
 			<fertilityMin>0.5</fertilityMin>
 			<fertilitySensitivity>1.0</fertilitySensitivity>
-			<harvestDestroys>true</harvestDestroys>
       <soundHarvesting>Harvest_Standard</soundHarvesting>
       <soundHarvestFinish>Harvest_Standard_Finish</soundHarvestFinish>
       <harvestWork>190</harvestWork>
@@ -277,7 +275,6 @@
       <dieIfLeafless>true</dieIfLeafless>
       <reproduces>false</reproduces>
       <harvestTag>Standard</harvestTag>
-      <harvestDestroys>true</harvestDestroys>
       <sowTags>
         <li>Ground</li>
         <li>Hydroponic</li>
@@ -314,7 +311,6 @@
       <soundHarvestFinish>Harvest_Tree_Finish</soundHarvestFinish>
       <sowWork>1500</sowWork>
       <harvestWork>800</harvestWork>
-      <harvestDestroys>true</harvestDestroys>
       <harvestedThingDef>WoodLog</harvestedThingDef>
       <harvestYield>50</harvestYield>
       <harvestTag>Wood</harvestTag>
@@ -363,7 +359,6 @@
 			<fertilitySensitivity>0.5</fertilitySensitivity>
 			<reproduceRadius>30</reproduceRadius>
 			<soundHarvesting>Harvest_Tree</soundHarvesting>
-			<harvestDestroys>false</harvestDestroys>
       <leaflessGraphicPath>Things/Plant/TreeOak_Leafless</leaflessGraphicPath>
       <soundHarvestFinish>Harvest_Tree_Finish</soundHarvestFinish>
       <sowWork>1200</sowWork>
@@ -371,6 +366,7 @@
       <harvestTag>Standard</harvestTag>
       <harvestMinGrowth>0.60</harvestMinGrowth>
       <harvestFailable>false</harvestFailable>
+	 <harvestAfterGrowth>0.30</harvestAfterGrowth>
 	 <harvestYield>60</harvestYield>
       <blockAdjacentSow>true</blockAdjacentSow>
       <sowTags>
@@ -382,8 +378,8 @@
       </visualSizeRange>
       <topWindExposure>0.25</topWindExposure>
       <wildClusterSizeRange>
-        <min>8</min>
-        <max>30</max>
+        <min>1</min>
+        <max>4</max>
       </wildClusterSizeRange>
       <wildClusterRadius>8</wildClusterRadius>
       <sowResearchPrerequisites>
@@ -398,7 +394,6 @@
       <soundHarvestFinish>Harvest_Tree_Finish</soundHarvestFinish>
       <sowWork>1500</sowWork>
       <harvestWork>800</harvestWork>
-      <harvestDestroys>true</harvestDestroys>
       <harvestedThingDef>WoodLog</harvestedThingDef>
       <harvestYield>50</harvestYield>
       <harvestTag>Wood</harvestTag>

@@ -203,6 +203,26 @@
       </li>
     </comps>
   </ThingDef>
+
+<ThingDef ParentName="VG_RawFoodBase">
+		<defName>RawOlive</defName>
+		<label>Olive</label>
+		<description>A small berry fruit that grows on trees.</description>
+		<graphicData>
+      <texPath>Things/Fruits/OliveFruit</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>4</MarketValue>
+ 			<Mass>0.027</Mass>
+   </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>8</daysToRotStart>
+      </li>
+    </comps>
+  </ThingDef>
+
+
   
   <ThingDef ParentName="VG_PlantFoodRawBase">
 		<defName>RawCarrots</defName>

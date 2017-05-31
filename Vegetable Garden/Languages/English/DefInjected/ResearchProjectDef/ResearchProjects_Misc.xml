@@ -27,7 +27,7 @@
   <SoilReclamII.label>Soil Reclamation II</SoilReclamII.label>
   <SoilReclamII.description>Researches methods of turning sand, marshy soil, mud, marsh, ice, gravel into farmable soil. \n\nUnlocks Plow soil, to greatly increase crop growth. \n\nUnlocks Floor menus to Plow Soil and Reclaim Soil.</SoilReclamII.description>
 
-  <AdvancedHydroponics.label>advanced hydroponics</AdvancedHydroponics.label>
+  <AdvancedHydroponics.label>adv. hydroponic</AdvancedHydroponics.label>
   <AdvancedHydroponics.description>Allows you to build advanced hydroponics tables to rapidly grow crops indoors regardless of the terrain or weather outside. Tables cost more to make, require power, and provide light. And crops grow at a faster rate.</AdvancedHydroponics.description>
 
   <HeatedSunlamps.label>Heated Sunlamps</HeatedSunlamps.label>
@@ -35,6 +35,9 @@
 
   <CanningMachine.label>Canning Tech</CanningMachine.label>
   <CanningMachine.description>Researches methods of making a machine to can food to preserve them in metal. \n\nUnlocks the canning machine and ablity to can food and meals..</CanningMachine.description>
+
+  <BulkMedicine.label>Bulk Medicine</BulkMedicine.label>
+  <BulkMedicine.description>Allows you to craft larger numbers or medicines. Effects Neutroamine, FluEz, Ibuprofen, Antibiotics, Herb medicine kits, and Medicine Kits.</BulkMedicine.description>
 
 
 </LanguageData>

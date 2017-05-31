@@ -26,7 +26,6 @@
       <dieIfLeafless>true</dieIfLeafless>
       <harvestTag>Standard</harvestTag>
       <harvestedThingDef>RawTobacco</harvestedThingDef>
-      <harvestDestroys>true</harvestDestroys>
       <harvestYield>10</harvestYield>
       <sowTags>
         <li>Ground</li>

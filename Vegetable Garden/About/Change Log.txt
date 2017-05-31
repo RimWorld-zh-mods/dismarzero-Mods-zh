@@ -1,9 +1,119 @@
+5/27/17
+- patches optimized!
+- Soda garden patched in
+- break down removed from mill stone / fueled stone
+- grind recipes balanced
+
+5/26/17
+-Biofuel art added
+-stove recipes updated to vanilla changes
+-survive meals / bulk survive recipes fixed.
+-patches updated to play nice with terrainDefs.
+
+5/25/17
+-Steam Release Build 1
+
+5/22/17
+- New research tree tab added
+- alcohol precursors art 
+- compost starter recipe added
+- fertilizer recipe changed
+- trees added back to grow zones
+
+5/20/17
+- Compost bin reworked.
+- Compost starter item created
+
+5/19/17
+- new alcohol system complete
+
+5/18/17
+- Many changes over the last few days to the barrel system
+- thanks to cupro for coming back and rewriting the alcohol barrels
+- alcohol precursors and cupro drinks compatible added
+- new barrel system added
+- crates removed
+- alcohol precursors recipes started
+
+5/12/17
+- patches for terrains added
+- patches for fuels added
+
+
+4/23/17
+- plants grow times
+- barrel bug fixed
+
+4/22/17
+- Bulk med recipes
+- Bulk med research
+- drug weights adjusted
+- alcohol crate prices fixed
+- health drink coding renamed antibiotics
+
+4/21/17
+- crops new grow times part 1
+- immature graphics vanilla
+
+4/15/17
+-Small error with barrels.
+
+3/25/17
+- Wild types of fruit trees added
+- canned meat now inherents human meat. insect meat etc..
+- Joy balanced on meal /food.
+
+
+3/23/17
+- biome plants balanced (rarer and smaller patches)
+- fruit trees / raspberry bushes fixed.
+
+3/22/17
+Medical Overhual
+-aloe removed
+-medical recipes balanced
+-medicine tiers created.
+-Bulk survival meals recipe
+- dll coding updated.
+
+3/20/17
+- alpha17 work begins!
+- errors in coding fixed.
+
+
+3/19/17
+- Soil added to cost of planter box
+- Olives moved to vegs from fruits
+
+
+3/2/17
+- Soy milk recipe balanced
+- Cheese moved to Ingredents
+- Salt moved to Ingredents
+- Minable salt reduced spawn on map. use the Mining Spot.
+- lowered the costs of flu ez / ibuprofen along with the cost to make.
+- description changes.
+- language updates.
+
+2/28/17
+- Fertilier Machine code completed
+- Permission for coding from ocean biome requested
+- art and coding from ocean biome added
+- coding for water plants. Water grass and cattail added
+
+2/23/17
+- updated Chinese pack from duduluu.
+
+2/18/17
+- Russian language added from kors. 
+
 2/17/17
 - Raspberries changed
 - Digging spot now on any "soil"
+- English language folder added.
 
 2/11/17
-- Lots of grammar and spelling updates. Some decriptions changed.
+- Lots of grammar and spelling updates. Some descriptions changed.
 - Chinese language added.
 
 

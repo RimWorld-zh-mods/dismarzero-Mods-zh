@@ -22,8 +22,8 @@
   <RawTobacco.label>tobacco</RawTobacco.label>
   <RawTobacco.description>Raw tobacco. Not recommended for eating, but makes for a nice smoke</RawTobacco.description>
 
-  <Chocolate.label>chocolate</Chocolate.label>
-  <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>
+  <!--[Core] <Chocolate.label>chocolate</Chocolate.label>-->
+  <!--[Core] <Chocolate.description>A delicious preparation of cocoa seeds ground together with sugar and vanilla. Very pleasurable to eat, but not very nutritious.</Chocolate.description>-->
 
   <Cornmeal.label>Cornmeal</Cornmeal.label>
   <Cornmeal.description>Simple cornmeal, used in baking.</Cornmeal.description>
@@ -34,8 +34,8 @@
   <Rawtea.label>tea leaves</Rawtea.label>
   <Rawtea.description>Tea leaves for brewing.</Rawtea.description>
 
-  <Milk.label>milk</Milk.label>
-  <Milk.description>Milk from an animal.</Milk.description>
+  <!--[Core] <Milk.label>milk</Milk.label>-->
+  <!--[Core] <Milk.description>Milk from an animal.</Milk.description>-->
 
   <soymilk.label>soy milk</soymilk.label>
   <soymilk.description>Soy milk.</soymilk.description>
@@ -43,32 +43,38 @@
   <coconutmilk.label>coconut milk</coconutmilk.label>
   <coconutmilk.description>Milk harvested from the coconut fruit.</coconutmilk.description>
 
-  <RawHops.label>hops</RawHops.label>
-  <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>
+  <!--[Core] <RawHops.label>hops</RawHops.label>-->
+  <!--[Core] <RawHops.description>Raw hops. A flavoring and preserving agent that is necessary for making beer.</RawHops.description>-->
 
   <NeutroPetals.label>Neutro Flower Petals</NeutroPetals.label>
   <NeutroPetals.description>Beautiful Yellow-Orange Petals from the Neutro Flower. Used to make Neutroamine, a medicine base.</NeutroPetals.description>
 
-  <Hay.label>hay</Hay.label>
-  <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>
+  <!--[Core] <Hay.label>hay</Hay.label>-->
+  <!--[Core] <Hay.description>Nutrient-rich grasses and shoots, harvested and compacted for storage. Hay is good animal feed, but inedible for humans.</Hay.description>-->
 
 
   <!-- Kibble -->
 
-  <Kibble.label>kibble</Kibble.label>
-  <Kibble.description>Kibble animal feed made from mixed meat and plant sources.</Kibble.description>
+  <!--[Core] <Kibble.label>kibble</Kibble.label>-->
+  <!--[Core] <Kibble.description>Kibble animal feed made from mixed meat and plant sources. Humans can eat it, but they really, really don't like it.</Kibble.description>-->
 
   <Silage.label>silage</Silage.label>
   <Silage.description>Nutrient-rich fermented hay and grains for your animals. The fermentation process preserves the silage preventing rot.</Silage.description>
 
+  <VG_Compost.label>Compost Starter</VG_Compost.label>
+  <VG_Compost.description>Compost starter is use to make fertilizer which enhances the soil and speeds up the growth of plants.</VG_Compost.description>
+
   <RawFertilizer.label>Fertilizer</RawFertilizer.label>
-  <RawFertilizer.description>Fertilizers enhance the soil and speed up the growth of plants.</RawFertilizer.description>
+  <RawFertilizer.description>Fertilizers enhance the soil and speeds up the growth of plants.</RawFertilizer.description>
 
   <VeganEgg.label>Vegan Egg Substitute</VeganEgg.label>
   <VeganEgg.description>Vegan Egg Substitute is a egg shape product made from tofu, pumpkin, or banana. Used in place of eggs in baking and other recipes.</VeganEgg.description>
 
   <VG_PileofDirt.label>Pile of Dirt</VG_PileofDirt.label>
   <VG_PileofDirt.description>Simple soil dug out of the ground at a digging spot. Used to make fertilizer.</VG_PileofDirt.description>
+
+  <VG_Biofuel.label>biofuel</VG_Biofuel.label>
+  <VG_Biofuel.description>Fuel made from the processes of refining various types of plants for oils and alcohols. And is used to fuel generators and workbenches.</VG_Biofuel.description>
 
 
 </LanguageData>

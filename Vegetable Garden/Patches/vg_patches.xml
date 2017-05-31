@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+<Operation Class="PatchOperationSequence">
+  <success>Always</success>
+  <operations>
+    <li Class="PatchOperationTest">
+      <xpath>/TerrainDefs/TerrainDef[defName = "Mud"]/affordances</xpath>
+      <success>Invert</success>
+    </li>
+    <li Class="PatchOperationAdd">
+      <xpath>/TerrainDefs/TerrainDef[defName = "Mud"]</xpath>
+      <value>
+        <affordances />
+      </value>
+    </li>
+  </operations>
+</Operation>
+	
+<Operation Class="PatchOperationAdd">
+	  <xpath>/TerrainDefs/TerrainDef[defName = "Mud"]/affordances</xpath>
+	  <value>
+     			<li>Diggable</li>
+	  </value>
+	</Operation> 
+
+<Operation Class="PatchOperationSequence">
+  <success>Always</success>
+  <operations>
+    <li Class="PatchOperationTest">
+      <xpath>/TerrainDefs/TerrainDef[defName = "Marsh"]/affordances</xpath>
+      <success>Invert</success>
+    </li>
+    <li Class="PatchOperationAdd">
+      <xpath>/TerrainDefs/TerrainDef[defName = "Marsh"]</xpath>
+      <value>
+        <affordances />
+      </value>
+    </li>
+  </operations>
+</Operation>
+
+<Operation Class="PatchOperationAdd">
+	  <xpath>/TerrainDefs/TerrainDef[defName = "Marsh"]/affordances</xpath>
+	  <value>
+      			<li>Diggable</li>
+	  </value>
+	</Operation> 
+
+<Operation Class="PatchOperationAdd">
+<order>Append</order>
+  <xpath>*/ThingDef[DefName = "FueledSmithy"]/comps/li[contains(@Class,'CompProperties_Refuelable')]/fuelFilter/thingDefs</xpath>
+  <value>
+		 <li>Bamboo</li>
+		 <li>VG_IronWoodLog</li>
+  		 <li>VG_Biofuel</li>
+  </value>
+</Operation>
+
+<Operation Class="PatchOperationAdd">
+<order>Append</order>
+  <xpath>*/ThingDef[defName = "FueledGenerator"]/comps/li[contains(@Class,'CompProperties_Refuelable')]/fuelFilter/thingDefs</xpath>
+  <value>
+          
+		 <li>Bamboo</li>
+		 <li>VG_IronWoodLog</li>
+  		 <li>VG_Biofuel</li>
+        
+  </value>
+</Operation>
+
+
+</Patch>
+

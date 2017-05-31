@@ -13,6 +13,7 @@
   <VG_SaltMine.description>Place on rough stone for digging up salt.</VG_SaltMine.description>
   <VG_SaltMine_Blueprint.label>salt mine (blueprint)</VG_SaltMine_Blueprint.label>
   <VG_SaltMine_Frame.label>salt mine (building)</VG_SaltMine_Frame.label>
+  <VG_SaltMine_Frame.description>Place on rough stone for digging up salt.</VG_SaltMine_Frame.description>
 
 
 </LanguageData>

@@ -100,7 +100,7 @@
       <soundMeleeHitSharp>MeleeHit_Wood</soundMeleeHitSharp>
       <soundMeleeHitBlunt>MeleeHit_Wood</soundMeleeHitBlunt>
       <statOffsets>
-        <Beauty>5</Beauty>
+        <Beauty>2</Beauty>
       </statOffsets>
       <statFactors>
         <MaxHitPoints>0.75</MaxHitPoints>

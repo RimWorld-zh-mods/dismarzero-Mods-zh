@@ -4,7 +4,7 @@
 
 <RecipeDef>
 	<defName>Makesoymilk</defName>
-	<label>make two soy milks</label>
+	<label>make seven soy milks</label>
 	<description>Press beans into soy milk.</description>
 	<jobString>Pressing beans.</jobString>
 	<workSpeedStat>CookSpeed</workSpeedStat>
@@ -19,7 +19,7 @@
 	        <li>Rawbean</li>
 	      </thingDefs>
 	    </filter>
-	    <count>15</count>
+	    <count>5</count>
 	  </li>
 	</ingredients>
 	<fixedIngredientFilter>
@@ -31,7 +31,7 @@
       </specialFiltersToDisallow>
 	</fixedIngredientFilter>
 	<products>
-	  <soymilk>2</soymilk>
+	  <soymilk>7</soymilk>
 	</products>
 	<workSkill>Cooking</workSkill>
 	<recipeUsers>

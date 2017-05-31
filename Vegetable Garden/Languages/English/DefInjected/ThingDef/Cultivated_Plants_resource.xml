@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PlantSteelLeaf.label>steel shroom tree</PlantSteelLeaf.label>
+  <PlantSteelLeaf.description>Plants with natural occurring steel in it's viens. Steel shrooms can be smelted at an Electric Smelter into steel ore.</PlantSteelLeaf.description>
+
+  <PlantPlasteelLeaf.label>plasteel bulb</PlantPlasteelLeaf.label>
+  <PlantPlasteelLeaf.description>Plants with natural occurring plasteel in it's viens. Plasteel bulbs can be smelted at an Electric Smelter into plasteel ore.</PlantPlasteelLeaf.description>
+
+  <PlantGoldLeaf.label>gold fern</PlantGoldLeaf.label>
+  <PlantGoldLeaf.description>Plants with natural occurring gold in it's viens. Gold ferns can be smelted at an Electric Smelter into gold nuggets.</PlantGoldLeaf.description>
+
+  <PlantSilverLeaf.label>silver flower</PlantSilverLeaf.label>
+  <PlantSilverLeaf.description>Plants with natural occurring silver in it's viens. Silver flowers can be smelted at an Electric Smelter into silver.</PlantSilverLeaf.description>
+
+  <PlantUraniumLeaf.label>uranium root</PlantUraniumLeaf.label>
+  <PlantUraniumLeaf.description>Plants with natural occurring Uranium in it's viens. Uranium roots can be smelted at an Electric Smelter into Uranium ore.</PlantUraniumLeaf.description>
+
+
+</LanguageData>

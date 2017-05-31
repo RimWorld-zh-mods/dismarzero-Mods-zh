@@ -26,7 +26,7 @@
       <preferability>DesperateOnly</preferability>
       <foodType>Processed</foodType>
       <nutrition>0.01</nutrition>
-      <joy>0.5</joy>
+      <joy>0.07</joy>
       <drugCategory>Social</drugCategory>
      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
       <ingestSound>Meal_Eat</ingestSound>
@@ -61,7 +61,7 @@
       <preferability>DesperateOnly</preferability>
       <foodType>Processed</foodType>
       <nutrition>0.01</nutrition>
-      <joy>0.5</joy>
+      <joy>0.07</joy>
        <drugCategory>Social</drugCategory>
      <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
       <ingestSound>Meal_Eat</ingestSound>
@@ -96,7 +96,7 @@
       <preferability>DesperateOnly</preferability>
       <foodType>Processed</foodType>
       <nutrition>0.01</nutrition>
-      <joy>0.5</joy>
+      <joy>0.07</joy>
       <drugCategory>Social</drugCategory>
       <maxNumToIngestAtOnce>4</maxNumToIngestAtOnce>
       <ingestSound>Meal_Eat</ingestSound>
@@ -129,7 +129,7 @@
       <preferability>MealLavish</preferability>
 	<tasteThought>AteLavishMeal</tasteThought>
       <nutrition>0.4</nutrition>
-      <joy>0.4</joy>
+      <joy>0.05</joy>
       <ingestEffect>EatVegetarian</ingestEffect>
       <ingestSound>Meal_Eat</ingestSound>
     </ingestible>
@@ -155,7 +155,7 @@
       <ingestible>
          <preferability>MealSimple</preferability>
          <nutrition>0.6</nutrition>
-         <joy>0.4</joy>
+         <joy>0.05</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
 
@@ -182,7 +182,7 @@
       <ingestible>
          <preferability>MealSimple</preferability>
          <nutrition>0.6</nutrition>
-         <joy>0.4</joy>
+         <joy>0.05</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
 
@@ -208,11 +208,15 @@
       <ingestible>
          <preferability>NeverForNutrition</preferability>
          <nutrition>0.08</nutrition>
-         <joy>0.17</joy>
+         <joy>0.07</joy>
       <nurseable>true</nurseable>
       <drugCategory>Social</drugCategory>
       <ingestSound>Ingest_Beer</ingestSound>
-      <ingestHoldOffsetStanding>(0.18,0,0)</ingestHoldOffsetStanding>
+      <ingestHoldOffsetStanding>
+        <northDefault>
+          <offset>(0.18,0,0)</offset>
+        </northDefault>
+      </ingestHoldOffsetStanding>
       <ingestCommandString>Drink {0}</ingestCommandString>
       <ingestReportString>Drinking {0}.</ingestReportString>
       <chairSearchRadius>25</chairSearchRadius>
@@ -264,11 +268,15 @@
       <ingestible>
          <preferability>NeverForNutrition</preferability>
          <nutrition>0.08</nutrition>
-         <joy>0.17</joy>
+         <joy>0.07</joy>
       <nurseable>true</nurseable>
       <drugCategory>Social</drugCategory>
       <ingestSound>Ingest_Beer</ingestSound>
-      <ingestHoldOffsetStanding>(0.18,0,0)</ingestHoldOffsetStanding>
+      <ingestHoldOffsetStanding>
+        <northDefault>
+          <offset>(0.18,0,0)</offset>
+        </northDefault>
+      </ingestHoldOffsetStanding>
       <ingestCommandString>Drink {0}</ingestCommandString>
       <ingestReportString>Drinking {0}.</ingestReportString>
       <chairSearchRadius>25</chairSearchRadius>
@@ -318,11 +326,15 @@
       <ingestible>
          <preferability>NeverForNutrition</preferability>
          <nutrition>0.08</nutrition>
-         <joy>0.17</joy>
+         <joy>0.07</joy>
       <nurseable>true</nurseable>
       <drugCategory>Social</drugCategory>
       <ingestSound>Ingest_Beer</ingestSound>
-      <ingestHoldOffsetStanding>(0.18,0,0)</ingestHoldOffsetStanding>
+      <ingestHoldOffsetStanding>
+        <northDefault>
+          <offset>(0.18,0,0)</offset>
+        </northDefault>
+      </ingestHoldOffsetStanding>
       <ingestCommandString>Drink {0}</ingestCommandString>
       <ingestReportString>Drinking {0}.</ingestReportString>
       <chairSearchRadius>25</chairSearchRadius>
@@ -530,7 +542,6 @@
       <ingestible>
          <preferability>MealSimple</preferability>
       <nutrition>0.85</nutrition>
-         <joy>0.2</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -561,7 +572,6 @@
         <preferability>MealFine</preferability>
  		<tasteThought>AteFineMeal</tasteThought>
  	    <nutrition>0.90</nutrition>
-         <joy>0.045</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -593,7 +603,6 @@
        <preferability>MealLavish</preferability>
  	<tasteThought>AteLavishMeal</tasteThought>
      <nutrition>1.00</nutrition>
-         <joy>0.1</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -625,7 +634,6 @@
       <preferability>MealFine</preferability>
 		<tasteThought>AteFineMeal</tasteThought>
       <nutrition>0.90</nutrition>
-         <joy>0.03</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
        <outcomeDoers>
@@ -656,7 +664,6 @@
     <ingestible>
       <preferability>MealSimple</preferability>
       <nutrition>0.85</nutrition>
-      <joy>0.02</joy>
       <ingestEffect>EatVegetarian</ingestEffect>
       <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -688,7 +695,7 @@
          <preferability>MealFine</preferability>
   		<tasteThought>AteFineMeal</tasteThought>
        <nutrition>0.4</nutrition>
-         <joy>0.45</joy>
+         <joy>0.05</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -719,7 +726,7 @@
       <ingestible>
          <preferability>MealSimple</preferability>
          <nutrition>0.6</nutrition>
-         <joy>0.45</joy>
+         <joy>0.09</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -750,7 +757,7 @@
       <ingestible>
          <preferability>MealSimple</preferability>
          <nutrition>0.4</nutrition>
-         <joy>0.45</joy>
+         <joy>0.05</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -812,7 +819,6 @@
       <ingestible>
       <preferability>MealSimple</preferability>
       <nutrition>0.6</nutrition>
-         <joy>0.01</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       </ingestible>
@@ -837,7 +843,6 @@
       <ingestible>
       <preferability>MealSimple</preferability>
       <nutrition>0.60</nutrition>
-         <joy>0.01</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       </ingestible>
@@ -862,7 +867,6 @@
       <ingestible>
       <preferability>MealSimple</preferability>
       <nutrition>0.70</nutrition>
-         <joy>0.01</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       </ingestible>
@@ -1003,7 +1007,6 @@
       <ingestible>
          <preferability>MealSimple</preferability>
          <nutrition>0.6</nutrition>
-         <joy>0.045</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
        <outcomeDoers>
@@ -1035,7 +1038,7 @@
          <preferability>MealFine</preferability>
   		<tasteThought>AteFineMeal</tasteThought>
        <nutrition>0.6</nutrition>
-         <joy>0.45</joy>
+         <joy>0.05</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>
@@ -1067,7 +1070,7 @@
          <preferability>MealFine</preferability>
    		<tasteThought>AteFineMeal</tasteThought>
       <nutrition>0.6</nutrition>
-         <joy>0.45</joy>
+         <joy>0.09</joy>
          <ingestEffect>EatVegetarian</ingestEffect>
          <ingestSound>Meal_Eat</ingestSound>
       <outcomeDoers>

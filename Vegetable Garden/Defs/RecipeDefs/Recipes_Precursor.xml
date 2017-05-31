@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+
+
+	<RecipeDef Name="PrecursorBase" Abstract="True">
+		<workSpeedStat>BrewingSpeed</workSpeedStat>
+		<workSkill>Cooking</workSkill>
+		<effectWorking>Cook</effectWorking>
+		<soundWorking>Recipe_Brewing</soundWorking>
+		<allowMixingIngredients>true</allowMixingIngredients>
+		<workAmount>1000</workAmount>
+		<targetCountAdjustment>1</targetCountAdjustment>
+		<recipeUsers>
+			<li>Brewery</li>
+		</recipeUsers>
+		<skillRequirements>
+			<li>
+				<skill>Cooking</skill>
+				<minLevel>6</minLevel>
+			</li>
+		</skillRequirements>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>CPD_MakeCornWort</defName>
+		<label>make corn wort</label>
+		<description>Make wort from corn.</description>
+		<jobString>Making corn wort.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>RawCorn</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>RawCorn</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<CPD_CornWort>5</CPD_CornWort>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>CPD_MakeRiceMash</defName>
+		<label>make rice mash</label>
+		<description>Make rice mash for brewing saki.</description>
+		<jobString>Making rice mash.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>RawRice</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>RawRice</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<CPD_RiceMash>5</CPD_RiceMash>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>DistillVodka</defName>
+		<label>distill vodka</label>
+		<description>Filter and distill vodka precursor into vodka.</description>
+		<jobString>Distilling potatoes.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>CPD_VodkaPrecursor</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>CPD_VodkaPrecursor</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<vodka>5</vodka>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>CPD_MakeWineMust</defName>
+		<label>make berry wine must</label>
+		<description>Make wine must from berries.</description>
+		<jobString>Making berry must.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>RawBerries</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>RawBerries</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<CPD_WineMust>5</CPD_WineMust>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>VG_MakeGrapeMust</defName>
+		<label>make wine must</label>
+		<description>Make wine must from grapes.</description>
+		<jobString>Making wine must.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Rawgrape</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Rawgrape</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<VG_GrapeMust>5</VG_GrapeMust>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>VG_MakeCiderMust</defName>
+		<label>make cider must</label>
+		<description>Make cider must from apples.</description>
+		<jobString>Making cider must.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Rawapple</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Rawapple</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<VG_CiderMust>5</VG_CiderMust>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>VG_MakeCaneMust</defName>
+		<label>make Cane must</label>
+		<description>Make cane must from sugarcane.</description>
+		<jobString>Making cane must.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>Rawsugarcane</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>Rawsugarcane</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<VG_CaneMash>5</VG_CaneMash>
+		</products>
+	</RecipeDef>
+
+	<RecipeDef ParentName="PrecursorBase">
+		<defName>VG_MakeAgaveMust</defName>
+		<label>make Agave must</label>
+		<description>Make agave must from agave.</description>
+		<jobString>Making agave must.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>RawAgave</li>
+					</thingDefs>
+				</filter>
+				<count>25</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>RawAgave</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<products>
+			<VG_AgaveMust>5</VG_AgaveMust>
+		</products>
+	</RecipeDef>
+
+</RecipeDefs>

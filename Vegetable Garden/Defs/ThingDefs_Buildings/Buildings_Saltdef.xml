@@ -23,10 +23,10 @@
       <isResourceRock>true</isResourceRock>
       <mineableThing>ChunkSalt</mineableThing>
       <mineableYield>20</mineableYield>
-      <mineableScatterCommonality>1</mineableScatterCommonality>
+      <mineableScatterCommonality>0.01</mineableScatterCommonality>
       <mineableScatterLumpSizeRange>
         <min>5</min>
-        <max>10</max>
+        <max>25</max>
       </mineableScatterLumpSizeRange>
     </building>
   </ThingDef>
@@ -45,7 +45,7 @@
 		      <Mass>0.05</Mass>
 	     </statBases>
 	<thingCategories>
-			<li>ResourcesRaw</li>
+			<li>CookingSupplies</li>
 		</thingCategories>
 	</ThingDef>
 
