@@ -11,7 +11,7 @@
   <Oven.description>用於烘焙的石質烤爐。</Oven.description>
   <Oven_Blueprint.label>烤爐 (藍圖)</Oven_Blueprint.label>
   <Oven_Frame.label>烤爐 (建造中)</Oven_Frame.label>
-  <Oven_Frame.description>A stone oven used for baking.</Oven_Frame.description>
+  <Oven_Frame.description>用於烘焙的石質烤爐。</Oven_Frame.description>
 
   <!--[Core] <ElectricStove.label>電子料理台</ElectricStove.label>-->
   <!--[Core] <ElectricStove.description>用來烹飪食物的工作台。</ElectricStove.description>-->
@@ -23,32 +23,32 @@
   <HandCanningstove.description>用於壓榨和處理食物的手動工作台。製作簡單的物品。工作效率只有電動的40%</HandCanningstove.description>
   <HandCanningstove_Blueprint.label>食物加工台（燃料） (藍圖)</HandCanningstove_Blueprint.label>
   <HandCanningstove_Frame.label>食物加工台（燃料） (建造中)</HandCanningstove_Frame.label>
-  <HandCanningstove_Frame.description>An unpowered version of the canning stove, food press, and prep table. Makes simple items. Requires 40% work to make items here.</HandCanningstove_Frame.description>
+  <HandCanningstove_Frame.description>用於壓榨和處理食物的手動工作台。製作簡單的物品。工作效率只有電動的40%</HandCanningstove_Frame.description>
 
   <Canningstove.label>食物加工台（電動）</Canningstove.label>
   <Canningstove.description>用於壓榨和處理食物的電動工作台。</Canningstove.description>
   <Canningstove_Blueprint.label>食物加工台（電動） (藍圖)</Canningstove_Blueprint.label>
   <Canningstove_Frame.label>食物加工台（電動） (建造中)</Canningstove_Frame.label>
-  <Canningstove_Frame.description>An electric canning stove, food press, and prep table.</Canningstove_Frame.description>
+  <Canningstove_Frame.description>用於壓榨和處理食物的電動工作台。</Canningstove_Frame.description>
 
   <FueledCandyTable.label>糖果桌（燃料）</FueledCandyTable.label>
   <FueledCandyTable.description>製作甜美的糖果。</FueledCandyTable.description>
   <FueledCandyTable_Blueprint.label>糖果桌（燃料） (藍圖)</FueledCandyTable_Blueprint.label>
   <FueledCandyTable_Frame.label>糖果桌（燃料） (建造中)</FueledCandyTable_Frame.label>
-  <FueledCandyTable_Frame.description>Makes sweet treates.</FueledCandyTable_Frame.description>
+  <FueledCandyTable_Frame.description>製作甜美的糖果。</FueledCandyTable_Frame.description>
 
   <CandyTable.label>糖果桌（電動）</CandyTable.label>
   <CandyTable.description>製作甜美的糖果。</CandyTable.description>
   <CandyTable_Blueprint.label>糖果桌（電動） (藍圖)</CandyTable_Blueprint.label>
   <CandyTable_Frame.label>糖果桌（電動） (建造中)</CandyTable_Frame.label>
-  <CandyTable_Frame.description>Makes sweet treates.</CandyTable_Frame.description>
+  <CandyTable_Frame.description>製作甜美的糖果。</CandyTable_Frame.description>
 
   <CookingTools.label>烹飪工具櫃</CookingTools.label>
   <CookingTools.description>提高工作效率15%。需要放置在爐灶等烹飪類工作台旁。可加速周圍的所有烹飪工作台。</CookingTools.description>
   <CookingTools_Blueprint.label>烹飪工具櫃 (藍圖)</CookingTools_Blueprint.label>
   <CookingTools_Blueprint_Install.label>烹飪工具櫃 (藍圖)</CookingTools_Blueprint_Install.label>
   <CookingTools_Frame.label>烹飪工具櫃 (建造中)</CookingTools_Frame.label>
-  <CookingTools_Frame.description>Increases work speed 14%. Needs to be placed near cooking tops. Will boost the cook speed of all tables near by.</CookingTools_Frame.description>
+  <CookingTools_Frame.description>提高工作效率15%。需要放置在爐灶等烹飪類工作台旁。可加速周圍的所有烹飪工作台。</CookingTools_Frame.description>
 
   <!--[Core] <Campfire.label>篝火</Campfire.label>-->
   <!--[Core] <Campfire.description>一個能夠持續燃燒數天的臨時取暖設備，必須放置在室內才能有效的溫暖空間。</Campfire.description>-->
@@ -60,19 +60,19 @@
   <Outdoorlight.description>可以抵禦各種惡劣天氣的光源。</Outdoorlight.description>
   <Outdoorlight_Blueprint.label>戶外燈 (藍圖)</Outdoorlight_Blueprint.label>
   <Outdoorlight_Frame.label>戶外燈 (建造中)</Outdoorlight_Frame.label>
-  <Outdoorlight_Frame.description>A light source which is weather proof.</Outdoorlight_Frame.description>
+  <Outdoorlight_Frame.description>可以抵禦各種惡劣天氣的光源。</Outdoorlight_Frame.description>
 
   <GrindStone.label>石磨</GrindStone.label>
   <GrindStone.description>用於快速研磨植物原料的手動小型石磨。</GrindStone.description>
   <GrindStone_Blueprint.label>石磨 (藍圖)</GrindStone_Blueprint.label>
   <GrindStone_Frame.label>石磨 (建造中)</GrindStone_Frame.label>
-  <GrindStone_Frame.description>A small muscle-powered grinding stone for quickly grinding raw plants.</GrindStone_Frame.description>
+  <GrindStone_Frame.description>用於快速研磨植物原料的手動小型石磨。</GrindStone_Frame.description>
 
   <TableLoom.label>紡織機</TableLoom.label>
   <TableLoom.description>用於將纖維原料紡織成布匹的工作台。</TableLoom.description>
   <TableLoom_Blueprint.label>紡織機 (藍圖)</TableLoom_Blueprint.label>
   <TableLoom_Frame.label>紡織機 (建造中)</TableLoom_Frame.label>
-  <TableLoom_Frame.description>A tailor's table used to spin raw materials into usable cloth.</TableLoom_Frame.description>
+  <TableLoom_Frame.description>用於將纖維原料紡織成布匹的工作台。</TableLoom_Frame.description>
 
 
 </LanguageData>
